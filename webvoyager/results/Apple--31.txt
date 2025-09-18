@@ -1,0 +1,6 @@
+Result:
+- Latest Apple Watch Series: Apple Watch Series 11
+- Slogan: “The ultimate way to watch your health.”
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Apple--31/screenshot_1758061411.png

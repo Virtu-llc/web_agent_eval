@@ -1,0 +1,12 @@
+Here’s what I did and found:
+
+- Visited https://arxiv.org/
+- Opened Advanced Search
+- Set Field to search = Title and entered the term: SimCSE
+- Submitted the advanced search
+
+Result:
+- The page displays: “Showing 1–5 of 5 results”
+- Therefore, the number of articles on arXiv with “SimCSE” in the title is 5.
+
+Screenshot saved: test_cases/result_with_screenshot_small/ArXiv--13/screenshot_1758101291.png

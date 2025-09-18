@@ -1,0 +1,22 @@
+Task completed on Coursera.
+
+Found beginner-level relativity course:
+- Course: Understanding Einstein: The Special Theory of Relativity (Stanford University)
+- Level: Beginner
+- Link: https://www.coursera.org/learn/einstein-relativity
+
+Main topics (modules):
+1) Introduction to the Course, and Einstein in Context
+2) Events, Clocks, and Reference Frames
+3) Ethereal Problems and Solutions
+4) The Weirdness Begins
+5) Spacetime Switches
+6) Breaking the Spacetime Speed Limit
+7) Paradoxes to Ponder
+8) To the Center of the Galaxy and Back
+
+Estimated time to complete:
+- 77 hours total (sum of module durations shown on the course page: 4 + 11 + 10 + 12 + 13 + 10 + 8 + 9 hours)
+- Also noted on page: “2 months at 10 hours a week”
+
+Screenshot taken (attached).

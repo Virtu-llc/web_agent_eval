@@ -1,0 +1,10 @@
+Here is the latest paper in the Statistics > Machine Learning (stat.ML) section on arXiv, along with its abstract.
+
+Title: The Morgan-Pitman Test of Equality of Variances and its Application to Machine Learning Model Evaluation and Selection
+Authors: Argimiro Arratia, Alejandra Cabaña, Ernesto Mordecki, Gerard Rovira-Parra
+(arXiv:2509.12185 [stat.ML], submitted 15 Sep 2025)
+
+Abstract:
+Model selection in non-linear models often prioritizes performance metrics over statistical tests, limiting the ability to account for sampling variability. We propose the use of a statistical test to assess the equality of variances in forecasting errors. The test builds upon the classic Morgan-Pitman approach, incorporating enhancements to ensure robustness against data with heavy-tailed distributions or outliers with high variance, plus a strategy to make residuals from machine learning models statistically independent. Through a series of simulations and real-world data applications, we demonstrate the test's effectiveness and practical utility, offering a reliable tool for model evaluation and selection in diverse contexts.
+
+Screenshot saved: test_cases/result_with_screenshot_small/ArXiv--20/screenshot_1757999083.png

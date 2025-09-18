@@ -1,0 +1,11 @@
+Here’s what I did:
+- Opened Google Maps
+- Searched for “New York’s Central Park Zoo” and opened the place page
+- Clicked Share to open the share dialog
+- Retrieved the generated sharing link
+
+Generated sharing link:
+https://maps.app.goo.gl/KWiSraumiybTVvHZ9
+
+Screenshot taken at the final step (Share dialog visible):
+test_cases/result_with_screenshot_small/Google Map--31/screenshot_1758150873.png

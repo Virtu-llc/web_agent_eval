@@ -1,0 +1,23 @@
+Task completed. I found a Python machine learning repository specifically focused on decision trees, updated within the last 2 days, and captured a screenshot.
+
+Result
+- Repository: AntoinePinto/custom-decision-trees
+- URL: https://github.com/AntoinePinto/custom-decision-trees
+- Description: A package for building customizable decision trees and random forests.
+- Primary language: Python
+- Open-source license: MIT license (shown on the repository page)
+- Recent activity: Updated yesterday (from the search results page filtered by pushed:>2025-09-15)
+
+Screenshot
+- Saved to: test_cases/result_with_screenshot_small/GitHub--1/screenshot_1758152606.png
+
+What I did
+- Navigated to GitHub and searched for “decision tree” repositories.
+- Applied filters for:
+  - Language: Python
+  - Updated within last 2 days using pushed:>2025-09-15
+- Selected a repository matching:
+  - Python ML focus on decision trees
+  - Open-source (MIT license)
+  - Updated within the last 2 days
+- Opened the repository page and took a screenshot.

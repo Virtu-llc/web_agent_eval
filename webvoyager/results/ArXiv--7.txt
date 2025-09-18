@@ -1,0 +1,12 @@
+Task completed.
+
+Most recent Machine Learning (Computer Science) paper on arXiv
+- Title: WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning
+- arXiv ID: 2509.13305
+- Category: cs.LG (Machine Learning); also lists cs.CL (Computation and Language)
+- Authors: Kuan Li; Zhongwang Zhang; Huifeng Yin; Rui Ye; Yida Zhao; Liwen Zhang; Litu Ou; Dingchu Zhang; Xixi Wu; Jialong Wu; Xinyu Wang; Zile Qiao; Zhen Zhang; Yong Jiang; Pengjun Xie; Fei Huang; Jingren Zhou
+- Submitted on: Tue, 16 Sep 2025 17:57:03 UTC
+- URL: https://arxiv.org/abs/2509.13305
+
+Screenshot
+- Saved to: test_cases/result_with_screenshot_small/ArXiv--7/screenshot_1758098790.png

@@ -1,0 +1,13 @@
+Task completed
+
+Project found:
+- Repository: valora-inc/wallet
+- Description: The official repository for the Valora mobile cryptocurrency wallet.
+- Updated: Within the last 30 days (search filter used: pushed:>2025-08-17)
+
+Top three contributors (by total commits on the Contributors page):
+1) renovate[bot] — 772 commits
+2) kathaypacific — 702 commits
+3) MuckT — 683 commits
+
+Screenshot captured: test_cases/result_with_screenshot_small/GitHub--6/screenshot_1757982013.png

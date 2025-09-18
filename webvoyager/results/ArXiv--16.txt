@@ -1,0 +1,17 @@
+Result found and summarized from arXiv this week
+
+Article details
+- Title: Towards detecting the time perturbations from GWs in asynchronous gauges
+- Authors: Stefano Bondani; Sergio Luigi Cacciatori
+- arXiv ID: 2509.13321 [gr-qc]
+- Date submitted: 16 September 2025
+- Link: https://arxiv.org/abs/2509.13321
+
+Brief summary of main findings
+- Concept: The paper explores detecting gravitational waves (GWs) via their effect on the time-time component of the metric in asynchronous gauges—manifesting as a measurable desynchronization between a perturbed clock and a reference clock.
+- Approach: The authors survey current high-precision timing technologies and information-preservation methods required to realize geodesic non-locality and evaluate feasibility.
+- Prototype concept: They synthesize a feasible detector design targeting timing perturbations, identifying an optimal operational band around ~1 Hz.
+- Implications: Such a detector could access sources otherwise challenging for current ground-based observatories, including intermediate-mass black hole binaries, opening a complementary observational window for GW astronomy.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/ArXiv--16/screenshot_1758136839.png

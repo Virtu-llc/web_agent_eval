@@ -1,0 +1,12 @@
+Task accomplished on Wolfram|Alpha: Queried “geomagnetic field on June 20, 2023 in Oslo” and captured the results.
+
+What I found (Assuming Oslo, Norway; date Tuesday, June 20, 2023):
+- Magnetic declination: 4.51° E
+- Magnetic dip (inclination): 72.888°
+- Geomagnetic field strength (predicted values from WMM 2020, excluding local perturbations):
+  - Total field: +51.5 μT
+  - x component (north): +15.1 μT
+  - y component (east): +1.19 μT
+  - z component (down): +49.2 μT
+
+Screenshot saved: test_cases/result_with_screenshot_small/Wolfram Alpha--10/screenshot_1758156954.png

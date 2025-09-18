@@ -1,0 +1,15 @@
+Task completed on Cambridge Dictionary.
+
+Word: ubiquitous
+
+UK English
+- Pronunciation: /juːˈbɪk.wɪ.təs/
+- Definition: seeming to be everywhere:
+- Example: Leather is very much in fashion this season, as is the ubiquitous denim.
+
+US English
+- Pronunciation: /juːˈbɪk.wə.t̬əs/
+- Definition: found or existing everywhere:
+- Example: The eel grass limpet used to be ubiquitous on the New England coast.
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--2/screenshot_1758160201.png

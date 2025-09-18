@@ -1,0 +1,14 @@
+Task completed:
+- Visited Google Maps and searched for “bus stops” near Alanson, MI using the Nearby search.
+- Opened the detailed page for the Alanson bus stop and captured a screenshot.
+
+Bus stop found in Alanson, MI (from Google Maps):
+- Name: Alanson, MI (EZ-Mart)
+  - Category: Bus station
+  - Address: Alanson, MI 49706
+  - Accessibility: Station is accessible (wheelchair icon shown)
+  - Buses: 1484, 1488
+  - Reference link shown: indiantrails.com (as displayed in the place details)
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Google Map--7/screenshot_1758111147.png

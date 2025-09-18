@@ -1,0 +1,12 @@
+Results found on Hugging Face (Datasets > Tasks: Text Retrieval, sorted by Most downloads):
+- Most downloaded dataset: google/xtreme
+- Downloads (shown on card): 15.4k
+
+What I did:
+- Opened huggingface.co
+- Navigated to Datasets
+- Applied the Tasks filter: Text Retrieval
+- Set sorting to Most downloads
+- Identified the top result by downloads (google/xtreme)
+
+Screenshot taken: test_cases/result_with_screenshot_small/Huggingface--27/screenshot_1758148785.png

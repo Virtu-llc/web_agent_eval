@@ -1,0 +1,9 @@
+Here are the verified details for the most recent UEFA Champions League final, sourced from Wikipedia:
+
+- When: 31 May 2025
+- Where: Allianz Arena, Munich, Germany
+- Winner: Paris Saint-Germain (PSG) — they won 5–0 against Inter Milan
+
+Source: 2025 UEFA Champions League final - Wikipedia (page content shows the date, venue, and winner in the infobox and opening paragraph).
+
+Screenshot: test_cases/result_with_screenshot_small/Google Search--32/screenshot_1758075853.png

@@ -1,0 +1,15 @@
+Here’s a beginner-level Coursera Specialization that gives an overview of Renewable Energy and includes a course on “Renewable Energy Futures”:
+
+- Specialization: Renewable Energy (University of Colorado Boulder)
+- Level: Beginner level (shown on the page)
+- Contains “Renewable Energy Futures”: Yes — listed as Course 4 in the series
+  - Course list and hours shown:
+    - Course 1: Renewable Energy Technology Fundamentals — 12 hours
+    - Course 2: Renewable Power and Electricity Systems — 12 hours
+    - Course 3: Renewable Energy Projects — 14 hours
+    - Course 4: Renewable Energy Futures — 16 hours
+- Instructor(s): Stephen R. Lawrence (also shows +1 more; Paul Komor is displayed in the header as the second instructor)
+- Estimated weeks at 5 hours/week: Approximately 11 weeks total
+  - Basis: 12 + 12 + 14 + 16 = 54 hours total; 54 ÷ 5 ≈ 10.8 weeks (≈11 weeks)
+
+Screenshot: Attached (shows the specialization page with Beginner level, the courses list including “Course 4: Renewable Energy Futures,” and instructor information).

@@ -1,0 +1,11 @@
+Actions taken:
+- Visited https://www.google.com/
+- Searched for: “next solar eclipse in North America and the one after that”
+- Reviewed the Google results and extracted the dates shown on the SERP.
+
+Findings from the Google results:
+- Next visible solar eclipse in North America: August 12, 2026 — shown under “Solar and Lunar Eclipses in North America – Next 10 Years” (timeanddate.com snippet: “Featured in Coming Years · 1 Aug 12, 2026 · Total Solar Eclipse”).
+- The one after that: August 2, 2027 — same source snippet shows “· 2 Aug 2, 2027 · Total Solar Eclipse.”
+
+Screenshot:
+- Saved a screenshot of the results page: test_cases/result_with_screenshot_small/Google Search--38/screenshot_1758076413.png

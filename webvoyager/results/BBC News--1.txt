@@ -1,0 +1,20 @@
+Here’s the latest health-related news article I found on BBC News and its key points.
+
+Article
+- Title: Bibby Stockholm death: Leonard Farruku had mental health ‘struggles’
+- URL: https://www.bbc.com/news/articles/cy0vjn5qqp1o
+- Section: Dorset (BBC News)
+- Published: 12 hours ago (as shown on the page)
+
+Key points
+- Family concerns over placement: The family of 27-year-old Albanian man Leonard Farruku questioned how someone with his mental health issues was housed on the Bibby Stockholm accommodation barge.
+- Circumstances of death: Farruku was found unresponsive in a shower cubicle onboard the barge at Portland Port, Dorset, on 12 December 2023.
+- Mental health background: His sister told the inquest that he had “struggled” since the deaths of their parents in 2013 and 2018, becoming withdrawn.
+- Earlier living situation: After arriving in the UK, he first stayed with cousins; later he was placed in a Home Office hotel, where he grew upset and “seemed to be feeling down more,” and stopped responding to messages in August 2023.
+- Move to barge unknown to family: His sister said she had “no idea” he had been moved to the Bibby Stockholm.
+- Post-mortem findings: The inquest heard he died due to compression to the neck and suspension by ligature. A previous hearing said there were “no suspicious circumstances.”
+- Inquest status: The inquest is ongoing.
+- Additional context from cousin: He arrived in the UK by boat from France, was processed at Heathrow, then supported into hotel accommodation with help from Migrant Help.
+
+Screenshot
+A screenshot of the article page has been captured: test_cases/result_with_screenshot_small/BBC News--1/screenshot_1757994643.png

@@ -1,0 +1,25 @@
+Here’s what I found for Denver International Airport on Google Maps:
+
+1) Review level with the least proportion
+- 2-star reviews have the smallest share: 2,284 reviews
+- Other levels shown for reference:
+  - 5-star: 27,242
+  - 4-star: 11,534
+  - 3-star: 4,457
+  - 1-star: 4,681
+
+2) Accessibility
+- Assistive hearing loop
+- Wheelchair accessible entrance
+- Wheelchair accessible parking lot
+- Wheelchair accessible restroom
+- Wheelchair accessible seating
+
+Amenities
+- Baggage storage
+- Gender-neutral restroom
+- Restroom
+- Wi‑Fi
+- Free Wi‑Fi
+
+Screenshot captured: test_cases/result_with_screenshot_small/Google Map--33/screenshot_1758067981.png

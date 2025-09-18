@@ -1,0 +1,6 @@
+Result from WolframAlpha
+- Fat burned (approx.): 0.17 lb (pounds)
+
+Context: This is shown in the “Metabolic properties” pod for the query “Approximate amount of fat burned by a 28yo, 172cm tall, 70kg woman running for 30min at a pace of 6min/mile.”
+
+Screenshot captured: test_cases/result_with_screenshot_small/Wolfram Alpha--40/screenshot_1758155693.png

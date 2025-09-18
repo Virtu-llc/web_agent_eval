@@ -1,0 +1,13 @@
+Task completed.
+
+What I did:
+- Visited https://github.com/
+- Clicked Sign up in the header
+- Entered the email: test123@gmail.com on the GitHub Sign up page and moved focus to trigger validation
+- Captured a screenshot of the result
+
+Result shown on the page:
+- “The email you have provided is already associated with an account. Sign in or reset your password.”
+
+Screenshot:
+- Saved at: test_cases/result_with_screenshot_small/GitHub--40/screenshot_1758110851.png

@@ -1,0 +1,9 @@
+Task completed on Wolfram|Alpha.
+
+Query entered: convergence of sum from n=1 to infinity 1/(n^3+1)
+
+Result observed on the page:
+- Approximated sum: ≈ 0.686491
+- Therefore, the series Σ (n=1 to ∞) 1/(n^3 + 1) converges (finite sum displayed).
+
+Screenshot: test_cases/result_with_screenshot_small/Wolfram Alpha--36/screenshot_1758160612.png

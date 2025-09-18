@@ -1,0 +1,11 @@
+Here are the 2023 average movie ticket prices (mean) from Wolfram|Alpha for the requested cities:
+- Providence (Rhode Island): $14.37
+- Nashville (Tennessee): $13.30
+- Boise (Idaho): $11.60
+
+Notes:
+- Based on C2ER retail price survey (Quarter 1–Quarter 4, 2023).
+- Wolfram|Alpha assumed Providence (Rhode Island, USA) and Nashville (Tennessee, USA).
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Wolfram Alpha--17/screenshot_1758148244.png

@@ -1,0 +1,33 @@
+Here’s what I did:
+- Opened Booking.com
+- Searched for hotels in Rio de Janeiro with dates March 1–7, 2026
+- Opened the results page Filters and expanded the Brands section
+- Read all brand options with their property counts
+
+Brands (with counts) observed:
+- Windsor: 15
+- ibis: 9
+- Rede Mirador: 9
+- Rede Atlântico: 6
+- Novotel: 5
+- B&B Hotels: 4
+- ibis Budget: 4
+- Wyndham Hotels & Resorts: 2
+- Mercure: 2
+- Hilton Hotels & Resorts: 2
+- Othon: 2
+- Nacional Inn: 2
+- Promenade: 2
+- Intercity Hoteis: 2
+- Andrade Hoteis: 2
+- Laghetto Hotéis: 2
+- Che Lagarto: 2
+- Socialtel: 2
+- Days Inn: 1
+- Courtyard by Marriott: 1
+
+Answer:
+- Most hotels: Windsor (15)
+- Fewest hotels: tie between Days Inn (1) and Courtyard by Marriott (1)
+
+Screenshot saved: test_cases/result_with_screenshot_small/Booking--31/screenshot_1758027297.png

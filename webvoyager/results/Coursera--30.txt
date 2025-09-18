@@ -1,0 +1,19 @@
+Task completed.
+
+What I did:
+- Navigated to Coursera and searched for “Modern Art & Ideas”.
+- Opened the course page “Modern Art & Ideas” offered by The Museum of Modern Art.
+- Scrolled to the Learner reviews section and captured the ratings distribution and a screenshot.
+
+Findings from the course page:
+- Ratings distribution:
+  - 5 stars: 82.95%
+  - 4 stars: 13.35%
+  - 3 stars: 2.47%
+  - 2 stars: 0.61%
+  - 1 star: 0.61%
+- Rounded 3-star percentage: 2%
+- Lowest percentage star level: 1-star and 2-star (tie at 0.61%)
+
+Screenshot:
+- Saved with the ratings breakdown visible: test_cases/result_with_screenshot_small/Coursera--30/screenshot_1758146757.png

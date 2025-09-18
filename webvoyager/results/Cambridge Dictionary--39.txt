@@ -1,0 +1,12 @@
+What I did
+- Navigated to dictionary.cambridge.org
+- Opened the Cambridge Dictionary +Plus section
+- Launched the Word Scramble game (+Plus > Games > Word Scramble)
+- Opened the in‑page game overlay and made an initial attempt on the first puzzle (typed and submitted an answer to try to beat the clock)
+
+Screenshot
+- I captured the screen after my first attempt inside the game overlay:
+  - File: screenshot_1758150867.png
+
+Notes
+- The game runs inside an overlay iframe on the +Plus page; I clicked into the game, typed an answer, and submitted it to try the first example, then took the final screenshot.

@@ -1,0 +1,21 @@
+Here’s what I did:
+- Opened https://github.com
+- Navigated via Open Source → Trending
+- Set filters: Language = Python; Date range = Today
+- Collected the top trending Python repositories (as shown by GitHub’s Trending page), including their “stars today”
+- Took a screenshot
+
+Trending Python repositories (Today) with stars today:
+1) microsoft/markitdown — 1,909 stars today
+2) Alibaba-NLP/DeepResearch — 540 stars today
+3) dataease/SQLBot — 378 stars today
+4) virattt/ai-hedge-fund — 259 stars today
+5) sansan0/TrendRadar — 256 stars today
+6) ccxt/ccxt — 228 stars today
+7) unslothai/unsloth — 70 stars today
+8) facebookresearch/detectron2 — 43 stars today
+9) apache/airflow — 29 stars today
+10) google-research/timesfm — 19 stars today
+
+Screenshot:
+test_cases/result_with_screenshot_small/GitHub--2/screenshot_1758153651.png

@@ -1,0 +1,7 @@
+Here are the cheapest one-way flight details from London to Paris on November 25, 2025, found on Google Flights:
+
+- Airline: easyJet
+- Total travel time: 1 hr 20 min
+- Layovers: Nonstop (no layovers)
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Flights--19/screenshot_1758142314.png

@@ -1,0 +1,16 @@
+Result
+- Site: arXiv
+- Paper: GPT-4 Technical Report (HTML format)
+- Location: Introduction section on the HTML page
+
+Answer (verbatim from the Introduction):
+"One of the main goals of developing such models is to improve their ability to understand and generate natural language text, particularly in more complex and nuanced scenarios."
+
+What I did
+- Visited arXiv.org
+- Searched for “GPT-4 Technical Report” and opened the paper’s abstract page
+- Accessed the HTML version via the “HTML (experimental)” link
+- Navigated to the Introduction section and extracted the requested sentence
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/ArXiv--39/screenshot_1758035140.png

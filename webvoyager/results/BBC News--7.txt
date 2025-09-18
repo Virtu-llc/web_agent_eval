@@ -1,0 +1,6 @@
+Result:
+- Section: Technology of Business
+- Story: AI challenges the dominance of Google search
+- First picture description (from the article’s caption/alt text): Smiling, with long dark hair Anja-Sara Lahady stands in front of pink cushions.
+
+Screenshot: test_cases/result_with_screenshot_small/BBC News--7/screenshot_1758008077.png

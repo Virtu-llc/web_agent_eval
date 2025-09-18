@@ -1,0 +1,9 @@
+Task completed: Found a Best Buy store near ZIP code 33139 on Google Maps and captured a screenshot.
+
+Results extracted from the page:
+- Store name: Best Buy
+- Address: 1131 5th St, Miami Beach, FL 33139
+- Phone: (305) 535-8539
+
+Screenshot:
+- File saved to: test_cases/result_with_screenshot_small/Google Map--22/screenshot_1757983378.png

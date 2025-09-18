@@ -1,0 +1,33 @@
+Task accomplished on Allrecipes.
+
+Found recipe: Vegan Brownies
+URL: https://www.allrecipes.com/recipe/68436/vegan-brownies/
+- Rating: 4.6/5 (meets ≥4.5)
+- Reviews: 836 (meets ≥40)
+- Ratings count shown: 968
+
+Times
+- Prep: 15 mins
+- Cook: 30 mins
+- Additional: 10 mins
+- Total: 55 mins
+
+Ingredients
+- 2 cups all-purpose flour
+- 2 cups granulated white sugar
+- 3/4 cup good-quality unsweetened cocoa powder, sifted
+- 1 teaspoon baking powder
+- 3/4 teaspoon salt
+- 1 cup hot water or coffee
+- 1/2 cup vegetable oil
+- 2 teaspoons vanilla extract
+
+Brief overview of preparation steps
+- Whisk dry ingredients (flour, sugar, cocoa, baking powder, salt) together in a large bowl.
+- Add wet ingredients (hot water or coffee, oil, vanilla) and stir until well blended.
+- Pour batter into a greased, parchment-lined 9x13-inch baking dish; spread evenly.
+- Bake at 350°F (175°C) until the top is no longer shiny and the center feels just set, about 30 minutes.
+- Let cool at least 10 minutes before cutting into 15 squares.
+
+Screenshot saved
+- File: test_cases/result_with_screenshot_small/Allrecipes--28/screenshot_1758015843.png

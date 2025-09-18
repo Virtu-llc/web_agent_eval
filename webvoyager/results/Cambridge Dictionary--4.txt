@@ -1,0 +1,7 @@
+Task completed on Cambridge Dictionary.
+
+- Word: innovate
+- British English IPA: /ˈɪn.ə.veɪt/
+- Example sentence: The fashion industry is always desperate to innovate.
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--4/screenshot_1757995590.png

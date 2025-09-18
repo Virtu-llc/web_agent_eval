@@ -1,0 +1,14 @@
+Task accomplished: I searched on Booking.com for stays in Sydney, set the dates to March 10–14, 2026 (4 nights), and applied filters for:
+- Review score: Very Good (8+) or higher
+- Amenities: Free WiFi and Parking
+
+Result found:
+- Shangri-La Sydney
+  - Rating: 8.7 (meets 8+ requirement)
+  - Dates: Tue, Mar 10 — Sat, Mar 14, 2026 (4 nights)
+  - Filters applied: Free WiFi and Parking
+  - “See availability” is shown for these dates on the results page
+  - Listed price shown on the results page at time of search: $1,253 (for 4 nights, 2 adults; pricing subject to change)
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Booking--21/screenshot_1758147752.png

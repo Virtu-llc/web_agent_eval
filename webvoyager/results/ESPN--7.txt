@@ -1,0 +1,7 @@
+Here are the latest Los Angeles Lakers game details from ESPN:
+
+- Final score: Minnesota Timberwolves 103, Los Angeles Lakers 96
+- Game context: West 1st Round — Game 5 (MIN wins series 4-1)
+- Brief summary (ESPN/AP): “Rudy Gobert dominates small-ball Lakers and the Timberwolves advance with a 103-96 win in Game 5 — The Minnesota Timberwolves spent Game 5 in a dismal shooting funk, providing the Los Angeles Lakers with ample opportunity to stave off playoff elimination.” (Apr 30, 2025, 11:24 pm – AP)
+
+Screenshot captured: test_cases/result_with_screenshot_small/ESPN--7/screenshot_1758151196.png

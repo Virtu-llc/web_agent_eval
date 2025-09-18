@@ -1,0 +1,31 @@
+Actions taken:
+- Navigated to BBC News and opened the World > Africa section.
+- Collected the most recent articles listed on the Africa page’s “Latest updates.”
+- Summarized the dominant topics across those recent pieces.
+- Took a screenshot of the final page.
+
+Recent articles (as shown under “Latest updates” on the Africa page):
+- 4 hrs ago — Chinese-linked mining firms sued over ‘ecological catastrophe’ in Zambia
+- 5 hrs ago — Fears balloon of a return to civil war in South Sudan over treason trial
+- 6 hrs ago — Malawians await presidential poll result in vote dominated by economic woes
+- 6 hrs ago — What is at stake in Malawi’s elections as cost-of-living bites?
+- 7 hrs ago — TikTokers arrested for insulting Somalia’s president in a dance video
+- 10 hrs ago — Kenya issues arrest warrant for British national over young mother’s murder
+- 16 hrs ago — Nigerian chef breaks world record for largest jollof rice dish
+- 1 day ago — Police forcibly remove Gambian auditor general in reshuffle row
+- 1 day ago — Men jailed for witchcraft murder plot against Zambia’s president
+
+What most of these are about (topic summary):
+- Politics, elections, and governance (most prominent): South Sudan treason-trial tensions; Malawi elections (2 articles: results and what’s at stake with cost-of-living); Gambia auditor-general reshuffle.
+- Crime and justice: Kenya arrest warrant in a 2012 murder case; men jailed for a witchcraft plot against Zambia’s president.
+- Social media and speech: TikTokers arrested in Somalia over a dance video.
+- Environment and industry: Zambia lawsuit over alleged mining pollution.
+- Human interest: Nigerian chef’s record-breaking jollof rice.
+
+Overall, the Africa section’s latest updates are dominated by:
+- Political developments and elections/civil governance issues (South Sudan, Malawi, Gambia) — the largest share.
+- Law-and-order/criminal justice stories (Kenya, Zambia).
+Other notable strands include online speech/social media enforcement (Somalia), environmental accountability (Zambia mining), and a positive human-interest milestone (Nigeria).
+
+Screenshot:
+- Saved a screenshot of the Africa page: test_cases/result_with_screenshot_small/BBC News--36/screenshot_1758057359.png

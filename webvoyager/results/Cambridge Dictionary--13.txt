@@ -1,0 +1,9 @@
+Here’s what I found on Cambridge Dictionary (euphoria entry) under “SMART Vocabulary: related words and phrases” (Pleasure and happiness):
+
+- Word: joy
+- Phrase: for fun (labelled “phrase”)
+- Idiom: bed of roses (labelled “idiom”)
+
+I’ve taken a screenshot of the page showing the related words/phrases section.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--13/screenshot_1758005144.png

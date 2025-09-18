@@ -1,0 +1,18 @@
+Task completed on Booking.com.
+
+Filters and dates applied:
+- Destination: Melbourne
+- Dates: Sat, Feb 28 – Wed, Mar 4, 2026 (4 nights)
+- Filters: Free WiFi, Free parking
+
+Located hotel that matches:
+- Name: Toorak Manor Hotel Free Parking
+- Location: Melbourne (about 3.2 miles from Melbourne Central Business District)
+- Rating: 8.4 (Very Good), 1,358 reviews
+- Room: Standard Queen Room (1 queen bed)
+- Cancellation: Free cancellation (as shown)
+- Total price for 4 nights (2 adults): $432
+- Amenities: Free WiFi and Free parking (per applied filters)
+
+Screenshot: Attached (shows the filtered search results page with the hotel visible).
+Filename: test_cases/result_with_screenshot_small/Booking--27/screenshot_1758042133.png

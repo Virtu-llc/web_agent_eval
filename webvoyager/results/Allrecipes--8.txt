@@ -1,0 +1,23 @@
+I found a Beef Wellington recipe on Allrecipes that meets your criteria. Details and ingredients are below, and I captured a screenshot of the recipe page.
+
+Recipe selected:
+- Title: Beef Wellington
+- URL: https://www.allrecipes.com/recipe/16899/beef-wellington/
+- Average Rating: 4.7
+- Reviews: 258 (362 ratings)
+
+Main ingredients (as listed on the recipe page):
+- 2 ½ pounds beef tenderloin
+- 4 tablespoons butter, softened, divided
+- 2 tablespoons butter
+- 1 onion, chopped
+- ½ cup sliced fresh mushrooms
+- 2 ounces liver paté
+- Salt and pepper to taste
+- 1 (17.5 ounce) package frozen puff pastry, thawed
+- 1 large egg yolk, beaten
+- 1 (10.5 ounce) can beef broth
+- 2 tablespoons red wine
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--8/screenshot_1758003532.png

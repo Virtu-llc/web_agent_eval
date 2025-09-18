@@ -1,0 +1,27 @@
+Here’s what I did:
+- Opened Google Flights and set the route to New York → London
+- Set round-trip dates to departing January 10, 2026 and returning January 17, 2026
+- Loaded the results and identified the cheapest available round-trip fare
+- Captured a screenshot at the final results view
+
+Lowest round‑trip fare found:
+- Price: $410 (round trip total)
+- Airlines: Iberia + Vueling (operated by Iberia for LEVEL)
+- Stops: 1 stop (long overnight layover in Barcelona on outbound)
+- Outbound example shown: JFK 11:45 PM Sat Jan 10 → LHR 9:10 AM Mon Jan 12 (total outbound duration 28 hr 25 min; includes ~18 hr 10 min overnight layover in Barcelona)
+- Note: Return details appear after selecting the itinerary; Google lists these as “Other departing flights” with round‑trip totals for the complete itinerary.
+
+Other notable cheaper options:
+- $439 — 1 stop (Iberia + Vueling), JFK 11:45 PM Sat Jan 10 → LGW 7:25 PM Sun Jan 11 (total outbound 14 hr 40 min; layover in Barcelona)
+- $476 — 1 stop (TAP Air Portugal), EWR 5:40 PM Sat Jan 10 → LGW 9:50 AM Sun Jan 11 (layover in Lisbon; total outbound 11 hr 10 min)
+- Cheapest nonstop options: $487 — Nonstop
+  - American (JFK 9:50 PM Sat Jan 10 → LHR 9:40 AM Sun Jan 11; 6 hr 50 min)
+  - British Airways (multiple JFK departures around 6:50–11:20 PM; ~6 hr 55 min)
+  - United (EWR several departures; ~7 hr 10–25 min) from $499
+
+- Price context shown on page: “Cheapest from $410” (tab header), with “Top departing flights” showing best mixes of price + convenience (mostly nonstop from $487), and “Other departing flights” listing the absolute cheapest, including 1-stop with long layovers.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Google Flights--14/screenshot_1757996897.png
+
+If you want, I can sort the results by “Cheapest” and capture another screenshot, or expand a specific itinerary for full outbound/return details.

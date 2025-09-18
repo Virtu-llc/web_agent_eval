@@ -1,0 +1,8 @@
+Task completed on Cambridge Dictionary.
+
+- Word: euphoria
+- British pronunciation (UK): /juːˈfɔː.ri.ə/
+- Example sentence (from the entry):
+  "They were in a state of euphoria for days after they won the prize."
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--9/screenshot_1758158708.png

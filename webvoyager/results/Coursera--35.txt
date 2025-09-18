@@ -1,0 +1,40 @@
+Here’s a Coursera course on sustainable agriculture practices, including its objectives and the lead instructor’s background. A screenshot is attached.
+
+Course selected:
+- Title: Sustainable Agricultural Land Management (University of Florida)
+- URL: https://www.coursera.org/learn/sustainable-agriculture
+
+Course objectives (as stated on the course page):
+- “This course will cover the agricultural and urban water quality issues in Florida, their bases, land and nutrient management strategies, and the science and policy behind the best management practices (BMPs).”
+- “Students will learn to evaluate BMP research and analyze its role in determining practices and policies that protect water quality.”
+- Skills you’ll gain (selection shown on page): Water Resource Management; Hydrology; Water Quality; Sustainable Development; Sustainability Standards; Environment and Resource Management; Environmental Science; Environmental Regulations; Land Management.
+
+Course module topics (high-level):
+- Introduction to Sustainable Agricultural Land Management
+- Water Quality Issues and Regulations
+- TMDLs & Nutrients
+- Best Management Practices
+- Soil Management
+- Nutrient Management
+- Water for Agriculture
+- Agricultural Irrigation Management
+
+Lead instructor:
+- Name: George J. Hochmuth, Ph.D.
+- Affiliation: Professor, University of Florida
+- Instructor profile page: https://www.coursera.org/instructor/hochmuth
+
+Instructor background (from the Coursera bio page):
+- Focus: Research program in urban and agricultural fertilization and nutrient management practices.
+- Expertise and research themes: Environmental science questions tied to water quality; integrated nutrient and water management in urban and agricultural settings; Florida’s water supply and quality challenges; efficient irrigation technologies; alternative water sources; and improved water management practices.
+- Nutrient emphasis: Careful management of fertilizer nutrients (especially nitrogen and phosphorus) to avoid environmental losses; keeping nutrients and water in the plant root zone.
+- Typical research questions include:
+  - Sources (nutrient budgets) of nutrients in groundwater and surface water in agricultural and urban settings.
+  - How irrigation and fertilization practices work together to prevent nitrogen losses.
+  - Best management practices for nutrient and water retention in the root zone.
+  - Development of tools (plant/soil testing meters, application devices, software) to improve nutrient and water management.
+  - Crop/landscape cultivars efficient in nutrient uptake and utilization; roles of crop selection, rotation, cover-cropping, mulching, irrigation, and fertilization in minimizing nutrient losses; role and BMPs for organic nutrient sources.
+- Methods: Greenhouse bench-scale studies; field-scale studies in residential landscapes and on farms; hydroponics to study nutrient uptake and utilization.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Coursera--35/screenshot_1758163693.png

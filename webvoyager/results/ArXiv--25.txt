@@ -1,0 +1,13 @@
+I navigated from arXiv.org to the official arXiv Store (hosted on Bonfire via the arXiv “Swag” page) and reviewed the available products.
+
+Distinct merchandise types available:
+1) Printed Classic Baseball Cap
+2) Premium Unisex Tee
+3) Premium Long Sleeve Tee
+4) Midweight Pullover Hoodie
+5) Coffee Mug
+6) Large Coffee Mug
+
+Total different merchandise types: 6
+
+Screenshot captured: test_cases/result_with_screenshot_small/ArXiv--25/screenshot_1758104907.png

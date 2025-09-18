@@ -1,0 +1,8 @@
+Here’s what I found on Allrecipes:
+
+Collection: The Most Popular Recipes of the 1960s
+- 2nd recipe in the collection: Swedish Meatballs I
+- Prep Time: 25 mins
+- Total Time: 1 hr 25 mins
+
+Screenshot: test_cases/result_with_screenshot_small/Allrecipes--10/screenshot_1758078709.png

@@ -1,0 +1,22 @@
+Here’s the latest paper in ArXiv’s “Nonlinear Sciences – Chaotic Dynamics (nlin.CD)” and its details:
+
+Paper
+- Title: Deep Learning for Analyzing Chaotic Dynamics in Biological Time Series: Insights from Frog Heart Signals
+- Authors: Carmen Mayora-Cebollero; Flavio H. Fenton; Molly Halprin; Conner Herndon; Mikael J. Toye; Roberto Barrio
+- ArXiv ID: arXiv:2509.13027
+- Category: nlin.CD (Chaotic Dynamics)
+
+Submission date
+- Submitted on: 16 Sep 2025
+
+Abstract summary
+- Problem: Detecting chaotic dynamics in short, noisy experimental time series—particularly in cardiac systems—often defeats standard chaos-detection methods, and deep learning typically needs more data than such experiments provide.
+- Approach: The authors introduce an automatic algorithm that integrates deep learning with targeted selection strategies based on a mathematical model tailored to the nature of the experimental data. This hybrid strategy avoids the need for conventional training on large datasets.
+- Data/Testbed: Ex-vivo frog heart signal recordings.
+- Outcome: The method achieves highly accurate detection/analysis of chaotic dynamics in these biological time series, showing promise for robust chaos analysis under real-world data constraints.
+
+Screenshot
+- Saved from the abstract page: test_cases/result_with_screenshot_small/ArXiv--32/screenshot_1758152326.png
+
+Notes
+- I navigated to arXiv > Nonlinear Sciences > Chaotic Dynamics and selected the first entry listed under the most recent date (Wed, 17 Sep 2025) on the “recent” page, which led to arXiv:2509.13027. The abstract page explicitly shows “Submitted on 16 Sep 2025.”

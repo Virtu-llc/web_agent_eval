@@ -1,0 +1,13 @@
+Here’s what I found on BBC News:
+
+Article: “UK firms chase £38bn India contracts but challenges loom”
+URL: https://www.bbc.com/news/articles/ce3jy1g5x3go
+Published date (as shown on the page): 12 August 2025
+
+Brief overview of the economic implications described:
+- Market access boost: The India–UK free trade agreement opens India’s government procurement market to UK suppliers, giving near-parity treatment with Indian firms in specified areas. Around 40,000 high-value tenders worth about £38bn from federal ministries are now open to UK companies, notably in transport, green energy, and infrastructure.
+- Lower barriers to bid: The minimum contract value thresholds have been sharply reduced, enabling UK firms to bid on smaller projects (e.g., rural roads, school solar equipment, IT systems for government offices). Goods with only 20% UK content can still qualify for procurement preference.
+- Competitive challenges and risks: Despite the access, UK firms may face disadvantages due to higher pricing compared to local competitors, and structural issues in India’s public procurement—delayed payments and difficult contract enforcement—remain significant hurdles. UK suppliers are eligible as Class-II local suppliers, while Indian firms retain Class-I preferential status.
+- Broader policy signal: The opening of this procurement space marks a notable policy shift in India and could herald further concessions in future trade agreements, while potentially pushing procurement practices toward higher transparency and standardisation.
+
+Screenshot: Saved a screenshot of the article page for your reference. Filename: test_cases/result_with_screenshot_small/BBC News--8/screenshot_1758040512.png

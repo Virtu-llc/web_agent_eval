@@ -1,0 +1,9 @@
+Task outcome:
+- Navigated to GitHub > Pricing.
+- Located the GitHub Packages storage included per plan:
+  - Team: 2GB of Packages storage (Free for public repositories)
+  - Enterprise: 50GB of Packages storage (Free for public repositories)
+- Result: Enterprise includes 48GB more package storage than Team (50GB − 2GB = 48GB).
+
+Screenshot: Saved a screenshot of the Pricing page section after scrolling to the plans area.
+Filename: test_cases/result_with_screenshot_small/GitHub--3/screenshot_1758067274.png

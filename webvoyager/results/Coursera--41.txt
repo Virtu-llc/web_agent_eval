@@ -1,0 +1,7 @@
+Here are 3 Bachelor’s degree programs from Coursera’s Online Degrees section:
+
+1) Bachelor of Arts in Liberal Studies — Georgetown University
+2) Bachelor of Science in Psychology — O.P. Jindal Global University
+3) Bachelor of Science in General Business — University of North Texas
+
+Screenshot captured: test_cases/result_with_screenshot_small/Coursera--41/screenshot_1758058102.png

@@ -1,0 +1,23 @@
+Task complete.
+
+Recipe found:
+- Title: Ratatouille
+- Source: Allrecipes
+- URL: https://www.allrecipes.com/recipe/18411/ratatouille/
+- Rating and Reviews: 4.6 stars with 1,123 ratings and 804 reviews (meets 4+ stars and 15+ reviews)
+
+Vegetables included (from the Ingredients list):
+- Eggplant
+- Zucchini
+- Tomatoes
+- Mushrooms
+- Onion
+- Bell pepper (green or red)
+- Garlic
+
+Overall cooking time:
+- Total Time: 1 hr
+- Breakdown shown: Prep 15 mins, Cook 45 mins
+
+Screenshot: Attached (captured on the final recipe page)
+- File: test_cases/result_with_screenshot_small/Allrecipes--38/screenshot_1758095321.png

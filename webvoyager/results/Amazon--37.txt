@@ -1,0 +1,15 @@
+Here’s what I accomplished:
+- Navigated to Amazon and searched for “queen bedspread floral”
+- Opened a product that matches the criteria: a queen-sized bedspread with a floral pattern
+- Verified color availability
+
+Product found:
+- Title: DJY 3 Pieces Quilt Set Queen Floral Pattern Coverlet Elegant Boho Bedspread with 2 Pillow Shams Lightweight Microfiber Bedding All Season (Blue, 90"x96")
+- Size shown: Queen (90"x 96")
+- Pattern: Floral
+- Color shown on page: Blue Flower
+- Availability indicators on page: Price and delivery info are displayed (no “Currently unavailable” notice), indicating the Blue color is available
+
+Screenshot:
+- Saved a screenshot of the product page with the Queen size and Blue color shown
+- File: test_cases/result_with_screenshot_small/Amazon--37/screenshot_1757977191.png

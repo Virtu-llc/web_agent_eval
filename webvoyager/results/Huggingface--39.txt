@@ -1,0 +1,54 @@
+Here’s what I did and found in the Hugging Face documentation for the Transformers Trainer API (with a screenshot captured):
+
+How to use Trainer to train on a custom dataset
+- Prepare your dataset:
+  - You can pass a standard PyTorch Dataset/IterableDataset, or a Hugging Face datasets.Dataset.
+  - For a custom dataset, implement __len__ and __getitem__ to return a dict of tensors/arrays (e.g., "input_ids", "labels", etc.).
+- (Optional) Create a data collator:
+  - If you need dynamic padding or special batching logic, provide a DataCollator (e.g., DataCollatorWithPadding). Otherwise, Transformers will use a reasonable default.
+- Create TrainingArguments:
+  - Define hyperparameters and behaviors such as output_dir, per_device_train_batch_size, learning_rate, num_train_epochs, logging/eval/save strategies, fp16/bf16, etc. (TrainingArguments page is linked from the Trainer page.)
+- Instantiate Trainer:
+  - Provide the model and the arguments. Then add train_dataset (and optionally eval_dataset), a processing_class (tokenizer or processor), a data_collator (if needed), and (optionally) compute_metrics and callbacks.
+- Train and evaluate:
+  - Call trainer.train() to fine-tune on your dataset.
+  - Call trainer.evaluate() on the eval dataset.
+  - Use trainer.predict() for inference on a test dataset; trainer.push_to_hub() to upload artifacts to the Hub.
+
+Where I found this:
+- On the Transformers “Trainer” API documentation page (Transformers > Training > Trainer). The top of the page states that Trainer is the feature-complete training loop for PyTorch and that it works hand-in-hand with TrainingArguments. The parameter types and supported dataset classes are shown in the class signature and method docs (e.g., get_train_dataloader).
+
+Configurable parameters of transformers.Trainer (from the class signature on the page)
+- model: Union[transformers.PreTrainedModel, torch.nn.Module, None] = None
+- args: TrainingArguments = None
+- data_collator: Optional[transformers.DataCollator] = None
+- train_dataset: Union[torch.utils.data.Dataset, torch.utils.data.IterableDataset, datasets.Dataset, None] = None
+- eval_dataset: Union[torch.utils.data.Dataset, dict[str, torch.utils.data.Dataset], datasets.Dataset, None] = None
+- processing_class: Union[
+    transformers.PreTrainedTokenizerBase,
+    transformers.image_processing_utils.BaseImageProcessor,
+    transformers.feature_extraction_utils.FeatureExtractionMixin,
+    transformers.processing_utils.ProcessorMixin,
+    None
+  ] = None
+- model_init: Optional[Callable[[], transformers.PreTrainedModel]] = None
+- compute_loss_func: Optional[Callable] = None
+- compute_metrics: Optional[Callable[[transformers.trainer_utils.EvalPrediction], dict]] = None
+- callbacks: Optional[list[transformers.trainer_callback.TrainerCallback]] = None
+- optimizers: tuple = (None, None)
+- optimizer_cls_and_kwargs: Optional[tuple[type[torch.optim.Optimizer], dict[str, Any]]] = None
+- preprocess_logits_for_metrics: Optional[Callable[[torch.Tensor, torch.Tensor], torch.Tensor]] = None
+
+Notable Trainer methods (for end-to-end training workflow)
+- train(): main training entry point
+- evaluate(): run evaluation and return metrics
+- predict(): predictions (and metrics if labels available)
+- get_train_dataloader() / get_eval_dataloader() / get_test_dataloader(): dataset loaders
+- create_optimizer(), create_scheduler(): optimizer/scheduler setup (overridable, or pass via constructor)
+- push_to_hub(), save_model(), save_state(): model and state management
+- hyperparameter_search(): built-in hyperparameter tuning harness
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Huggingface--39/screenshot_1758024765.png
+
+This reflects the exact parameter names and usage guidance shown on the official Transformers Trainer API page.

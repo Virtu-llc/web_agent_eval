@@ -1,0 +1,11 @@
+Task completed
+
+What I did:
+- Visited ESPN and navigated to LeBron James’ player page
+- Opened his Stats section on the Overview page and located the “Career” row in the stats table
+
+Result found on the page:
+- Career Games Played (GP): 1562
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/ESPN--37/screenshot_1758155371.png

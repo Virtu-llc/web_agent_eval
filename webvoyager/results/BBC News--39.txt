@@ -1,0 +1,22 @@
+Here’s what I did:
+- Navigated: BBC News > Sport > Horse Racing > Results
+- Selected Yesterday’s date on the BBC Sport “UK & Ireland Results” page
+- Reviewed all meetings and races listed for yesterday
+- Identified the race with the highest number of runners
+- Took a screenshot showing the relevant section
+
+Date reviewed on page: Tuesday 16 September 2025 (Yesterday per the site)
+
+Highest number of runners:
+- Meeting: Uttoxeter
+- Race time: 16:10
+- Race name: Mercia Power 10 Year Celebration Handicap Hurdle
+- Runners: 15
+
+Other meetings and max runners seen:
+- Punchestown: max 14
+- Redcar: max 14
+- Wolverhampton: max 12
+- Yarmouth: max 12
+
+Screenshot: test_cases/result_with_screenshot_small/BBC News--39/screenshot_1758066090.png

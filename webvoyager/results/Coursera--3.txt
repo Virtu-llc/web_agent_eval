@@ -1,0 +1,11 @@
+Here’s what I did:
+- Visited Coursera and searched for “Python Data Science”
+- Sorted the results by “Newest”
+- Identified the first result and its institution
+- Captured a screenshot at the final step
+
+Result:
+- First course (sorted by Newest): Practical Splunk for Beginners
+- Institution: Pearson
+
+Screenshot saved: test_cases/result_with_screenshot_small/Coursera--3/screenshot_1758161331.png

@@ -1,0 +1,8 @@
+Here are the names of Trump’s kids as shown on the Google results page:
+- Donald Trump Jr.
+- Ivanka Trump
+- Eric Trump
+- Tiffany Trump
+- Barron Trump
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Search--17/screenshot_1758077343.png

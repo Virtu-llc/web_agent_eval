@@ -1,0 +1,11 @@
+Task completed.
+
+Source used: From Google Search results, I opened TheSkyLive page “How Far Away is Mars from Earth?”
+
+Current distance (as shown on the page at time of access):
+- Distance: 346,829,209 kilometers
+- Equivalent: 2.318410 Astronomical Units
+- Light travel time: 19 minutes and 16.8977 seconds
+
+Screenshot of the result page:
+- Saved at: test_cases/result_with_screenshot_small/Google Search--34/screenshot_1758076202.png

@@ -1,0 +1,20 @@
+Here are the storage options and prices for the latest iPad Pro models on Apple’s website (apple.com). These are shown as “From $” prices on the Buy iPad Pro configurator:
+
+iPad Pro 11-inch (Wi‑Fi)
+- 256GB — From $999
+- 512GB — From $1,199
+- 1TB — From $1,599
+- 2TB — From $1,999
+
+iPad Pro 13-inch (Wi‑Fi)
+- 256GB — From $1,299
+- 512GB — From $1,499
+- 1TB — From $1,899
+- 2TB — From $2,299
+
+Notes observed on the page:
+- Connectivity options change the price. For example, on the 13-inch model, Wi‑Fi + Cellular shows “From $1,499.”
+- “From” prices are the starting prices for each storage tier before adding other options like nano‑texture glass or cellular.
+
+Screenshot
+- Saved a screenshot of the storage options section on the iPad Pro Buy page: test_cases/result_with_screenshot_small/Apple--30/screenshot_1758101005.png

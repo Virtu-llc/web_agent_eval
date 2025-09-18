@@ -1,0 +1,7 @@
+Cheapest hotel room found for 3 nights from Jan 1 to Jan 4 in Jakarta (2 adults, Hotels only, sorted by lowest price):
+
+- Hotel: RedDoorz near Esa Unggul University Jakarta Campus
+- Room: Standard Double Room
+- Price: $19 total (includes taxes and fees)
+
+Screenshot captured: test_cases/result_with_screenshot_small/Booking--1/screenshot_1758082619.png

@@ -1,0 +1,8 @@
+Task completed.
+
+- Site: Coursera
+- Course: Exploring Quantum Physics (offered by University of Maryland, College Park)
+- 5-star ratings percentage (rounded): 61% 
+  - Source on page: Learner reviews section shows 5 stars = 60.56%
+
+Screenshot: test_cases/result_with_screenshot_small/Coursera--31/screenshot_1758036859.png

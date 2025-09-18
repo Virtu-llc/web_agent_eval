@@ -1,0 +1,32 @@
+Task completed.
+
+Official repository found: tensorflow/tensorflow
+
+Last commit analyzed
+- Commit: 8c8af27
+- Title: [XLA:GPU] Support merging of perf tables based on individual files.
+- Committed by: tensorflower-gardener
+
+Files changed in the last commit
+1) third_party/xla/xla/tools/collective_perf_table_gen.cc
+- Additions: 15
+- Deletions: 7
+- Status: MODIFIED
+
+2) third_party/xla/xla/tools/collective_perf_table_gen.h
+- Additions: 5
+- Deletions: 0
+- Status: MODIFIED
+
+3) third_party/xla/xla/tools/collective_perf_table_gen_main.cc
+- Additions: 16
+- Deletions: 4
+- Status: MODIFIED
+
+Totals for the commit
+- Total additions: 36
+- Total deletions: 11
+- Files changed: 3
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/GitHub--31/screenshot_1758149102.png

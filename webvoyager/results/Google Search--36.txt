@@ -1,0 +1,11 @@
+Here’s what I found on Google:
+
+Most recent Nobel Prize in Physics (2024)
+- Laureates: John J. Hopfield and Geoffrey Hinton
+- Contribution: “Foundational discoveries and inventions that enabled machine learning with artificial neural networks.” 
+  - John J. Hopfield: Created the Hopfield network (1982), enabling storage and reconstruction of information from incomplete or distorted inputs.
+  - Geoffrey Hinton: Developed methods (including the Boltzmann machine) that allow neural networks to learn from data, underpinning modern AI.
+
+This information appears in Google’s result summary referencing NobelPrize.org.
+
+Screenshot captured: test_cases/result_with_screenshot_small/Google Search--36/screenshot_1758076303.png

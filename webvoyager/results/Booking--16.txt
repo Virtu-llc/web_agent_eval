@@ -1,0 +1,16 @@
+Here’s a Paris hotel that matches your criteria for Jan 15–20, 2026 (5 nights), with a user rating ≥ 9, free Wi‑Fi, and breakfast included:
+
+- Hotel name: Hotel Muguet
+- Location: 11 Rue Chevert, 7th arr., 75007 Paris, France
+- Rating: Scored 9 (Rated wonderful)
+- Amenities: Free Wi‑Fi (listed under Most popular amenities), Breakfast included (shown in the room options as “Excellent breakfast included”)
+
+Pricing shown on Booking.com for these exact dates:
+- Example breakfast-included option: “Superior Queen/Twin Room — Price $1,531” for 5 nights ($306.2 per night).
+
+Note: Booking.com does not display a per‑night price for these dates on this property page, only the total for 5 nights. The site’s column header explicitly reads “Price for 5 nights,” and no per‑night breakdown is shown in the rate details.
+
+Screenshot captured of the final step:
+- File: test_cases/result_with_screenshot_small/Booking--16/screenshot_1758102575.png
+
+If you’d like, I can check additional hotels that meet the same filters to see if any display a per‑night rate explicitly for these dates.

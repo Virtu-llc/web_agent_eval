@@ -1,0 +1,22 @@
+Here’s the latest BBC News report I located about the impact of recent natural disasters in Asia, and its key details.
+
+Article located
+- Title: Dehradun: Homes damaged, cars swept away as rains flood India’s Uttarakhand
+- URL: https://www.bbc.com/news/videos/c8641vd73jxo
+- Published: 1 day ago (per BBC page)
+- Format: BBC News video report with written summary
+
+Key points
+- Severe monsoon rains caused major flooding in Uttarakhand (northern India).
+- Impacts: Homes were damaged and cars were swept away as floodwaters entered several towns and cities.
+- Casualties in Uttarakhand: No fatalities reported yet at the time of the report.
+- Wider region: Nearby Himachal Pradesh was also hit by intense rains; at least three people were reportedly killed in a rain-triggered landslide on Tuesday morning.
+- Response: India’s weather department issued a heavy rainfall alert for the region; rescue officials are evacuating residents from affected areas.
+- Context: Hundreds have been killed in rain-related incidents across India this monsoon season (June–September), with officials noting rains are significantly more intense this year.
+
+Areas affected
+- Uttarakhand, India (including Dehradun area)
+- Himachal Pradesh, India
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/BBC News--26/screenshot_1758126787.png

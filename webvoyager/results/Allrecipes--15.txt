@@ -1,0 +1,33 @@
+Here’s a dessert recipe from Allrecipes that meets your criteria (prep time under 30 minutes, contains chocolate, rating ≥ 4 stars). I’ve included the details and a screenshot of the recipe page at the end.
+
+Selected recipe
+- Name: Chocolate Éclair Dessert
+- Source: Allrecipes
+- Rating: 4.8 (1,574 ratings)
+- Prep Time: 15 mins
+- Additional Time: 2 hrs
+- Total Time: 2 hrs 15 mins
+- Servings: 12
+- Why it fits: It’s a dessert, prep time is under 30 minutes, includes chocolate (chocolate frosting), and has a user rating well above 4 stars.
+
+Ingredients (original yield: 12 servings)
+- 2 individual packages graham crackers
+- 3 cups cold milk
+- 2 (3 ounce) packages instant vanilla pudding mix
+- 1 (8 ounce) container frozen whipped topping, thawed
+- 1 (16 ounce) package prepared chocolate frosting
+
+Step-by-step instructions
+1. Gather all ingredients.
+2. Line the bottom of a 9x13-inch pan with a single layer of graham crackers.
+3. Combine cold milk and pudding mix in a large bowl; whisk briskly for 2 minutes.
+4. Mix the whipped topping into the pudding mixture until combined.
+5. Spread half of the pudding mixture over the graham cracker layer.
+6. Top with another layer of graham crackers. Spread the remaining pudding over that layer. Top with a final layer of graham crackers.
+7. Frost the top layer evenly with the chocolate frosting.
+8. Refrigerate for at least 2 hours before serving to allow the graham crackers to soften.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Allrecipes--15/screenshot_1757986448.png
+
+If you’d like a different chocolate dessert with a different style (e.g., cake, mousse, no-bake bars), I can locate another that also fits the same criteria.

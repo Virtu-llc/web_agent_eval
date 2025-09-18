@@ -1,0 +1,15 @@
+Task completed: Found a bird feeder on Amazon suitable for small birds with an anti-squirrel mechanism and verified free shipping. Screenshot captured.
+
+Product found:
+- Title: Squirrel Proof Bird Feeder - Hanging Caged Tube Bird Feeder for Small Birds - Finch Chickadee Sparrow and Wren - Ideal for Outdoors - Pigeon, Blue Jay, Deer, Grackle and Starling Proof
+- Brand: CRITTERS @ HOME
+- Price: $49.99
+- Anti-squirrel mechanism: Yes — listed under Special Feature as “Squirrel Proof, Weather Resistant” and described in bullets as a caged design that prevents squirrels from reaching seed.
+- Suitable for small birds: Yes — explicitly states “for Small Birds” and bullets mention “ideal for small birds.”
+- Free shipping: The product page shows “FREE delivery” (example text on page: “FREE delivery Monday, September 22 …”), confirming free shipping availability to the shown location.
+
+Link opened:
+- https://www.amazon.com/Squirrel-Proof-Bird-Feeder-Chickadee/dp/B0CNKYMNFZ
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Amazon--38/screenshot_1758097729.png

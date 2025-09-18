@@ -1,0 +1,24 @@
+Here’s the latest BBC News article I found related to space exploration, along with a concise summary and a screenshot.
+
+Article
+- Title: Nasa bans Chinese nationals from working on its space programmes
+- URL: https://www.bbc.com/news/articles/c9wd5qpekkvo
+- Section: BBC News
+- Author/Byline: Yvette Tan (Singapore)
+- Published: 5 days ago (as shown on the article page)
+
+Key points summary
+- New restriction: NASA has blocked Chinese citizens (even with valid US visas) from accessing its facilities, materials, and networks, effectively preventing them from working with the agency, including at key research centers.
+- Reason given: The agency cites security concerns—“to ensure the security of our work”—amid a broader US-China technology and national security rivalry.
+- Immediate impact: Chinese nationals involved as contractors or student researchers reportedly found access to NASA systems and meetings suddenly revoked on 5 September.
+- Wider context: 
+  - US law already prohibits NASA from sharing data with China, which contributes to Chinese astronauts being excluded from the International Space Station.
+  - The move further reduces scientific collaboration between the US and China.
+- Space race framing: NASA’s acting administrator, Sean Duffy, described the situation as a “second space race,” stating China wants to return to the Moon before the US—“That’s not going to happen.”
+- Policy and politics: 
+  - US lawmakers (e.g., Sen. Ted Cruz) argue the US must secure “dominant space capabilities,” warning of risks if adversaries take the lead.
+  - Chinese officials have called US concerns “unnecessary,” framing China’s space efforts as a “collective mission for humanity.”
+- Strategic stakes: The competition is not just about landing on the Moon but also about controlling lunar resources (e.g., minerals and helium) with wide-ranging technological and economic implications.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/BBC News--24/screenshot_1758046405.png

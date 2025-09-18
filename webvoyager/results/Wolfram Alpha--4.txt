@@ -1,0 +1,13 @@
+Task completed on Wolfram|Alpha.
+
+Query used: “pack 24 disks in a circle”
+
+What I found (from the results page):
+- Densest known packing:
+  - Inner circle radius = 0.176939 × r
+- Square packing:
+  - Inner circle radius = 0.163961 × r
+  - Note: Shown as 7.33% less than densest known
+
+Screenshot taken of the results section:
+- File: test_cases/result_with_screenshot_small/Wolfram Alpha--4/screenshot_1758039109.png

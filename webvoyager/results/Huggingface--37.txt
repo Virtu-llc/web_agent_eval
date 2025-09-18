@@ -1,0 +1,7 @@
+Here’s what I found on Hugging Face Daily Papers:
+
+- Title of the first article: WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research
+- Upvotes: 69
+- Related model/data release: Yes — 2 releases are listed for this paper
+
+Screenshot: test_cases/result_with_screenshot_small/Huggingface--37/screenshot_1758115342.png

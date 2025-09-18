@@ -1,0 +1,17 @@
+Task completed. I found a baked salmon recipe on Allrecipes that meets your criteria and captured a screenshot.
+
+Found recipe
+- Title: Best Baked Salmon
+- URL: https://www.allrecipes.com/recipe/34746/baked-salmon-ii/
+- Prep time: 15 mins (under 30 minutes)
+- Rating: 4.8 out of 5
+- Ratings count: 3,235 ratings (2,318 reviews shown)
+- Total time: 1 hr 50 mins
+
+Why it meets your criteria
+- It’s a baked salmon recipe.
+- Prep time is under 30 minutes (15 mins).
+- User rating is at least 4 stars (4.8/5 from thousands of ratings).
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Allrecipes--4/screenshot_1758045118.png

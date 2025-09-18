@@ -1,0 +1,10 @@
+Task completed on Wolfram|Alpha.
+
+Result (from the Wolfram|Alpha page):
+- Position after 3 s: x = 63.6396, y = 19.4946
+- Velocity components after 3 s: vx = 21.2132, vy = -8.2168
+
+Note: Values are consistent with SI inputs (m, s, m/s) and were computed with g = 9.81 m/s^2.
+
+Screenshot of the final results page:
+- Saved as: test_cases/result_with_screenshot_small/Wolfram Alpha--25/screenshot_1758159332.png

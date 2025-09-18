@@ -1,0 +1,12 @@
+Result
+- Destination and dates: Sydney, Feb 24–27, 2026
+- Filters applied: Airport Shuttle, Swimming Pool
+- Total available: 11 hotels
+
+How I got it
+- Searched Sydney with the specified dates on Booking.com.
+- Applied the Airport Shuttle filter from the quick filters.
+- In the sidebar under Amenities, Booking shows “Swimming pool: 11 properties,” which reflects the count for Swimming Pool given the currently applied Airport Shuttle filter and selected dates—i.e., 11 properties remain if Swimming Pool is added.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Booking--32/screenshot_1758052913.png

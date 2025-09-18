@@ -1,0 +1,18 @@
+Actions taken:
+- Opened Google Maps
+- Searched for: pizza near 30309
+- Read the results list and extracted restaurant names with their ratings and review counts
+- Took a screenshot of the results page
+
+Top 5 pizza restaurants near 30309 ranked by rating (ties ordered by review count):
+1) Varasano’s Pizzeria - Buckhead — 4.9 (2,809 reviews)
+2) Tandoori Pizza & Wing Co — 4.7 (595 reviews)
+3) Antico Pizza Napoletana — 4.6 (6,156 reviews)
+4) Varuni Napoli — 4.6 (1,384 reviews)
+5) Night owl pizza — 4.6 (747 reviews)
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Map--36/screenshot_1758148037.png
+
+Notes:
+- A sponsored Domino’s listing appeared but was excluded from the ranking.

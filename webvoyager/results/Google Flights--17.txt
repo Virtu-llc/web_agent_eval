@@ -1,0 +1,20 @@
+Here’s what I found on Google Flights for your trip:
+
+Cheapest round-trip flight (as displayed)
+- Route: New York (NYC) to Paris (PAR)
+- Dates: Depart Sat, Dec 27, 2025; Return Sat, Jan 10, 2026
+- Cheapest price: $467 total (round trip)
+- Airline(s): American (operated by Republic Airways as American Eagle, Piedmont Airlines as American Eagle)
+- Outbound details shown:
+  - Departure: LaGuardia (LGA) 6:45 PM, Sat Dec 27
+  - Arrival: Paris Charles de Gaulle (CDG) 8:20 AM, Mon Dec 29
+  - Duration: 31 hr 35 min
+  - Stops: 2
+    - Layover 1: Richmond (RIC), 11 hr 6 min overnight
+    - Layover 2: Philadelphia (PHL), 10 hr 15 min
+- Note: The $467 price is the round-trip total; the results card displays the outbound leg details. Return leg details are not shown on this list item.
+
+Screenshot
+- Saved a screenshot at the final step showing the cheapest result: test_cases/result_with_screenshot_small/Google Flights--17/screenshot_1758151634.png
+
+If you’d like, I can open the flight details to capture the return leg specifics and booking options.

@@ -1,0 +1,23 @@
+Here’s what I did and the result from Wolfram|Alpha:
+
+- Opened Wolfram|Alpha and computed the basal metabolic rate and energy expenditure for:
+  - Male, 40 years, 175 cm, 90 kg
+  - Wolfram|Alpha returned:
+    - Basal metabolic rate: 1855 Cal/day
+    - Energy expenditure (sedentary): 2226 Cal/day
+
+- Using a daily intake of 1500 Cal, this implies a daily deficit of 2226 − 1500 = 726 Cal/day (sedentary assumption from Wolfram|Alpha).
+
+- Then I asked Wolfram|Alpha to compute:
+  ((17 kg) × (7700 Cal/kg)) / (2226 Cal/day − 1500 Cal/day)
+
+Result from Wolfram|Alpha:
+- 180.3 days
+- Also shown as 180 days 7 hours 16 minutes 21.82 seconds
+- ≈ 25.76 weeks
+
+Screenshot taken of the final result:
+- File: test_cases/result_with_screenshot_small/Wolfram Alpha--16/screenshot_1758115745.png
+
+Notes:
+- The calculation uses Wolfram|Alpha’s sedentary energy expenditure for the given demographics and the standard energy equivalence of 7700 dietary Calories per kilogram of body fat, exactly as shown in Wolfram|Alpha’s input interpretation. Actual weight loss may vary with activity level and individual factors.

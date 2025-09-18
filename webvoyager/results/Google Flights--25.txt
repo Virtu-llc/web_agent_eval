@@ -1,0 +1,15 @@
+I completed the search on Google Flights for a one-way Business class itinerary from Buenos Aires to Amsterdam on November 10, 2025, sorted by shortest duration.
+
+Shortest-duration flight details:
+- Airline: KLM
+- Cabin: Business
+- Type: Nonstop (0 stops)
+- Duration: 13 hr 20 min
+- Price: $4,890 (USD)
+- Date: Monday, November 10, 2025 (arrival on Tuesday, November 11)
+- From: Ezeiza International Airport (EZE), Buenos Aires
+- Departure time: 4:25 PM
+- To: Amsterdam Airport Schiphol (AMS)
+- Arrival time: 9:45 AM (+1 day)
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Flights--25/screenshot_1758160979.png

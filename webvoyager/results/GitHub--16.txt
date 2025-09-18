@@ -1,0 +1,14 @@
+Actions taken:
+- Opened https://github.com/
+- Scrolled to the footer and clicked the “Skills” link to navigate to GitHub Skills
+- Located the “First day on GitHub” section and identified the courses listed under it
+- Captured a screenshot of the page showing this section
+
+Result:
+- Number of courses under “First day on GitHub”: 3
+- Course titles:
+  1) Introduction to GitHub
+  2) Communicate using Markdown
+  3) GitHub Pages
+
+Screenshot saved: test_cases/result_with_screenshot_small/GitHub--16/screenshot_1758136693.png

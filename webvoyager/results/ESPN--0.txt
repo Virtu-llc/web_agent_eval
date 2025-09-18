@@ -1,0 +1,22 @@
+Task completed: Navigated to ESPN > NBA > Standings and opened the Eastern Conference standings page.
+
+Current NBA Eastern Conference standings on ESPN (page header: “NBA Preseason Standings 2025-26”)
+- All teams currently show: W-L 0-0, PCT .000, GB -, Home 0-0, Away 0-0, Div 0-0, Conf 0-0, PPG 0.0, OPP PPG 0.0, DIFF 0.0, STRK -
+- Teams listed (as displayed on the page):
+  1) Atlanta Hawks
+  2) Boston Celtics
+  3) Chicago Bulls
+  4) Cleveland Cavaliers
+  5) Detroit Pistons
+  6) Indiana Pacers
+  7) Miami Heat
+  8) Milwaukee Bucks
+  9) Brooklyn Nets
+  10) New York Knicks
+  11) Orlando Magic
+  12) Philadelphia 76ers
+  13) Washington Wizards
+  14) Toronto Raptors
+  15) Charlotte Hornets
+
+Screenshot saved: test_cases/result_with_screenshot_small/ESPN--0/screenshot_1758103578.png

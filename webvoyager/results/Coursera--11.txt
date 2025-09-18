@@ -1,0 +1,18 @@
+Task completed:
+- Visited Coursera and searched for a project management program.
+- Opened a Specialization produced by a university.
+- Captured and presented a testimonial from that Specialization page.
+- Took a screenshot showing the testimonial.
+
+Specialization found:
+- Title: Project Management Principles and Practices
+- Type: Specialization (4-course series)
+- University partner: University of California, Irvine
+- URL: https://www.coursera.org/specializations/project-management
+
+Testimonial shown on the Specialization page:
+- “To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood.”
+  — Felipe M., Learner since 2018
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Coursera--11/screenshot_1758160206.png

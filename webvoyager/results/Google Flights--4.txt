@@ -1,0 +1,27 @@
+I completed your request on Google Flights.
+
+What I did:
+- Opened Google Flights
+- Set trip type to One-way
+- Set origin to New York and destination to London
+- Set departure date to December 26, 2025
+- Filtered results to show Nonstop only
+
+Confirmation on page:
+- Filters show: “Nonstop, Stops, Selected”
+- Route: New York → London
+- Date: Fri, Dec 26
+- Results show only nonstop flights
+
+Sample of results shown (top options at the time):
+- From $350 — United (Nonstop). EWR 10:40 PM → LHR 11:05 AM (+1). 7 hr 25 min
+- From $398 — JetBlue (Nonstop). JFK 9:10 PM → LHR 9:30 AM (+1). 7 hr 20 min
+- From $404 — Norse Atlantic UK (Nonstop). JFK 6:05 PM → LGW 6:00 AM (+1). 6 hr 55 min
+- From $350 — United (Nonstop). EWR 8:45 PM → LHR 9:10 AM (+1). 7 hr 25 min
+- From $398 — United (Nonstop). EWR 6:00 PM → LHR 6:20 AM (+1). 7 hr 20 min
+
+Screenshot:
+Saved the final filtered results page.
+File: test_cases/result_with_screenshot_small/Google Flights--4/screenshot_1758158076.png
+
+Note: Prices and availability can change; these reflect what appeared at the time of the search.

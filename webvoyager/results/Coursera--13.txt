@@ -1,0 +1,22 @@
+I found a Python programming Specialization on Coursera and captured the skills you’ll gain.
+
+Specialization: Python for Everybody Specialization (University of Michigan)
+URL: https://www.coursera.org/specializations/python
+
+Skills you’ll gain:
+- Data Structures
+- Web Services
+- Databases
+- Web Scraping
+- Data Store
+- Database Design
+- Data Modeling
+- Network Protocols
+- Programming Principles
+- Data Cleansing
+- SQL
+- Data Processing
+- Computer Programming
+- Data Visualization
+
+Screenshot taken: attached (coursera_python_specialization_skills.png)

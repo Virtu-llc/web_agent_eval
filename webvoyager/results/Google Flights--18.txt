@@ -1,0 +1,58 @@
+I compared round-trip flight options from New York to Tokyo departing on November 25, 2025 and returning on December 15, 2025 (1 adult) on Google Flights, and sorted the results by shortest total travel time. Here are the top options by duration, with the round-trip prices shown on the page:
+
+1) United (operated with ANA) — Nonstop
+- Price: $1,153 round trip
+- Duration: 14 hr 15 min (shortest)
+- Outbound: Newark (EWR) 11:00 AM Tue Nov 25 → Tokyo Narita (NRT) 3:15 PM Wed Nov 26
+- Stops: Nonstop
+
+2) JAL — Nonstop
+- Price: $1,221 round trip
+- Duration: 14 hr 35 min
+- Outbound: New York JFK 12:40 PM Tue Nov 25 → Tokyo Haneda (HND) 5:15 PM Wed Nov 26
+- Stops: Nonstop
+
+3) American — Nonstop
+- Price: $1,151 round trip
+- Duration: 14 hr 36 min
+- Outbound: New York JFK 9:59 AM Tue Nov 25 → Tokyo Haneda (HND) 2:35 PM Wed Nov 26
+- Stops: Nonstop
+
+4) Alaska + Hawaiian — 1 stop (via SEA)
+- Price: $942 round trip
+- Duration: 19 hr
+- Outbound: New York JFK 7:00 AM Tue Nov 25 → Tokyo Narita (NRT) 4:00 PM Wed Nov 26
+- Stops: 1 stop; Layover: 1 hr 43 min at Seattle (SEA)
+
+5) Asiana Airlines — 1 stop (via ICN)
+- Price: $846 round trip
+- Duration: 19 hr 45 min
+- Outbound: New York JFK 11:15 AM Tue Nov 25 → Tokyo Narita (NRT) 9:00 PM Wed Nov 26
+- Stops: 1 stop; Layover: 1 hr 30 min at Seoul Incheon (ICN)
+
+6) Air Canada (some segments operated by Jazz) — 2 stops (via YUL, YVR)
+- Price: $1,059 round trip
+- Duration: 20 hr 15 min
+- Outbound: New York LaGuardia (LGA) 6:05 AM Tue Nov 25 → Tokyo Narita (NRT) 4:20 PM Wed Nov 26
+- Stops: 2 stops; Layovers: Montreal (YUL) 1 hr 28 min, Vancouver (YVR) 1 hr 21 min
+
+7) Asiana Airlines — 1 stop (via ICN)
+- Price: $891 round trip
+- Duration: 22 hr 10 min
+- Outbound: New York JFK 11:15 AM Tue Nov 25 → Tokyo Haneda (HND) 11:25 PM Wed Nov 26
+- Stops: 1 stop; Layover: 4 hr 20 min at Seoul Incheon (ICN)
+
+8) Air Canada — 2 stops (via YYC, YVR)
+- Price: $882 round trip
+- Duration: 34 hr 10 min
+- Outbound: Newark (EWR) 4:10 PM Tue Nov 25 → Tokyo Narita (NRT) 4:20 PM Thu Nov 27
+- Stops: 2 stops; Layovers: Calgary (YYC) 1 hr, Vancouver (YVR) 16 hr 1 min (overnight)
+
+Notes:
+- Prices shown are round-trip totals for 1 adult and include taxes/fees as displayed on Google Flights.
+- Return date set to Mon, Dec 15, 2025; sorting set to Duration (shortest).
+- Airports include JFK/EWR/LGA in New York and HND/NRT in Tokyo, as shown in the results.
+- Availability and prices can change; I reported exactly what was displayed on the page.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Google Flights--18/screenshot_1758140196.png

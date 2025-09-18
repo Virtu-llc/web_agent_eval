@@ -1,0 +1,11 @@
+Task completed on ESPN.
+
+Latest NBA player movement on ESPN (most recent):
+- Wednesday, September 17 — Signed G D’Andre Davis to a contract. (ESPN NBA Transactions)
+
+Most recent trade deal (for reference):
+- Tuesday, September 16 — Received G Kobe Bufkin from Atlanta. (ESPN NBA Transactions)
+
+Source page: https://www.espn.com/nba/transactions
+
+Screenshot captured: test_cases/result_with_screenshot_small/ESPN--14/screenshot_1758166537.png

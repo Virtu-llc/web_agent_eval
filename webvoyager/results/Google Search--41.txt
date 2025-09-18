@@ -1,0 +1,9 @@
+Task completed: I visited Google, searched for “current air pollution level in Los Angeles,” extracted the current stats shown on the results page, and captured a screenshot.
+
+What I found on Google’s results page:
+- Section: Air quality
+- Source: From airnow.gov and PurpleAir
+- Current reading shown: Reseda, Los Angeles — 32 AQI (US Air Quality Index), category: Good
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Search--41/screenshot_1758076752.png

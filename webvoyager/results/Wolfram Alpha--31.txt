@@ -1,0 +1,6 @@
+Here are the current conditions for Chicago, IL from Wolfram|Alpha:
+
+- Temperature: 77 °F
+- Wind speed: 6.9 mph (90° E)
+
+I’ve attached a screenshot of the results page for verification.

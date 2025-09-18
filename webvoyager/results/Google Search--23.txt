@@ -1,0 +1,11 @@
+Here’s a short biography of LeBron James retrieved from the Google results page:
+
+"LeBron James is an American professional basketball player, born in Akron, Ohio, in 1984, who is widely regarded as one of the greatest players of all time. He's been a three-time NBA champion with three different teams, the NBA's all-time leading scorer, a four-time MVP, and a three-time Olympic gold medalist. James also leads the LeBron James Family Foundation and has ventures in business and film, establishing a legacy both on and off the court."
+
+What I did:
+- Visited https://www.google.com
+- Searched for “LeBron James biography”
+- Extracted the short biography shown at the top of the results page
+
+Screenshot captured:
+- File: test_cases/result_with_screenshot_small/Google Search--23/screenshot_1758075033.png

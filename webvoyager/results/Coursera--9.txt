@@ -1,0 +1,9 @@
+Here’s a Coursera course that matches your criteria:
+
+- Course: AI Ethics, Responsible Use, and Creativity
+- University: University of Michigan
+- Rating: 4.6/5 (22 reviews)
+- Duration: Approximately 4 hours to complete (under 20 hours)
+- Link: https://www.coursera.org/learn/ai-ethics-responsible-use-and-creativity
+
+Screenshot has been captured of the course page. File: test_cases/result_with_screenshot_small/Coursera--9/screenshot_1758103325.png

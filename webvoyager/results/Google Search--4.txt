@@ -1,0 +1,25 @@
+Here’s what I did and found:
+
+1) Navigated to Google, searched for “Steam & Game Stats,” and opened the official Steam stats pages. From the Steam Stats and Steam Charts pages, I extracted the current “Most Played” data and the live in-game figure.
+
+Most Played games on Steam (by current players, now)
+- Counter-Strike 2 — 588,706 current players
+- Dota 2 — 399,243 current players
+- Borderlands® 4 — 211,674 current players
+- Hollow Knight: Silksong — 180,223 current players
+- Marvel Rivals — 100,651 current players
+- PUBG: BATTLEGROUNDS — 96,510 current players
+- HELLDIVERS™ 2 — 87,597 current players
+- Bongo Cat — 86,679 current players
+- Path of Exile 2 — 86,348 current players
+- Banana — 85,675 current players
+
+Number of players “IN GAME” at this time
+- Counter-Strike 2 “IN GAME” right now: 588,706
+
+Screenshot
+- Saved a screenshot of the Steam Charts page showing the “Most Played” section and the live “IN GAME” figure.
+- File: test_cases/result_with_screenshot_small/Google Search--4/screenshot_1758073000.png
+
+Notes
+- Data shown above is pulled directly from Steam’s live stats pages at the time of access.

@@ -1,0 +1,7 @@
+Here’s what I found on ESPN’s NCAAW recruiting rankings (2026 SportsCenter NEXT 100):
+
+- Saniyah Hall — USC
+- Oliviyah Edwards — Tennessee
+- Olivia Vukosa — Uncommitted (None listed)
+
+Screenshot: test_cases/result_with_screenshot_small/ESPN--43/screenshot_1758164312.png

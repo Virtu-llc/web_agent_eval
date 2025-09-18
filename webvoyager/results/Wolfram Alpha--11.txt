@@ -1,0 +1,8 @@
+I visited wolframalpha.com and searched for the requested material properties. Here are the electrical resistivities at 20 °C (Wolfram|Alpha reports these at 68 °F, which equals 20 °C):
+
+- UNS A92024 (aluminum alloy 2024): 4.9×10^-6 Ω·cm (at 68 °F)
+  - Equivalent SI: 4.865×10^-8 Ω·m
+- UNS G10800 (AISI 1080 carbon steel): 1.8×10^-5 Ω·cm (at 68 °F)
+  - Equivalent SI: 1.8×10^-7 Ω·m
+
+Screenshot of the final results page has been captured: test_cases/result_with_screenshot_small/Wolfram Alpha--11/screenshot_1758144275.png

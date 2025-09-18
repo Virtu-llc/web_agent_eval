@@ -1,0 +1,16 @@
+Task completed.
+
+What I did:
+- Navigated to Coursera, opened the Free Courses catalog, and filtered by Subject: Data Science.
+- Scrolled through the results and found a course with the Free tag:
+  • Course: Fundamentals of Machine Learning and Artificial Intelligence (Amazon Web Services)
+  • Tag observed on the catalog: Status: Free
+- Opened the course page and verified the teaching language listed on the page.
+
+Result:
+- Course: Fundamentals of Machine Learning and Artificial Intelligence
+- Taught in: English
+
+Screenshot:
+- I captured a screenshot of the course page showing the course details.
+- File: test_cases/result_with_screenshot_small/Coursera--8/screenshot_1758043321.png

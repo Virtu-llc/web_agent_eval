@@ -1,0 +1,11 @@
+Task done.
+
+I visited Allrecipes, searched for banana bread, and found a recipe meeting your criteria (>200 reviews and rating ≥ 4.0). Here are the details extracted from the recipe page:
+
+- Recipe: Banana Banana Bread
+- URL: https://www.allrecipes.com/recipe/20144/banana-banana-bread/
+- Rating: 4.7 out of 5
+- Reviews: 13,418 reviews
+- Ratings count: 17,150 ratings
+
+Screenshot saved: test_cases/result_with_screenshot_small/Allrecipes--42/screenshot_1757985275.png

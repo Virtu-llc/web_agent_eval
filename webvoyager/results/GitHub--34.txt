@@ -1,0 +1,11 @@
+Here’s what I did:
+- Opened GitHub and searched for “Protein prediction”
+- Filtered to Repositories and sorted by Most forks
+- Opened the top result to verify the fork count
+
+Result
+- Project: kexinhuang12345/DeepPurpose
+- Forks: 292
+- Link: https://github.com/kexinhuang12345/DeepPurpose
+
+Screenshot saved: test_cases/result_with_screenshot_small/GitHub--34/screenshot_1758058572.png

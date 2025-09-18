@@ -1,0 +1,7 @@
+Here is a model on Hugging Face for recipe generation and its details:
+
+- Model name: flax-community/t5-recipe-generation
+- Model size: 223M params
+- Tensor type: F32
+
+Screenshot taken: test_cases/result_with_screenshot_small/Huggingface--5/screenshot_1758148114.png

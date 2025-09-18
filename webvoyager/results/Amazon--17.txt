@@ -1,0 +1,12 @@
+I visited https://www.amazon.com/, navigated to “baby” search results, and identified baby products currently showing a discounted “List” or “Typical price” label with current prices under $10. Here are at least two on-sale items under $10 (all extracted from the visible results):
+
+- Tummy Time Water Mat – $9.99, List: $14.99
+- 3 Pcs Baby Flower Headbands – $7.49, Typical price: $7.99
+- Baby’s First Bible Stories (Board Book) – $5.31, List: $9.99
+- PandaEar Set of 3 Silicone Baby Bibs – $8.65, List: $11.65
+- Fisher-Price Stacking Toy Baby’s First Blocks – $9.99, List: $10.99
+- Comfy Cubs Muslin Baby Washcloths 6 Pack – $9.99, List: $19.99
+- Baby Einstein – My First Library Board Book Block 12-Book Set – $9.36, List: $15.99
+- Oh, Baby, the Places You’ll Go! (Hardcover) – $5.49, List: $9.99
+
+Screenshot saved: test_cases/result_with_screenshot_small/Amazon--17/screenshot_1758141912.png

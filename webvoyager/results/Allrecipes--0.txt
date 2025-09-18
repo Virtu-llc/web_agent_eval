@@ -1,0 +1,41 @@
+Here’s a qualifying vegetarian lasagna recipe from Allrecipes that meets your criteria. I’ve included the key details and the full recipe, and captured a screenshot at the end.
+
+Recipe: Vegetarian Four Cheese Lasagna
+Source: https://www.allrecipes.com/recipe/21090/vegetarian-four-cheese-lasagna/
+- Rating: 4.6 out of 5
+- Ratings count: 243
+- Reviews: 181
+- Servings: 8 (suitable for 6 people)
+- Total time: 1 hr 15 mins (Prep 15 mins, Cook 1 hr)
+- Yield: 1 (9x13-inch) dish
+
+Ingredients (original 1X yield; 8 servings)
+- 2 cups peeled and diced pumpkin
+- 1 eggplant, sliced into 1/2-inch rounds
+- 5 tomatoes
+- 1 pint ricotta cheese
+- 9 ounces crumbled feta cheese
+- 2/3 cup pesto
+- 2 eggs, beaten
+- Salt and pepper, to taste
+- 1 (15-ounce) can tomato sauce
+- Fresh pasta sheets
+- 1 1/3 cups shredded mozzarella cheese
+- 1 cup grated Parmesan cheese
+
+Directions
+1) Preheat oven to 350°F (175°C). Place pumpkin on a baking sheet and roast until browned and tender, about 30 minutes.
+2) Meanwhile, grill eggplant on a charcoal grill or fry in a skillet, turning once, until charred and tender, 10 to 15 minutes.
+3) Halve tomatoes and place on the baking sheet during the last 15 minutes of pumpkin roasting; cook until tender and wrinkly.
+4) In a medium bowl, mix together ricotta, feta, pesto, eggs, salt, and pepper. Fold in the roasted pumpkin.
+5) Spoon half of the tomato sauce into a 9x13-inch baking dish. Lay two pasta sheets over the sauce. Arrange a single layer of eggplant slices over the pasta and top with half the ricotta mixture.
+6) Cover with two more pasta sheets. Arrange the roasted tomatoes evenly over the sheets and spoon the remaining ricotta mixture over the tomatoes. Sprinkle with half the mozzarella.
+7) Top with the remaining two sheets of pasta. Pour the remaining tomato sauce over all and sprinkle with the remaining mozzarella and Parmesan.
+8) Bake 30 to 40 minutes, until golden and bubbly.
+
+Notes
+- The recipe as published yields 8 servings, which is more than sufficient for 6 people.
+- Nutrition (per serving, 8 servings): 451 Calories; 30g Fat; 20g Carbs; 29g Protein.
+
+Screenshot
+Saved: test_cases/result_with_screenshot_small/Allrecipes--0/screenshot_1758053544.png

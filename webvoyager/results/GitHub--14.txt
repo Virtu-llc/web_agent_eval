@@ -1,0 +1,12 @@
+Task summary:
+- Visited GitHub, searched for “vscode”, opened the microsoft/vscode repository
+- Navigated to Insights > Contributors to identify the top contributors
+- Captured a screenshot at the final step
+
+Top three contributors to microsoft/vscode (as shown on the Contributors page):
+1) bpasero — 13,982 commits
+2) jrieken — 12,280 commits
+3) Tyriar — 11,800 commits
+
+Screenshot saved:
+- test_cases/result_with_screenshot_small/GitHub--14/screenshot_1758062933.png

@@ -1,0 +1,14 @@
+Actions completed:
+- Opened https://www.amazon.com/
+- Searched for “Xbox Wireless Controller green”
+- Applied filter: Customer Reviews -> 4 Stars & Up
+- Captured a screenshot of the filtered results
+
+Top visible results (extracted from the page):
+- Xbox Wireless Gaming Controller (2025) – Velocity Green – Play on Windows, Android, iOS, FireTV Sticks, Smart TVs, VR Headsets — Rating: 4.6 out of 5 stars
+- Xbox Microsoft Wireless Controller - Velocity Green — Rating: 4.6 out of 5 stars
+- Xbox Wireless Controller – Velocity Green Series X|S, One, And Windows Devices (Renewed) — Rating: 4.6 out of 5 stars
+- Xbox One Series X S Custom Soft Touch Controller - Soft Touch Feel, Added Grip, Neon Green Color - Compatible with Xbox One, Series X, Series S — Rating: 4.4 out of 5 stars
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Amazon--0/screenshot_1757998786.png

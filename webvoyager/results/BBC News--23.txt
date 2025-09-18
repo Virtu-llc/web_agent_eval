@@ -1,0 +1,25 @@
+Here’s the latest health-related piece I found on BBC News and its key takeaways:
+
+Article: Struggling with brain fog? Here’s how to fix it
+Author: Yasmin Rufo, BBC News
+Published: 1 day ago
+URL: https://www.bbc.com/news/articles/c87ydw7xdxvo
+
+Main findings and recommendations:
+- Be kind to yourself
+  - Brain fog is common and usually temporary. Slow down, delegate, and ask for help if needed. Contact your GP if you’re concerned.
+- Create routines
+  - Reduce decision fatigue with predictable morning and evening routines. Prep simple things (clothes, breakfast) to free mental bandwidth.
+- Take breaks
+  - Avoid back‑to‑back commitments. Insert 5–10 minute “mental buffers” between tasks to reset, reduce stress, and improve focus.
+- Use calendars and reminders
+  - Offload memory to tools. Use calendars, recurring reminders, and blocked time (e.g., lunch) to prevent cognitive overload.
+
+Dr. Tharaka’s SWANS acronym for brain health:
+- Sleep: Aim for 7–9 hours nightly to rest and consolidate memory.
+- Water: Stay hydrated; even mild dehydration can impair focus.
+- Activity: Move regularly (walks, light jogs, stretching) to boost blood flow and clarity.
+- Nutrition: Favor whole foods; include choline-rich options (eggs, fish, nuts) for concentration.
+- Stress: Lower cortisol with breathing exercises, mindfulness, and hobbies.
+
+Screenshot saved: test_cases/result_with_screenshot_small/BBC News--23/screenshot_1757979275.png

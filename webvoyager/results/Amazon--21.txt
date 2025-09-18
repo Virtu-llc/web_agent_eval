@@ -1,0 +1,17 @@
+Task completed. I found a stainless steel, 12‑cup programmable coffee maker on Amazon within the $100–$200 range and with a 4+ customer rating, then captured a screenshot.
+
+Selected product
+- Name: Cuisinart 12-Cup Coffee Maker, Programmable PerfecTemp Thermal Carafe Coffee Machine with 1-4 Cup Setting, Brew Strength Control and Brew Pause, Stainless Steel, DCC-3400NAS, Silver
+- Price: $129.95 (List Price: $149.95)
+- Rating: 4.0 out of 5 stars (10,476 ratings)
+- Key specs shown on page:
+  - Capacity: 12 Cups
+  - Material: Stainless Steel
+  - Special Feature: Programmable
+- Link: https://www.amazon.com/Cuisinart-DCC-3400-Stainless-Thermal-Coffeemaker/dp/B01N6T5QNO
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Amazon--21/screenshot_1758098406.png
+
+Notes
+- This product satisfies all requested criteria: stainless steel, 12-cup, programmable, priced between $100–$200, and customer rating of 4.0+.

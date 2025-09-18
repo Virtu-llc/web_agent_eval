@@ -1,0 +1,32 @@
+I found round-trip flights from Chicago to London departing Sat, Dec 20 and returning Tue, Dec 23, and captured a screenshot of the results page.
+
+Summary
+- Route: Chicago (all airports) to London (all airports)
+- Dates: Depart Sat, Dec 20; Return Tue, Dec 23 (2025, per Google Flights date picker)
+- Results: 16 options returned
+- Prices include required taxes/fees for 1 adult; round trip totals shown
+
+Top departing flight options (round trip totals)
+1) Aer Lingus — 1 stop (via Dublin)
+   - Depart: 7:40 PM Sat, Dec 20 → Arrive: 11:25 AM Sun, Dec 21
+   - Duration: 9 hr 45 min
+   - Price: $1,183 round trip
+
+2) United — Nonstop
+   - Depart: 3:45 PM Sat, Dec 20 → Arrive: 5:55 AM Sun, Dec 21
+   - Duration: 8 hr 10 min
+   - Price: $1,223 round trip
+
+3) American — Nonstop
+   - Depart: 6:30 PM Sat, Dec 20 → Arrive: 8:15 AM Sun, Dec 21
+   - Duration: 7 hr 45 min
+   - Price: $1,267 round trip
+
+Cheapest options in the list (examples)
+- From $1,083 round trip (1-stop options available; e.g., American/others with long layovers)
+- Other 1-stop and nonstop options range upward through $1,101, $1,102, $1,149, $1,262, etc.
+
+Screenshot
+Saved: test_cases/result_with_screenshot_small/Google Flights--5/screenshot_1758140942.png
+
+If you’d like, I can refine by airline, stops, or airports (e.g., ORD vs. MDW; LHR vs. LGW) or extract more of the list.

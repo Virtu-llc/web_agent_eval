@@ -1,0 +1,7 @@
+Task completed on Wolfram|Alpha.
+
+Query: How many days are there between February 12, 2024 and August 9, 2050?
+
+Result from the page: 9675 days
+
+Screenshot: test_cases/result_with_screenshot_small/Wolfram Alpha--37/screenshot_1758146726.png

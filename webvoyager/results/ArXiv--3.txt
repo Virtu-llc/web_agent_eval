@@ -1,0 +1,15 @@
+I visited arXiv.org, navigated to Mathematics → Algebraic Topology (math.AT) → Recent, and opened the top (most recent) entry. Here are the details from the paper’s abstract page:
+
+Title:
+A new approach to rational stable parametrized homotopy theory
+
+Authors:
+- Yves Félix
+- Aniceto Murillo
+- Alejandro Saiz
+
+Abstract:
+This work develops a comprehensive algebraic model for rational stable parametrized homotopy theory over arbitrary base spaces. Building on the simplicial analogue of the foundational framework of May-Sigurdsson for parametrized spectra, and the homotopy theory of complete differential graded Lie algebras, we construct an explicit sequence of Quillen equivalences that translate the homotopy theory of rational spectra of retractive simplicial sets into the purely algebraic framework of complete differential graded modules over the completed universal enveloping algebra \widehat{UL} of a Lie model L of the base simplicial set B. Explicitly, there is a sequence of Quillen adjunctions Sp_B ↔ Sp_L ↔ Sp^0_{\widehat{UL}} ↔ \mathbf{cdgm}_{\widehat{UL}} which induces a natural, strong monoidal equivalence of categories Ho\,\mathbf{Sp}_B^{\Bbb Q} \cong Ho\,\mathbf{cdgm}_{\widehat{UL}}. This equivalence is highly effective in practice as it provides direct computational access to invariants of simplicial spectra by translating them into homotopy invariants of \widehat{UL}-modules. Here \mathbf{Sp}_B denotes the stable model category of spectra of retractive simplicial sets over B, \mathbf{Sp}_L denotes the stable model category of spectra of retractive complete differential graded Lie algebras over L, \mathbf{Sp}^0_{\widehat{UL}} denotes the stable model category of connected \widehat{UL}-module spectra, and \mathbf{cdgm}_{\widehat{UL}} denotes the category of complete differential graded \widehat{UL}-modules.
+
+Screenshot:
+Saved from the paper’s abstract page: test_cases/result_with_screenshot_small/ArXiv--3/screenshot_1757994444.png

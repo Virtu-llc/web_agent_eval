@@ -1,0 +1,8 @@
+Here’s an example pre-trained question answering model from Hugging Face and the languages it supports:
+
+- Model: deepset/roberta-base-squad2
+- Task: Question Answering (extractive)
+- Languages supported: English
+- Source page evidence: The model page shows “Language: English” and includes a language tag “English.”
+
+Screenshot captured of the model page (including the language tag): test_cases/result_with_screenshot_small/Huggingface--28/screenshot_1758146626.png

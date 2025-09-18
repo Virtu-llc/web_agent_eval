@@ -1,0 +1,16 @@
+What I did:
+- Visited Coursera and searched for “Artificial Intelligence for Healthcare”
+- Opened the course page for a relevant healthcare-AI course
+- Collected the requested details and took a screenshot of the page section showing them
+
+Course identified:
+- Title: Fundamentals of Machine Learning for Healthcare
+- University: Stanford University
+- URL: https://www.coursera.org/learn/fundamental-machine-learning-healthcare
+
+Requested details:
+- Course duration: 1 week at 10 hours a week
+- Number of quizzes in Assessments: The Assessments section lists “19 assignments” and does not list any quizzes.
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Coursera--6/screenshot_1758165161.png

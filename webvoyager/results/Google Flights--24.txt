@@ -1,0 +1,47 @@
+Actions completed:
+- Opened Google Flights and set route: Dubai → Rome
+- Set trip type: Round trip; Cabin: Economy
+- Set dates: Departing November 1, 2025 and returning December 8, 2025
+- Applied filter: Stops → Nonstop only
+- Compared nonstop options and selected a nonstop round-trip option
+- Proceeded to booking options page and captured a screenshot
+
+Key findings (prices shown are “round trip total” for 2 adults in USD as displayed):
+Nonstop options on Nov 1 (outbound) and Dec 8 (return):
+- Etihad (operated by Wamos Air) from Zayed International (AUH) → FCO
+  • Duration: 7 hr
+  • Price: $1,141
+- Etihad (AUH → FCO)
+  • Duration: 6 hr 30 min
+  • Price: $1,283
+- ITA (DXB → FCO) [selected]
+  • Duration: 7 hr
+  • Price: $1,392
+- Emirates (DXB → FCO)
+  • Duration: 6 hr 40 min
+  • Price: $1,768
+- Emirates (DXB → FCO)
+  • Duration: 6 hr 45 min
+  • Price: $2,503
+
+Selection rationale:
+- Requirement: "select the option with the fewest stops." All listed above are nonstop (0 stops).
+- Interpreting “from Dubai” as departing Dubai International Airport (DXB), the cheapest nonstop option from DXB is ITA at $1,392 total for 2 adults. This is the option I selected and opened to booking.
+
+Selected itinerary details (as shown on the booking page):
+- Airline: ITA
+- Outbound: Sat, Nov 1 — DXB 1:50 AM → FCO 5:50 AM — Nonstop — 7 hr
+- Return: Mon, Dec 8 — FCO 10:50 AM → DXB 7:50 PM — Nonstop — 6 hr
+- Booking options (USD, round trip total for 2 adults, Economy Light unless noted):
+  • Gotogate: $1,370
+  • Mytrip: $1,370
+  • martiGO: $1,386
+  • Booking.com: $1,403
+  • ITA direct: Economy Light $1,382; Economy Classic $1,669; Classic Plus $1,932; Flex $2,207
+
+Note:
+- Google Flights indicates “Prices include required taxes + fees for 2 adults.” If you need 1 passenger pricing, the fares will differ slightly per person.
+
+Screenshot:
+- Saved of the final booking options page for the selected nonstop ITA itinerary:
+  test_cases/result_with_screenshot_small/Google Flights--24/screenshot_1758123968.png

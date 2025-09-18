@@ -1,0 +1,10 @@
+Here’s what I found on BBC:
+
+- Scottish Premiership teams: 12
+  Source: Scottish Premiership Table page shows positions 1–12 in the standings (12 teams).
+
+- Hibernian most recent match start time: 17:45 (UK time) on Saturday 13 September 2025
+  Match: Hibernian 3–3 Dundee United (Full time)
+  Source: Hibernian team page (Scores & Fixtures) shows the latest result; the fixture details include start time 17:45 UK.
+
+Screenshot taken: test_cases/result_with_screenshot_small/BBC News--11/screenshot_1758149426.png

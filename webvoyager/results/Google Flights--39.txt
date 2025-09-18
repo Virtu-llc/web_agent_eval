@@ -1,0 +1,18 @@
+Task completed.
+
+What I searched and set:
+- Site: Google Flights
+- Trip type: One-way
+- Origin: Prague (PRG)
+- Date: March 20, 2026
+- Destinations compared:
+  - Tokyo, Japan (Tokyo region airports)
+  - Sapporo, Hokkaido (Sapporo – OKD listed in results)
+
+Cheapest one-way fares found for Mar 20, 2026:
+- Prague → Tokyo: from 679 USD (1 stop, Hainan; arrives NRT)
+- Prague → Sapporo (Hokkaido): from 1,236 USD (3 stops, Hainan + JAL; arrives OKD)
+
+Answer: Tokyo is cheaper to fly to than Sapporo (Hokkaido) on March 20, 2026.
+
+Screenshot: test_cases/result_with_screenshot_small/Google Flights--39/screenshot_1758161749.png

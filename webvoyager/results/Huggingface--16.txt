@@ -1,0 +1,17 @@
+Here is the latest pre-trained language model on Hugging Face suitable for text classification (sorted by “Recently created”):
+
+Model: alberto-lorente/roberta_AGEM_davidsonTOfountaTOlong_exp_TIME_2
+- Page: https://huggingface.co/alberto-lorente/roberta_AGEM_davidsonTOfountaTOlong_exp_TIME_2
+- Task: Text Classification
+- Architecture: RoBERTa (tagged “roberta”; paper arxiv:1910.09700)
+- Model size: ~125M parameters (BF16)
+- File format: safetensors
+- Notes: The model card is auto-generated with limited details, but the page explicitly tags it for Text Classification and indicates RoBERTa as the underlying architecture.
+
+Intended use case
+- Text classification tasks (as indicated by the model’s pipeline tag on the page). Examples commonly include sentiment analysis, topic classification, or toxicity/hate speech detection; however, this specific card does not provide detailed use examples beyond the task tag.
+
+Architecture
+- RoBERTa-based sequence classification model. The page tags it with “roberta” and links to the RoBERTa paper (arXiv:1910.09700), and shows a 125M-parameter size consistent with a base RoBERTa variant, packaged as safetensors.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Huggingface--16/screenshot_1757992334.png

@@ -1,0 +1,27 @@
+Here’s travel inspiration gathered directly from a Booking.com travel article: “The 9 most beautiful beaches in the US.” I visited the article and summarized three of the featured places below.
+
+Summaries of places mentioned
+- Driftwood Beach, Georgia (Jekyll Island)
+  - Why it stands out: An eerie-beautiful shoreline shaped by erosion, with sun-bleached, gnarled driftwood scattered across smooth sand. Sunsets are particularly striking, and at low tide, small tidal pools around the driftwood reveal crabs and other sea life.
+- Pfeiffer Beach, California (Big Sur)
+  - Why it stands out: Known for its metallic purple-tinted sand created by manganese deposits from nearby hillsides, this otherworldly beach offers dramatic coastal scenery and a unique, photogenic shoreline.
+- Miami’s South Beach, Florida
+  - Why it stands out: Iconic white-sand beach with turquoise water, an energetic vibe, and classic Art Deco backdrops. Beyond sunbathing and water sports, you’ll find Latin-influenced dining and nightlife, plus colorful lifeguard towers that are local landmarks.
+
+Other places highlighted in the article (not summarized above)
+- Folly Beach, South Carolina
+- Kill Devil Hills, North Carolina (Outer Banks)
+- Siesta Key Beach, Florida (near Sarasota)
+- Gulf Shores, Alabama
+- Waikiki Beach, Hawaii
+- Oxnard Beach Park, California
+
+Screenshot
+A screenshot of the article page has been captured: test_cases/result_with_screenshot_small/Booking--35/screenshot_1757999392.png
+
+What I did
+- Navigated to Booking.com
+- Opened the Travel Articles section
+- Selected and opened “The 9 most beautiful beaches in the US”
+- Extracted and summarized destination highlights
+- Took a screenshot of the final article page

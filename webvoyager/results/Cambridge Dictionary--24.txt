@@ -1,0 +1,8 @@
+Here are the details for “reverie” from the Cambridge Dictionary:
+
+- Definition (English): (a state of having) pleasant dream-like thoughts:
+- UK pronunciation: /ˈrev.ər.i/
+- US pronunciation: /ˈrev.ɚ.i/
+- Example sentence: He was lost in reverie until he suddenly heard someone behind him.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--24/screenshot_1758147609.png

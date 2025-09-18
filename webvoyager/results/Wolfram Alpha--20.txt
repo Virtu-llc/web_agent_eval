@@ -1,0 +1,6 @@
+I visited Wolfram|Alpha, entered the query, and computed the definite integral. Here are the results shown on the page:
+
+- Definite integral result: 3/2 (e^10 - 1)
+- Approximate value: ≈ 33038
+
+Screenshot: Saved at test_cases/result_with_screenshot_small/Wolfram Alpha--20/screenshot_1758068273.png

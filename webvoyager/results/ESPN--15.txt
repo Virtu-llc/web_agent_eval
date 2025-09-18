@@ -1,0 +1,9 @@
+I visited ESPN and navigated to the NBA Scoreboard for Monday, December 25, 2023. Here are the final scores from that date:
+
+- Bucks 122 at Knicks 129
+- Warriors 114 at Nuggets 120
+- Celtics 126 at Lakers 115
+- 76ers 113 at Heat 119
+- Mavericks 128 at Suns 114
+
+Screenshot saved: test_cases/result_with_screenshot_small/ESPN--15/screenshot_1758103643.png

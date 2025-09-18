@@ -1,0 +1,13 @@
+Task done. Here are the results from GitHub:
+
+Repository found
+- Name: Igalia/wolvic
+- URL: https://github.com/Igalia/wolvic
+- Stars: 902
+- Last updated: Latest commit 7 hours ago (well within the last 10 days)
+
+Main objective (summarized)
+- Wolvic aims to provide a fast, secure, full‑featured web browser designed specifically for standalone virtual reality and augmented reality headsets. It focuses on delivering a native browsing experience on XR devices.
+
+Evidence captured
+- Screenshot of the repository page: test_cases/result_with_screenshot_small/GitHub--25/screenshot_1758156493.png

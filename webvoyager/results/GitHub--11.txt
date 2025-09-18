@@ -1,0 +1,16 @@
+Here’s a GitHub repository that matches your criteria, along with the requested details:
+
+Selected project
+- Repository: Dextr27/climateChangeAPI
+- Created (initiated): Jan 28, 2023
+- Description: Latest climate change news API.
+- Main programming language: JavaScript
+
+Screenshot
+- Saved screenshot of the repository page (showing the description and language): test_cases/result_with_screenshot_small/GitHub--11/screenshot_1758043894.png
+
+What I did
+- Searched GitHub for repositories with the query: climate change created:2023-01-01..2023-01-31
+- Opened a relevant public repository created in January 2023
+- Verified the repo’s description and main language from the repository page
+- Captured the final screenshot as requested

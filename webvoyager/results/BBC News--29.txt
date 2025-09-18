@@ -1,0 +1,18 @@
+Task completed
+
+Here’s what I found by following your instructions:
+
+- Started at https://www.bbc.com/news/
+- Navigated via the top “Audio” link to the BBC Audio section
+- Went into Podcast Categories > News > BBC News (brand page)
+
+On the “BBC Audio | BBC News” page, there is no section labeled “New Releases.” The page presents an “Episodes (48 available)” list. The latest episode shown at the top (i.e., the most current release) is:
+
+- Title: 17/09/2025 09:01 GMT
+- Programme: BBC News
+- Duration: 5 mins
+- Synopsis: “The latest five minute news bulletin from BBC World Service.”
+
+Screenshot captured from the final page: test_cases/result_with_screenshot_small/BBC News--29/screenshot_1758102103.png
+
+Note: The page itself doesn’t show a “New Releases” label. If “New Releases” refers to the newest item on the BBC News Audio page, the episode above is the latest displayed.

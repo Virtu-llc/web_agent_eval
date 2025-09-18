@@ -1,0 +1,9 @@
+I visited Wolfram|Alpha and computed the raw memory for a true-color (24-bit) image of size 100.2" × 123.5" at 72 ppi by evaluating:
+(100.2*72) * (123.5*72) * 3 bytes
+
+Result (as shown on Wolfram|Alpha):
+- 1.925×10^8 bytes
+- 192.5 MB (decimal)
+- 183.5 MiB (binary)
+
+Screenshot saved: test_cases/result_with_screenshot_small/Wolfram Alpha--42/screenshot_1758155295.png

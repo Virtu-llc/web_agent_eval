@@ -1,0 +1,18 @@
+Task completed: found a vegetarian lasagna recipe on Allrecipes that meets your criteria and captured a screenshot.
+
+Result
+- Recipe title: Spinach Lasagna
+- URL: https://www.allrecipes.com/recipe/22729/spinach-lasagna-iii/
+- Average rating: 4.7 out of 5
+- Ratings: 737
+- Reviews: 509
+- Summary: “A spinach lasagna recipe made with fresh spinach and plenty of cheese — ricotta, Romano, and mozzarella. This cheesy, hearty lasagna can also be made without the spinach.”
+- Submitter: Robbie Rice
+- Last updated: April 22, 2024
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--6/screenshot_1758039358.png
+
+Notes
+- This recipe satisfies “at least a four-star rating” (4.7) and “over 500 reviews” (509).
+- Data extracted directly from the recipe page header section.

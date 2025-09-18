@@ -1,0 +1,7 @@
+Here is an example of a pre-trained NLP language model from Hugging Face and the task it’s designed for:
+
+- Model: facebook/bart-large-cnn (by AI at Meta)
+- Task(s): Summarization
+  - Evidence on the model page: shows the “Summarization” pipeline tag and states “You can use this model for text summarization.” This checkpoint is a BART model pre-trained on English and fine-tuned on the CNN/DailyMail summarization dataset.
+
+Screenshot: test_cases/result_with_screenshot_small/Huggingface--8/screenshot_1758124303.png

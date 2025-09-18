@@ -1,0 +1,9 @@
+Task completed.
+
+Found a qualifying recipe on Allrecipes:
+- Title: Artichoke Spinach Lasagna
+- Average rating: 4.6 out of 5
+- Reviews: 1,292 reviews (1,818 ratings shown)
+- URL: https://www.allrecipes.com/recipe/20082/artichoke-spinach-lasagna/
+
+Screenshot: Attached (file: test_cases/result_with_screenshot_small/Allrecipes--18/screenshot_1757976735.png)

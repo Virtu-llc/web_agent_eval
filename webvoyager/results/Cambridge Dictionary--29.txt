@@ -1,0 +1,7 @@
+- Visited Cambridge Dictionary, navigated to the +Plus section, opened Image quizzes, and selected “Animals - Easy”.
+- Completed the quiz and reached the results page.
+
+Final score: 3 / 6
+
+Screenshot of the final result page:
+test_cases/result_with_screenshot_small/Cambridge Dictionary--29/screenshot_1758151640.png

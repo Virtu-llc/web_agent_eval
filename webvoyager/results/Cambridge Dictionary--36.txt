@@ -1,0 +1,107 @@
+Task completed: I visited the Cambridge Dictionary site, searched within the Grammar section for guidance on indirect (reported) speech, opened the article “Reported speech: indirect speech,” extracted the key guidelines with examples, and took a screenshot.
+
+Source page
+- Title: Reported speech: indirect speech - Cambridge Grammar
+- URL: https://dictionary.cambridge.org/grammar/british-grammar/reported-speech-indirect-speech
+
+What the page says (guidelines and examples)
+
+Definition and overview
+- Indirect speech focuses on the content of what someone said rather than their exact words. The reported clause structure depends on whether you report a statement, a question, or a command.
+
+Reporting statements
+- Form: reporting clause + that-clause. “That” is often omitted in informal speech.
+- Examples:
+  - ‘I’m tired,’ I said. → I told them (that) I was tired.
+  - The pilot commented that the weather had been extremely bad as the plane came in to land.
+  - I told my wife I didn’t want a party on my 50th birthday. (… that I didn’t …)
+
+Reporting yes–no and alternative questions
+- Form: reporting clause + if/whether + statement word order (subject + verb).
+- Examples:
+  - ‘Are you Scottish?’ → She asked if I was Scottish.
+  - ‘Do you want a table near the window?’ → The waiter asked whether we wanted a table near the window.
+  - ‘Did you come by train or by bus?’ → He asked me if I had come by train or by bus.
+
+Reporting wh-questions
+- Form: reporting clause + wh-word (who, what, when, where, why, how) + statement word order (subject + verb). No question mark.
+- Examples:
+  - He asked me what I wanted. (Not: … what I wanted?)
+  - She wanted to know who we had invited to the party. (Not: … who had we invited …)
+  - I asked her when it had happened. (Not: … when had it happened?)
+  - I asked her where the bus station was. (Not: … where was the bus station?)
+  - The teacher asked them how they wanted to do the activity. (Not: … how did they want …)
+
+Reporting commands
+- Form: reporting clause + to-infinitive (or not to + infinitive for negative).
+- Examples:
+  - ‘Leave at once!’ → They ordered us to leave at once.
+  - ‘Sit down and stop interrupting!’ → The chairperson told him to sit down and to stop interrupting.
+  - They advised me to wait till the following day. (from: ‘You should wait …’)
+  - The guard warned us not to enter the area. (from: ‘You must not enter …’)
+
+Backshift (tense changes when reporting past speech)
+- Typical changes:
+  - present simple → past simple
+  - present continuous → past continuous
+  - present perfect (simple/continuous) → past perfect (simple/continuous)
+  - past simple → past perfect simple
+  - past continuous → past perfect continuous
+  - will → would
+  - past perfect → no change
+- Examples:
+  - I said, ‘I’m not very happy at work.’ → I told her I was not very happy at work.
+  - ‘We’re going home.’ → They told us they were going home.
+  - He said, ‘Jane will be late.’ → He said that Jane would be late.
+  - ‘What happened to make her so angry?’ he asked. → He asked what had happened to make her so angry.
+
+Modal verbs in reported speech (common changes)
+- will → would: ‘We will be there,’ he promised. → He promised they would be there.
+- shall → would; in reported questions, shall → should:
+  - She said, ‘I shall need more money.’ → She said she would need more money.
+  - ‘Shall I open it?’ she asked. → She asked if she should open it.
+- can → could: ‘I can see you at 2.30,’ he added. → He added that he could see me at 2.30.
+- may (possibility) → might; may (permission) → could:
+  - ‘I may be back later,’ she said. → She said she might be back later.
+  - ‘You may wait in the hallway,’ he said. → He said we could wait in the hallway.
+- must (obligation) → had to; must (speculation) → no change:
+  - ‘You must pay by 30th April.’ → She said we had to pay by 30th April.
+  - ‘It must be awful …’ → She said it must be awful …
+- No change: could, should, would, might, needn’t; used to and ought to do not change.
+  - ‘You needn’t come till six o’clock,’ he said. → He said we needn’t come till six o’clock.
+
+No backshift (when not to change tense)
+- Keep the original tense if the statement is still true/relevant or refers to future events from the time of reporting.
+- Examples:
+  - He told me his brother works for an Italian company.
+  - She said she’s getting married next year.
+  - He said he’s finished painting the door.
+  - She promised she’ll help us.
+
+Pronoun, time, and place word changes
+- Pronouns change depending on who is speaking and who is being talked about:
+  - ‘I don’t want to shock people,’ Tom said. → Tom said he didn’t want to shock people.
+  - ‘You need to be here at nine o’clock,’ George told Beatrice. → George told Beatrice she needed to be there at nine o’clock.
+- Typical time/place/demonstrative changes:
+  - this → that; these → those
+  - now → then
+  - yesterday → the day before
+  - tomorrow → the next/following day
+  - two weeks ago → two weeks before
+  - here → there
+- Examples:
+  - ‘I’ll meet you here tomorrow.’ → I told her I would meet her there the next/following day.
+  - ‘… at this moment in time.’ → ‘… at that moment in time.’
+  - ‘I want it now.’ → He said he wanted it then/at that moment.
+  - ‘I finished the job three weeks ago,’ the boy protested. → The boy protested that he had finished the job three weeks before.
+
+Typical errors to avoid
+- Use statement word order (subject + verb) in indirect wh-questions:
+  - She always asks me where I am going. (Not: where am I going.)
+- Don’t use a question mark in indirect wh-questions:
+  - I asked him what he was doing. (Not: … what he was doing?)
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--36/screenshot_1758137079.png
+
+I’ve provided the key guidance and several examples directly from the Cambridge Grammar page above.

@@ -1,0 +1,17 @@
+Here’s what I found on ESPN’s NHL Standings for the 2024-25 season:
+
+Conference (Conference view)
+- Eastern Conference
+  - Top: Ottawa Senators
+  - Bottom: New Jersey Devils
+- Western Conference
+  - Top: Dallas Stars
+  - Bottom: Colorado Avalanche
+
+Division (Division view)
+- Atlantic: Top Ottawa Senators — Bottom Montreal Canadiens
+- Metropolitan: Top Carolina Hurricanes — Bottom New Jersey Devils
+- Central: Top Dallas Stars — Bottom Colorado Avalanche
+- Pacific: Top Calgary Flames — Bottom San Jose Sharks
+
+Screenshot saved: test_cases/result_with_screenshot_small/ESPN--30/screenshot_1758043685.png

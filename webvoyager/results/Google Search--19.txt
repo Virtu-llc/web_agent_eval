@@ -1,0 +1,15 @@
+Here’s what I found by visiting Google, opening the google-research/bert repository on GitHub, and checking its latest commit and associated PR:
+
+- First 7 characters of the latest commit SHA (master branch): eedf571
+- What changed in that commit:
+  - It’s a merge commit of PR #1027: “Add links to 24 smaller BERT models.”
+  - The underlying change added to the repository is in README.md with 71 additions and 0 deletions.
+  - Exactly added content includes:
+    - A new section titled “New March 11th, 2020: Smaller BERT Models”
+    - Links to 24 smaller, uncased English BERT models (download URLs), organized in a table by depth (L) and hidden size (H)
+    - A GLUE test-set scores table for several of the smaller models (Tiny, Mini, Small, Medium)
+    - Fine-tuning hyperparameters ranges (batch sizes and learning rates) used (trained for 4 epochs)
+    - A citation block for “Well-Read Students Learn Better: On the Importance of Pre-training Compact Models” (arXiv:1908.08962)
+    - Link reference definitions for each model download and for “all” models
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Search--19/screenshot_1758074789.png

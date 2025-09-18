@@ -1,0 +1,27 @@
+Actions performed
+- Opened https://www.amazon.com/
+- Searched for electric kettle
+- Applied filters:
+  - Customer Reviews: 4 Stars & Up
+  - Material: Stainless Steel
+- Refined the query to target capacity: “stainless steel electric kettle 1.7L”
+- Confirmed results page shows “4 Stars & Up” and “Stainless Steel” filters applied, with search results for 1.7L (>= 1.5 liters)
+- Took a screenshot of the filtered results
+
+Top matching results currently visible
+(Note: All shown under “4 Stars & Up” and “Stainless Steel”; capacities are taken from product titles and are ≥ 1.5 liters.)
+- COSORI Electric Kettle, No Plastic Inner Lid, Filter and Spout, Double Wall Stainless Steel … 1.5L/1500W, Silver
+- COMFEE' Stainless Steel Electric Kettle, 1.7 Liter Tea Kettle Electric & Hot Water Kettle, 1500W Fast Boil with LED Light, Auto Shut-Off and Boil-Dry Protection
+- Cuisinart 1.7-Liter Stainless Steel Cordless Electric Kettle with 6 Preset Temperatures
+- Electric Kettle, 1.7L Double Wall Stainless Steel Cool Touch, Water Boiler & Heater, 1500W Hot Tea Pot, Auto Shut-Off & Boil Dry Protection, BPA-Free, Cordless Base & LED Indicator, Black
+- COMFEE' 1.7L Stainless Steel Electric Tea Kettle, BPA-Free Hot Water Kettle Electric with LED Light, Auto Shut-Off and Boil-Dry Protection, 1500W Fast Boil Electric Kettle
+- KRUPS 1.5L Electric Kettle, Cool Touch Stainless Steel Interior, Fast Boiling … Double Wall … Keep Warm, Cordless, Black
+- Hamilton Beach Electric Tea Kettle, Water Boiler & Heater, 1.7 Liter … Stainless Steel with LED Light Ring (41037)
+- OVENTE 1.8L Electric Kettle, 1500W Fast Boiling Heater … Stainless Steel … KP413LBL
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Amazon--32/screenshot_1758055938.png
+
+Notes
+- The “Customer Reviews: 4 Stars & Up” and “Material: Stainless Steel” filters are applied.
+- Capacity filter is not available in Amazon’s sidebar for this query; to meet “≥ 1.5 liters,” the search was refined with “1.7L,” and only items explicitly listing ≥ 1.5L in the title were selected in the list above.

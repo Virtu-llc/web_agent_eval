@@ -1,0 +1,38 @@
+Task completed
+
+Where I went
+- Opened https://www.bbc.com/news/
+- Navigated via the top Earth > Green Living section to: https://www.bbc.com/future-planet/green-living
+- In “Latest stories,” opened the newest article:
+  - Title: Tristan da Cunha: The lobsters keeping Earth’s remotest town afloat
+  - URL: https://www.bbc.com/future/article/20250915-tristan-da-cunha-the-lobsters-keeping-earths-remotest-town-afloat
+  - Date shown on page: 1 day ago
+  - By: Nick Schönfeld (photos by Julia Gunther)
+
+Summary of main points
+- Lifeline fishery in an extreme location:
+  - Tristan da Cunha (≈229 residents), the world’s most remote inhabited island, depends economically on the St Paul spiny lobster fishery (Jasus paulensis). Lobsters are sold in markets such as the US, Japan and the UK.
+  - Fishing days are limited (≈18–72 per season), and skilled local fishers use small boats, traps and hoop nets, backed by generational knowledge (e.g., triangulating landmarks and using kelp forests).
+
+- Strict marine protection with local design:
+  - The archipelago sits within a 687,000 sq km Marine Protected Zone (MPZ), among the world’s largest; 91% is no-take. The rest allows tightly managed inshore lobster fishing with quotas, size limits, on-board observers and satellite surveillance.
+  - The MPZ was designed (2017–2019) with islanders, fisheries and conservation groups (e.g., RSPB), adding shipping “Areas to Be Avoided” to reduce accidents and protect sensitive habitats.
+
+- History, oversight and current operations:
+  - Past overfishing reduced lobster numbers until size limits (1983) and quotas (1991; stricter enforcement from 1997) were introduced.
+  - A concession (Ovenstone Agencies) has handled the bulk of the commercial catch in recent seasons; local boats land the remainder. Fisheries staff tag lobsters, collect biomass data and use underwater cameras, while observers measure catches at sea.
+
+- Environmental and enforcement challenges:
+  - Climate change signals include warming seas affecting summer kelp growth (a key lobster habitat) and potentially shifting lobsters southward out of reach.
+  - Shipping introduces risks: invasive species (e.g., silver porgy from a stranded oil platform) and spills (e.g., MS Oliva in 2011). These incidents highlighted vulnerability despite isolation.
+  - Enforcement relies on AIS-based satellite monitoring and the UK Marine Management Organisation; Tristan lacks a patrol vessel and coast guard. Compliance is reported as high and ship transits within 25 nautical miles have declined, but pressures remain near the MPZ boundary.
+
+- Culture and conservation ethic:
+  - Fishing is central to community identity (e.g., Sea Sunday blessings). Islanders emphasize not taking more than needed and view the MPZ as protecting both livelihoods and one of the planet’s most pristine ocean ecosystems.
+  - Scientific surveys (e.g., National Geographic’s Pristine Seas, 2017) confirmed abundant wildlife, kelp forests and seabird colonies, reinforcing the case for local-led protection.
+
+Screenshot
+- Saved a screenshot of the opened article page: test_cases/result_with_screenshot_small/BBC News--20/screenshot_1758134917.png
+
+Notes
+- The latest “Green Living” item clearly listed “The lobsters keeping Earth’s remotest town afloat” as the most recent story (1 day ago) on the BBC Earth | Green Living index before opening.

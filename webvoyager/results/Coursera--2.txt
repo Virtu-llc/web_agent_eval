@@ -1,0 +1,14 @@
+Here are the courses in the Beginner’s Spanish Specialization I found on Coursera: “Learn Spanish: Basic Spanish Vocabulary” by University of California, Davis.
+
+Courses in this Specialization:
+1) Spanish Vocabulary: Meeting People
+2) Spanish Vocabulary: Cultural Experience
+3) Spanish Vocabulary: Sports, Travel, and the Home
+4) Spanish Vocabulary: Careers and Social Events
+5) Spanish Vocabulary Project
+
+Screenshot captured (showing the course list section):
+- File: test_cases/result_with_screenshot_small/Coursera--2/screenshot_1758109180.png
+
+Page visited:
+- https://www.coursera.org/specializations/learn-spanish

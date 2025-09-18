@@ -1,0 +1,68 @@
+Here’s what I did and what I found:
+
+1) Navigated to the Hugging Face documentation and opened the PEFT docs
+- PEFT docs index: https://huggingface.co/docs/peft/index
+
+2) Found the tutorial that shows how to load adapters with PEFT
+- Tutorial: “PEFT configurations and models”
+- URL: https://huggingface.co/docs/peft/tutorial/peft_model_config
+- This page shows how to load a base model and then load a PEFT adapter for inference with PeftModel.from_pretrained.
+
+How to load a PEFT adapter for inference (from the tutorial)
+- From the page above, the steps and code snippet shown are:
+  - You need the PeftConfig used to create the adapter and the base model it was trained from.
+  - Example:
+    from peft import PeftModel, PeftConfig
+    from transformers import AutoModelForCausalLM
+
+    config = PeftConfig.from_pretrained("ybelkada/opt-350m-lora")
+    model = AutoModelForCausalLM.from_pretrained(config.base_model_name_or_path)
+    lora_model = PeftModel.from_pretrained(model, "ybelkada/opt-350m-lora")
+
+How to load the base model in 4-bit or 8-bit (bitsandbytes) before loading the adapter
+- Quantization guide in the PEFT docs: https://huggingface.co/docs/peft/developer_guides/quantization
+
+What the PEFT Quantization page says:
+- “With this [Transformers + bitsandbytes] integration, you can quantize a model to 8 or 4-bits … by configuring the BitsAndBytesConfig class.”
+- It provides a concrete example for 4-bit:
+  import torch
+  from transformers import BitsAndBytesConfig
+
+  config = BitsAndBytesConfig(
+      load_in_4bit=True,
+      bnb_4bit_quant_type="nf4",
+      bnb_4bit_use_double_quant=True,
+      bnb_4bit_compute_dtype=torch.bfloat16,
+  )
+
+  # Pass the config to from_pretrained
+  from transformers import AutoModelForCausalLM
+  model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-v0.1", quantization_config=config)
+
+- The page explicitly states 8-bit and 4-bit quantization are supported. It shows the 4-bit example above. To load in 8-bit, use the same approach but set load_in_8bit=True in BitsAndBytesConfig and pass quantization_config=config to from_pretrained.
+
+Putting it together (load low-bit base model, then load PEFT adapter)
+- 4-bit (exactly as shown in docs for 4-bit):
+  from transformers import BitsAndBytesConfig, AutoModelForCausalLM
+  from peft import PeftModel
+
+  quant_config = BitsAndBytesConfig(
+      load_in_4bit=True,
+      bnb_4bit_quant_type="nf4",
+      bnb_4bit_use_double_quant=True,
+      bnb_4bit_compute_dtype=torch.bfloat16,
+  )
+  base_model = AutoModelForCausalLM.from_pretrained("YOUR_BASE_MODEL", quantization_config=quant_config)
+  peft_model = PeftModel.from_pretrained(base_model, "YOUR_ADAPTER_REPO_OR_PATH")
+
+- 8-bit (per the same page’s statement that 8-bit is supported):
+  Use BitsAndBytesConfig(load_in_8bit=True) and pass it as quantization_config to from_pretrained, then load your adapter with PeftModel.from_pretrained.
+
+Screenshot
+- I took a screenshot on the tutorial page where loading a PeftModel for inference is shown. File saved as: test_cases/result_with_screenshot_small/Huggingface--25/screenshot_1758147603.png
+
+Done:
+- Located the relevant PEFT tutorial showing how to load adapters for inference.
+- Extracted the on-page instructions and code for loading an adapter.
+- Found and extracted the on-page instructions on how to load a model in 4-bit (and noted that the same mechanism supports 8-bit via BitsAndBytesConfig).
+- Captured a screenshot at the final step.

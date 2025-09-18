@@ -1,0 +1,9 @@
+Here’s a GitHub repository that meets your criteria:
+
+- Repository: PennyLaneAI/pennylane
+- URL: https://github.com/PennyLaneAI/pennylane
+- Stars: 2.8k
+- Recent activity: Latest commit 1 hour ago (updated within the last week)
+- Brief description: PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry—an open-source framework for quantum programming built by researchers, for research.
+
+Screenshot saved: test_cases/result_with_screenshot_small/GitHub--15/screenshot_1758048235.png

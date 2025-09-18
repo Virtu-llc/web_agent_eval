@@ -1,0 +1,19 @@
+Here’s what I found on BBC News after navigating to the Artificial Intelligence section:
+
+Top headline (from the Artificial Intelligence section):
+- New AI deal could rapidly boost UK economy, says Microsoft boss
+
+Companies involved (as named in the top story’s article):
+- Microsoft
+- Google
+- Nvidia
+- OpenAI
+- Arm
+- Nscale
+
+Notes:
+- The top story describes a major AI investment package tied to the UK, with Microsoft’s $30bn component and additional investments/initiatives from Google and Nvidia. It also references the “Stargate UK” data centre project involving OpenAI, Nvidia, Arm, and Nscale.
+
+Screenshot:
+- I’ve captured a screenshot of the Artificial Intelligence section showing the top headline.
+- File: test_cases/result_with_screenshot_small/BBC News--32/screenshot_1758107144.png

@@ -1,0 +1,6 @@
+Result found
+
+- Software requirement: iOS 17.1 or later on iPhone supports AirDrop transfers continuing over the internet when you step out of AirDrop range.
+- Source: Apple Support — “About iOS 17 Updates,” iOS 17.1 section (it states: “This update introduces the ability for AirDrop transfers to continue over the internet when you step out of AirDrop range.”)
+
+Screenshot: Attached (shows the iOS 17.1 section with the relevant line).

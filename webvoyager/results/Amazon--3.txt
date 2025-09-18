@@ -1,0 +1,13 @@
+Here’s what I did:
+- Opened Amazon.com
+- Searched for “climbing gear”
+- Sorted results by “Price: High to Low”
+- Captured a screenshot of the sorted results page
+
+Top 3 results after sorting by Price: High to Low:
+1) Kids Safety Climbing Net, Color-Changing Rope Ladder for Outdoor Playground, Backyard Climbing Cargo Net, Protective Training Gear, 200x600cm — $816.66
+2) Tree Climbing Spikes, Stainless Steel Tree Climbing Gear, Adjustable Pole Climbing Spikes for Electric Worker, Climbing Pole, Water Pipe Climbing — $766.99
+3) Adjustable Stainless Steel Tree Climbing Spikes with Anti-Slip Pedals - Essential Climbing Gear for Hunting, Fruit Picking, and Tree Observation (Model 400) — $713.98
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Amazon--3/screenshot_1758078194.png

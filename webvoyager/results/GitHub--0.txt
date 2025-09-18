@@ -1,0 +1,16 @@
+Here’s the most-starred open-source project on GitHub matching “climate change data visualization”:
+
+Top project
+- Repository: resource-watch/resource-watch
+- Stars: 71
+- Description (from results): Resource Watch features hundreds of data sets all in one place on the state of the planet’s resources and citizens. Users can visualize climate-related datasets, among others.
+- URL: https://github.com/resource-watch/resource-watch
+
+What I did
+- Searched GitHub for “climate change data visualization”
+- Filtered to Repositories and sorted by “Most stars”
+- Identified the top result by star count
+
+Screenshot
+- Saved a screenshot of the results page showing the sorted list with the top repository.
+- File: test_cases/result_with_screenshot_small/GitHub--0/screenshot_1758138106.png

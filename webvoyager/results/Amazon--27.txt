@@ -1,0 +1,17 @@
+Task completed: I visited Amazon, searched for a USB-C hub, sorted results by Best Sellers, and selected a product that meets your criteria. Here are the details:
+
+Selected product
+- Name: Hiearcool USB C Hub, USB-C Multi-Port Adapter for MacBook Pro, 7IN1 USBC to HDMI Hub Dongle Compatible for Laptops and Other Type C Devices (4K HDMI USB3.0 SD/TF Card Reader 100W PD)
+- Price: $19.99
+- Sort: Results sorted by “Best Sellers”
+- Compatibility: Mentioned in title and bullets (Works with MacBook Pro/Air, among others)
+- Ports/Features (from page “About this item”):
+  - HDMI 4K@30Hz
+  - 2× USB-A 3.0 (5Gbps)
+  - SD & microSD card slots
+  - USB-C PD pass-through (up to 100W)
+  - At least 6 ports, including HDMI and SD card reader
+- Link: https://www.amazon.com/dp/B07WPTG7NX
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Amazon--27/screenshot_1757994254.png

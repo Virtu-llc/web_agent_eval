@@ -1,0 +1,13 @@
+Task completed.
+
+Result
+- License filter applied: cc-by-sa-4.0
+- Sorting applied: Most likes
+- Most liked model (within cc-by-sa-4.0):
+  - Name: replit/replit-code-v1-3b
+  - Likes: 737
+  - Category: Text Generation
+  - Updated: Jul 21, 2023
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Huggingface--3/screenshot_1758109502.png

@@ -1,0 +1,7 @@
+Here are the results for the lowest-priced one-way flight from Cairo (CAI) to Montreal (YUL) on Feb 21, 2026, as displayed on Google Flights:
+
+- Lowest price: 456 US dollars
+- Total travel time: 28 hr 10 min
+- Number of stops: 1 stop (overnight layover at Istanbul Airport)
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Flights--35/screenshot_1758024301.png

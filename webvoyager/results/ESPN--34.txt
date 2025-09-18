@@ -1,0 +1,35 @@
+Here are the latest Philadelphia 76ers injuries on ESPN, as shown on the team’s Injuries page:
+
+- Jul 19 — Justin Edwards (F)
+  - Status: Day-to-day
+  - Note: Edwards (rest) is out for Friday’s Summer League game against the Nets.
+
+- Jul 19 — Johni Broome (F)
+  - Status: Day-to-day
+  - Note: Broome (rest) has been ruled out for Friday’s Summer League game against the Nets.
+
+- Jul 19 — Dominick Barlow (F)
+  - Status: Day-to-day
+  - Note: Barlow (not injury related) will be shut down for the remainder of the Summer League.
+
+- Jul 14 — Paul George (F)
+  - Status: Day-to-day
+  - Note: George (knee) underwent surgery Monday to treat an injury sustained during a recent workout.
+
+- Jul 14 — Joel Embiid (C)
+  - Status: Day-to-day
+  - Note: Embiid (knee) has resumed partial basketball activities.
+
+- Jul 3 — Kelly Oubre Jr. (SG)
+  - Status: Day-to-day
+  - Note: Oubre (knee) exercised his $8.38 million player option with the 76ers on Sunday.
+
+- Jul 3 — Jared McCain (G)
+  - Status: Day-to-day
+  - Note: McCain (knee) will not be part of the team’s Summer League roster.
+
+- Jul 3 — Tyrese Maxey (PG)
+  - Status: Day-to-day
+  - Note: Maxey (finger) is expected to miss the rest of the season.
+
+Screenshot captured: test_cases/result_with_screenshot_small/ESPN--34/screenshot_1758062768.png

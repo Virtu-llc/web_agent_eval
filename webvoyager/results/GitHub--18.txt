@@ -1,0 +1,12 @@
+What I did:
+- Opened GitHub and searched for “topic:image-processing sort:stars” to list repositories tagged with image-processing, sorted by stars.
+- Confirmed the top-ranked repository by star count on the results page.
+- Captured a screenshot of the results.
+
+Result:
+- Most popular image processing tool: opencv/opencv
+- Description: Open Source Computer Vision Library
+- Stars: 84,012 (as shown on the search results page at the time of access)
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/GitHub--18/screenshot_1758146922.png

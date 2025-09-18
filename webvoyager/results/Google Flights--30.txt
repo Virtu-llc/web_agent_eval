@@ -1,0 +1,8 @@
+Result found on Google Flights for one-way, Cape Town to Singapore, departing March 20, 2026:
+
+- Airline: Ethiopian
+- Total layovers: 1 stop
+
+Note: The results page shows 5 flights for that date, and the lowest fare displayed is “From 543 US dollars total” for the Ethiopian option with 1 stop (layover at Addis Ababa).
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Flights--30/screenshot_1758060268.png

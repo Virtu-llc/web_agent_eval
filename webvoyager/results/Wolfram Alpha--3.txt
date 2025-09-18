@@ -1,0 +1,5 @@
+Here’s the result from Wolfram|Alpha for the indefinite integral of x^2 cos(2x):
+
+g(x) = 1/4 ((2x^2 − 1) sin(2x) + 2x cos(2x)) + C
+
+Screenshot captured: test_cases/result_with_screenshot_small/Wolfram Alpha--3/screenshot_1758161321.png

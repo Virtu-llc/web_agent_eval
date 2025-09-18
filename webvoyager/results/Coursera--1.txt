@@ -1,0 +1,16 @@
+Task completed: Searched on Coursera and found a beginner-level Python course suitable for someone with no programming experience. I captured a screenshot at the final step.
+
+Found course
+- Title: Programming for Everybody (Getting Started with Python)
+- University: University of Michigan
+- Instructor: Charles Russell Severance
+- Level: Beginner level
+- Prerequisites: No prior experience required
+- Rating: 4.8 (232,133 reviews)
+- Enrolled: 3,409,455 already enrolled
+- Duration/Schedule: 2 weeks at 10 hours a week; Learn at your own pace
+- Modules: 7 modules
+- Link: https://www.coursera.org/learn/python
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Coursera--1/screenshot_1758066747.png

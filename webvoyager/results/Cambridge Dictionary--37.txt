@@ -1,0 +1,61 @@
+Task completed on Cambridge Dictionary (English Grammar Today): A/an and the
+
+What the page explains
+- Meaning
+  - a/an are the indefinite article: used before a noun that is not already known to the speaker/listener/reader.
+    - Examples: Do you have a car?; Do you live in a house? — No, actually, I live in an apartment.
+  - the is the definite article: used before a noun that is already known to the speaker/listener/reader.
+    - Examples: Where did we park the car?; We had to paint the apartment before we sold it.
+
+- Making a noun specific with the
+  - Compare:
+    - Have you been to an ice rink? (not specific)
+    - Have you been to the ice rink? (specific — the one both know)
+
+- a vs an (by sound)
+  - Use a /ə/ before a consonant sound:
+    - a car, a house, a big truck, a wheel, a grey day
+    - Words beginning with a vowel letter but consonant sound: a united group (/juː-/), a university, a one-year-old child
+  - Use an /ən/ before a vowel sound:
+    - an apple, an old shoe, an orchestra, an umbrella
+    - Words beginning with a consonant letter but vowel sound: an hour, an MP3 player
+
+- Pronunciation of the
+  - /ðiː/ before vowel sounds: the exit, the apple
+  - /ðə/ before consonant sounds: the team, the union
+
+Articles with types of nouns
+- Countable nouns
+  - a/an only with singular countables:
+    - I have a sister and a brother.
+    - That was an excellent meal.
+  - the with singular and plural countables:
+    - The lion roared. The tree fell.
+    - The lions roared. The trees fell.
+
+- Uncountable nouns
+  - Do not use a/an:
+    - Could I have rice instead of potatoes with my fish? Not: Could I have a rice
+    - I hope we have nice weather. Not: I hope we have a nice weather.
+  - Use the when specific:
+    - The rice we bought in the Thai shop is much better than the supermarket rice.
+    - The weather was awful last summer.
+  - To refer to quantities of an uncountable noun, use expressions like a bit of, a piece of, or a [measure] of:
+    - That’s an amazing bit of news. Not: That’s an amazing news.
+    - We just made a big bowl of pasta. Not: We just made a pasta.
+    - Could I have a litre of milk, please? Not: Could I have a milk, please?
+
+Additional useful points from the page
+- No article before other determiners (any, some, my, this):
+  - I love my job. Not: I love the my job.
+  - Does she want this book? Not: Does she want the this book?
+- the with things universally known:
+  - The earth moves around the sun. We … watched the stars.
+- Jobs and professions:
+  - She’s a gardener. He’s an ambulance driver.
+
+Source page
+- A/an and the — English Grammar Today (Cambridge Dictionary)
+
+Screenshot saved
+- File: test_cases/result_with_screenshot_small/Cambridge Dictionary--37/screenshot_1758099615.png

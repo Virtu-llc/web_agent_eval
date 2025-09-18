@@ -1,0 +1,52 @@
+Here’s what I found after browsing Coursera for Business and Coursera for Teams, followed by a screenshot of the final page.
+
+Coursera for Business – advantages observed
+- Designed for teams of all sizes (5–125 learners and 125+ learners options)
+- Core benefits (5–125 learners):
+  - Train teams with industry experts and top universities
+  - Enrich learning solutions with tailored paths and AI tools
+  - Self-serve setup in minutes
+  - Track team progress with built-in reports
+- Core benefits (125+ learners):
+  - Train teams with industry experts and top universities
+  - Enrich learning solutions with tailored paths and AI tools
+  - Boost employee engagement with globally recognized credentials
+  - Customize scalable learning solutions efficiently
+- High-quality content and breadth:
+  - 350+ leading companies and universities
+  - 20+ of the top global business schools
+  - 10,600+ courses, 1,400+ specializations, 165+ Professional Certificates
+  - Diverse content formats (from clips to certificates)
+- Role-based learning:
+  - Skills Tracks (Data, IT, Software & Product, GenAI) with focused, measurable paths, hands-on practice, and verified credentials
+- Business impact highlights on the page:
+  - 5X: Hiring for skills is five times more predictive of job performance than hiring for education
+  - 70%: Executives cite lack of access to the right skills as a hurdle to GenAI implementation
+  - 39%: Workers’ skills will change or be outdated by 2030
+
+Coursera for Teams – advantages observed
+- Purpose-built for small-to-mid-sized teams (5 to 125 employees)
+- Quick start and pricing:
+  - From purchase to learning in one day
+  - $399 USD per user for 12 months — 14-day refund guarantee
+- Measured outcomes and engagement:
+  - 25% more productivity (IDC)
+  - 38% higher retention (IDC)
+  - 97% employee engagement in non-mandatory training (Forrester TEI)
+- World-class, extensive catalog:
+  - 12,000+ courses, 140+ certificates, 1,500+ hands-on labs, 200,000+ clips
+  - Earn globally recognized Professional Certificates
+- Skills-based learning and tracking:
+  - Skill benchmarks, proficiency dashboards, and daily progress tracking
+- Personalization and AI:
+  - AI-powered, tailored, multilingual, role-specific learning paths
+  - Personalized AI guidance to accelerate skill growth
+- Employee motivation:
+  - Certificates and badges recognized in the industry to boost completion and engagement
+- Trusted partners:
+  - Content authored by 325+ trusted partners (e.g., Google, University of Michigan, IBM, Meta, etc.)
+
+Screenshot
+- Saved file: test_cases/result_with_screenshot_small/Coursera--40/screenshot_1758158338.png
+
+If you’d like, I can also capture a second screenshot of the Coursera for Business page.

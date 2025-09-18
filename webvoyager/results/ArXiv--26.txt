@@ -1,0 +1,17 @@
+Here’s what I did and found:
+
+- Opened arXiv.org
+- Searched for “climate change modeling”
+- Switched to Advanced Search to apply precise filters
+- Applied filters:
+  - Subject: Physics → archive: astro-ph
+  - Added term: cat:astro-ph.EP
+  - Date: Submission date, Date range from 2025-09-10 to 2025-09-17 (last 7 days from today)
+- Submitted the advanced query
+
+Result:
+- The results page reports: “Sorry, your query returned no results”
+- Therefore, the number of papers related to “climate change modeling” in Earth and Planetary Astrophysics (astro-ph.EP) over the last week is 0.
+
+Screenshot:
+- Saved a screenshot of the final results page: test_cases/result_with_screenshot_small/ArXiv--26/screenshot_1758101575.png

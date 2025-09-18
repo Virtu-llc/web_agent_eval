@@ -1,0 +1,15 @@
+Task completed: I visited Allrecipes, searched for chocolate cupcakes, and selected a recipe that meets your criteria. Here are the details I verified on the recipe page:
+
+Selected recipe
+- Title: Chocolate Cupcakes
+- Reviews: 1,255 Reviews (Rating shown as 4.2 with 1,530 ratings)
+- Time: Prep 15 mins, Cook 15 mins, Total 30 mins
+- Link: https://www.allrecipes.com/recipe/17377/chocolate-cupcakes/
+
+Why it fits
+- Prep time under 1 hour: Yes (15 minutes)
+- At least 100 user reviews: Yes (1,255 reviews)
+
+Screenshot
+- I took a screenshot of the recipe page showing the title, rating, reviews, and time information.
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--11/screenshot_1757985139.png

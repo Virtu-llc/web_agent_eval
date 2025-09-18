@@ -1,0 +1,9 @@
+Here’s what I found on the Cambridge Dictionary page for “procrastination”:
+
+- UK pronunciation: /prəˌkræs.tɪˈneɪ.ʃən/
+- US pronunciation: /proʊˌkræs.tɪˈneɪ.ʃən/
+
+Example sentence (from the entry):
+- “This is no time for procrastination - we need decisive action.”
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--5/screenshot_1758027424.png

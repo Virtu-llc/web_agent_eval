@@ -1,0 +1,21 @@
+Task completed: Found the cheapest round-trip options from New York to Tokyo departing January 25, 2026 and returning February 15, 2026 on Google Flights, and captured a screenshot.
+
+Cheapest round-trip options (as displayed):
+1) Price: $771 round trip total
+   - Airline: Asiana Airlines (1 stop via ICN)
+   - Outbound: Leaves JFK at 11:15 AM on Sun, Jan 25; arrives NRT at 9:00 PM on Mon, Jan 26
+   - Duration: 19 hr 45 min
+   - Layover: 1 hr 30 min at ICN
+
+2) Price: $771 round trip total
+   - Airline: Asiana Airlines (1 stop via ICN)
+   - Outbound: Leaves JFK at 11:15 AM on Sun, Jan 25; arrives HND at 11:25 PM on Mon, Jan 26
+   - Duration: 22 hr 10 min
+   - Layover: 4 hr 20 min at ICN
+
+Notes:
+- The listed prices are round-trip totals for the specified dates (Jan 25 to Feb 15, 2026).
+- Multiple cheapest options at $771 are available with different arrival airports (NRT or HND) and different layover durations via Seoul (ICN).
+
+Screenshot saved:
+test_cases/result_with_screenshot_small/Google Flights--10/screenshot_1758049477.png

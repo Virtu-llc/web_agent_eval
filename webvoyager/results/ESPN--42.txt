@@ -1,0 +1,6 @@
+Result from ESPN NCAAM standings – America East Conference (current):
+- UAlbany Great Danes — Conference W-L: 8-8 (equal wins and losses)
+
+Note: The W-L column on this standings page represents conference record.
+
+Screenshot: test_cases/result_with_screenshot_small/ESPN--42/screenshot_1758048086.png

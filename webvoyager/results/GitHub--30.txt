@@ -1,0 +1,15 @@
+Here’s an open-source blockchain project on GitHub updated within the past 15 days, along with its top five contributors:
+
+Selected project:
+- Repository: aptos-labs/aptos-core
+- Why: It’s a major Layer-1 blockchain project (Aptos) and it was updated very recently (within minutes on the search results page).
+
+Top 5 contributors (from the repository’s Contributors page):
+- gregnazario — 1,427 commits
+- JoshLind — 1,359 commits
+- davidiw — 1,356 commits
+- bmwill — 806 commits
+- msmouse — 732 commits
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/GitHub--30/screenshot_1758155447.png

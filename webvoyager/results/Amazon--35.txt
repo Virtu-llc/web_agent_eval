@@ -1,0 +1,16 @@
+Task completed. I found a qualifying men’s leather wallet on Amazon and verified all requested criteria, then captured a screenshot.
+
+Product found:
+- Title: Top Grain Leather Wallet for Men | RFID Blocking | Extra Capacity Bifold Wallet with 2 ID Windows | Ultra Strong Stitching | Slim Billfold with 8 Card Slots | Gift for Him
+- Price: $39.99 (below $50)
+- Material: Leather (Top Grain)
+- RFID blocking: Yes (stated in title and bullets)
+- Card slots: 8 (meets “at least 6”)
+- FREE delivery: The page shows “FREE delivery Sunday, September 21” and also “Prime members get FREE delivery Tomorrow, September 17.” Ships from Amazon. In Stock.
+- Link: https://www.amazon.com/Leather-Bifold-Wallet-Blocking-Windows/dp/B07MXQLHTW
+
+Screenshot:
+- Saved file: test_cases/result_with_screenshot_small/Amazon--35/screenshot_1758078903.png
+
+Notes:
+- Details such as price, card slot count, and FREE delivery text were taken directly from the product page.

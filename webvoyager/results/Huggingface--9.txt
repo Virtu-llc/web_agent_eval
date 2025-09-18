@@ -1,0 +1,14 @@
+Task completed: I visited Hugging Face, filtered Translation models by Most downloads, searched for en-ja, and identified the most downloaded English-to-Japanese (en-ja) model. I opened its model card and captured the evaluation metrics and a screenshot.
+
+Most downloaded en-ja translation model
+- Model: staka/fugumt-en-ja
+- Downloads (listed in search results): 53.9k
+
+Evaluation metrics stated on the model card
+- Dataset/sample: Tatoeba (randomly selected 500 sentences)
+- Metric: BLEU = 32.7
+- Scoring details: sacrebleu with tokenization ja-mecab
+
+Screenshot
+- Saved file: test_cases/result_with_screenshot_small/Huggingface--9/screenshot_1758113174.png
+- The screenshot displays the model card with the “Eval results” section showing the BLEU score and evaluation notes.

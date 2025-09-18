@@ -1,0 +1,15 @@
+Task completed: I found a qualifying surge protector on Amazon and captured a screenshot.
+
+Result
+- Product: 6 Ft Surge Protector Power Strip - 8 Widely Outlets with 4 USB Ports, 3 Side Outlet Extender with 6 Feet Extension Cord, Flat Plug, Wall Mount, Desk USB Charging Station, ETL, White (YISHU)
+- Number of outlets: 8
+- Price seen: $8.99 (Limited time deal; typical price $9.99)
+- Customer reviews: 4.6 out of 5 stars (39,742 ratings)
+- Condition: New (default purchase option)
+- Link: https://www.amazon.com/Surge-Protector-Power-Strip-Extension/dp/B09PDLBFKY
+
+Screenshot
+- Saved to: test_cases/result_with_screenshot_small/Amazon--14/screenshot_1757977018.png
+
+Notes
+- All criteria matched: “new,” 6–8 outlets (8), price under $25, and rating above 4 stars.

@@ -1,0 +1,18 @@
+Task completed: I visited Coursera, searched for beginner JavaScript courses, and verified a course that is beginner-friendly and includes a certificate. I captured a screenshot at the final step.
+
+Identified course
+- Title: Programming with JavaScript
+- Provider: Meta
+- Level shown on page: Beginner level
+- Certificate shown on page: Shareable certificate (also “Earn a career certificate” section present)
+- URL: https://www.coursera.org/learn/programming-with-javascript
+
+What I verified on the course page
+- “Beginner level” is displayed near the top details.
+- “Shareable certificate” is listed under “Details to know,” confirming a certificate upon completion.
+
+Screenshot
+- Saved file: test_cases/result_with_screenshot_small/Coursera--18/screenshot_1758106315.png
+
+Notes
+- I used Coursera’s search and filters, then navigated to the course page to confirm the level and certificate details directly from the page before taking the screenshot.

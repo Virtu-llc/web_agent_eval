@@ -1,0 +1,22 @@
+Task completed on Allrecipes.
+
+Found high-rated recipe (≥50 reviews)
+- Title: Gluten-Free Fudge Brownies
+- URL: https://www.allrecipes.com/recipe/127503/gluten-free-fudge-brownies/
+- Ratings/Reviews: 4.1 stars with 75 ratings and 69 reviews
+
+Total Time
+- 1 hr
+
+Main Ingredients
+- 2/3 cup gluten-free baking mix (such as Bob's Red Mill All Purpose GF Baking Flour®)
+- 1/2 cup cornstarch
+- 1 cup white sugar
+- 1 cup packed brown sugar
+- 3/4 cup unsweetened cocoa powder
+- 1 teaspoon baking soda
+- 2 eggs, beaten
+- 3/4 cup margarine, melted
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Allrecipes--21/screenshot_1757985991.png

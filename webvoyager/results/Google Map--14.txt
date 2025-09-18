@@ -1,0 +1,42 @@
+Task accomplished:
+- Opened Google Maps and searched “Radio City Music Hall”
+- Used the “Nearby” search to find “motorcycle parking”
+- Gathered actual results from the results panel near Radio City Music Hall
+- Captured a screenshot at the final step
+
+Top nearby motorcycle/parking results shown:
+- iPark - NYC Parking West 54th Parking Corp.
+  - Category: Parking lot for motorcycles
+  - Address: 133 W 54th St
+  - Hours: Closed · Opens 6 AM
+  - Phone: (212) 445-0592
+
+- 101-139 W 53rd St Garage
+  - Category: Parking lot
+  - Address: 101-139 W 53rd St
+  - Phone: (800) 836-6666
+
+- Edison ParkFast
+  - Category: Parking garage
+  - Address: 50 W 44th St
+  - Hours: Open 24 hours
+  - Phone: (888) 727-5327
+
+- 30 W 44th St Parking
+  - Category: Parking lot
+  - Address: 30W W 44th St
+
+- Icon Parking
+  - Category: Parking garage
+  - Address: 57-59 W 53rd St
+  - Hours: Open 24 hours
+  - Phone: (212) 586-0169
+
+- MP Parking
+  - Category: Parking garage
+  - Address: 241 W 55th St
+  - Hours: Open 24 hours
+  - Phone: (212) 256-0978
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Map--14/screenshot_1757997189.png

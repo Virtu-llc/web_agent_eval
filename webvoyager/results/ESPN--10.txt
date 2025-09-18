@@ -1,0 +1,12 @@
+Task summary:
+- Visited ESPN and navigated to the College Football Playoff coverage.
+- Opened ESPN’s postgame article about the championship.
+- Extracted the final score and a concise recap from the article.
+- Captured a screenshot of the ESPN page.
+
+Latest College Football Championship (per ESPN):
+- Final score: Ohio State 34, Notre Dame 23
+- Brief recap: At Mercedes-Benz Stadium in Atlanta, Ohio State built a 31-7 third-quarter lead before Notre Dame rallied to cut it to two possessions. A late “dagger” catch by Jeremiah Smith helped the Buckeyes seal it as they celebrated their seventh national title. Notre Dame showed resilience after a difficult season stretch but fell short in the title game.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/ESPN--10/screenshot_1758154225.png

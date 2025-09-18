@@ -1,0 +1,9 @@
+Here’s what I found after visiting Google and checking a reliable result:
+
+Upcoming projects for Jerry Trainor (from TMDB):
+- Untitled iCarly Movie — Role: Spencer
+- Predator: Killer of Killers (2025) — Role: Additional Voices (voice)
+
+Source: The Movie Database (TMDB) page for Jerry Trainor, which lists these under his Acting credits.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Search--13/screenshot_1758076897.png

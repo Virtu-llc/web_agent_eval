@@ -1,0 +1,12 @@
+Here’s what I did and found:
+
+- Navigated to apple.com > Apple Trade In
+- Opened the Trade-In estimator (Get your estimate)
+- Chose: Smartphone > Apple > iPhone 13 Pro Max
+- Condition: Yes — My phone is in good condition
+
+Result on Apple’s website:
+- Trade-in credit toward a new iPhone: $320
+- Or Apple Gift Card credit: $305
+
+I’ve captured a screenshot of the final result for your reference. Filename: test_cases/result_with_screenshot_small/Apple--22/screenshot_1758056662.png

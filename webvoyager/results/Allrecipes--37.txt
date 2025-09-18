@@ -1,0 +1,14 @@
+Task completed: I searched Allrecipes for a Greek salad recipe, opened a result that meets your criteria, verified the prep time and review count, and captured a screenshot.
+
+Recipe found
+- Title: Greek Salad
+- URL: https://www.allrecipes.com/recipe/14373/greek-salad-i/
+- Prep time: 20 mins (under 25 minutes)
+- Reviews: 193 reviews (more than 15)
+
+Requested details
+- Primary cheese used: Feta cheese (listed as “crumbled feta cheese” in Ingredients)
+- Recommended dressing: A simple mixture of olive oil, lemon juice, dried oregano, and ground black pepper (as described on the page)
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--37/screenshot_1758098069.png

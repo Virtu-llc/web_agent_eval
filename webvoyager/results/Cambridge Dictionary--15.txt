@@ -1,0 +1,11 @@
+Here’s what I found on the Cambridge Dictionary page for “pandemic” and a screenshot of the entry.
+
+Pronunciation (English Dictionary)
+- UK: /pænˈdem.ɪk/
+- US: /pænˈdem.ɪk/
+
+Sample sentence (from the adjective sense)
+- In some parts of the world malaria is still pandemic.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--15/screenshot_1758058029.png

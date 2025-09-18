@@ -1,0 +1,21 @@
+Task summary:
+- Visited ESPN (https://www.espn.com/)
+- Navigated to ESPN’s Watch and Support sections
+- Opened the ESPN Fan Support article: “What is the difference between ESPN+ and ESPN Select?” on the ESPN domain
+- Extracted the ESPN+ details and captured a final screenshot
+
+What ESPN+ is used for (from ESPN’s page):
+- ESPN+ is the streaming content component included in both ESPN Select and ESPN Unlimited plans.
+- ESPN Select includes ESPN+ content only (for fans who want ESPN+ exclusively).
+- ESPN Unlimited includes all ESPN networks and services, including ESPN+.
+- Certain pay-TV packages may continue to provide ESPN+ content within these plans.
+
+Source page (ESPN Fan Support article):
+- Title: “What is the difference between ESPN+ and ESPN Select?”
+- Key lines observed on-page:
+  - “ESPN+ is available to fans in both our ESPN Select and Unlimited Plans.”
+  - “ESPN Select includes ESPN+ content only. Fans who want ESPN+ exclusively may subscribe to the ESPN Select plan.”
+  - “ESPN Unlimited includes all of the ESPN networks and services, including ESPN+.”
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/ESPN--40/screenshot_1757981641.png

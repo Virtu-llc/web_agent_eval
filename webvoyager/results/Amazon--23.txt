@@ -1,0 +1,19 @@
+Task completed: Found a men’s waterproof digital sports watch with a heart rate monitor on Amazon, priced within $50–$100, and captured a screenshot.
+
+Product found
+- Title: Smart Watches for Men Women, 1.8" Screen Activity Tracker, Heart Rate/Sleep/SpO2 Monitor, Make/Answer Calls, IP68 Waterproof Smartwatch for iPhone & Android, 101+ Sport Modes Fitness Reloj Inteligente
+- Price: $59.98
+- Key features on page:
+  - Heart Rate Monitor (listed under Special features)
+  - IP68 Waterproof (shown in feature tabs and About this item)
+  - Digital smartwatch, 1.8" touchscreen
+  - 101+ Sport Modes
+- Ratings: 4.0 out of 5 stars (7,788 ratings)
+- Store: Visit the Gydom Store
+- Amazon page: Product detail page opened and verified
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Amazon--23/screenshot_1758111981.png
+
+Notes
+- The item meets all your criteria: waterproof (IP68), digital sports watch, includes heart rate monitoring, and priced within $50–$100.

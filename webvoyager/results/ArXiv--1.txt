@@ -1,0 +1,60 @@
+I visited arXiv.org and used Advanced Search to find papers with:
+- Query: "quantum computing" (in Title)
+- Date filter: Date range from 2025-09-15 to 2025-09-17
+- Date type: Submission date (most recent)
+- Sorted by announcement date (newest first)
+
+Found 10 results (submitted within the last two days). Here are the papers:
+
+1) Mitigating the sign problem by quantum computing
+- arXiv: 2509.13017 — https://arxiv.org/abs/2509.13017
+- Authors: Kwai-Kong Ng, Min-Fong Yang
+- Submitted: 16 September, 2025
+
+2) First Practical Experiences Integrating Quantum Computers with HPC Resources: A Case Study With a 20-qubit Superconducting Quantum Computer
+- arXiv: 2509.12949 — https://arxiv.org/abs/2509.12949
+- Authors: Eric Mansfield, Stefan Seegerer, Panu Vesanen, Jorge Echavarria, Burak Mete, Muhammad Nufail Farooqi, Laura Schulz
+- Submitted: 16 September, 2025
+
+3) Quantum Computing Tools for Fast Detection of Gravitational Waves in the Context of LISA Space Mission
+- arXiv: 2509.12929 — https://arxiv.org/abs/2509.12929
+- Authors: Maria-Catalina Isfan, Laurentiu-Ioan Caramete, Ana Caramete, Daniel Tonoiu, Alexandru Nicolin-Zaczek
+- Submitted: 16 September, 2025
+
+4) Extension of the Jordan-Wigner mapping to nonorthogonal spin orbitals for quantum computing application to valence bond approaches
+- arXiv: 2509.12680 — https://arxiv.org/abs/2509.12680
+- Authors: Alessia Marruzzo, Mosè Casalegno, Piero Macchi, Fabio Mascherpa, Bernardino Tirri, Guido Raos, Alessandro Genoni
+- Submitted: 16 September, 2025
+
+5) Quantum reservoir computing for predicting and characterizing chaotic maps
+- arXiv: 2509.12071 — https://arxiv.org/abs/2509.12071
+- Authors: Qingyu Li, Chiranjib Mukhopadhyay, Ludovico Minati, Abolfazl Bayat
+- Submitted: 15 September, 2025
+
+6) Evaluating Variational Quantum Circuit Architectures for Distributed Quantum Computing
+- arXiv: 2509.12005 — https://arxiv.org/abs/2509.12005
+- Authors: Leo Sünkel, Jonas Stein, Jonas Nüßlein, Tobias Rohe, Claudia Linnhoff-Popien
+- Submitted: 15 September, 2025
+
+7) Towards a Global Scale Quantum Information Network: A Study Applied to Satellite-Enabled Distributed Quantum Computing
+- arXiv: 2509.11908 — https://arxiv.org/abs/2509.11908
+- Authors: Laurent de Forges de Parny, Luca Paccard, Mathieu Bertrand, Luca Lazzarini, Valentin Leloup, Raphael Aymeric, Agathe Blaise, Stéphanie Molin, Pierre Besancenot, Cyrille Laborde, Mathias van den Bossche
+- Submitted: 15 September, 2025
+
+8) Quantum Computation with Correlated Measurements: Implications for the Complexity Landscape
+- arXiv: 2507.03692 — https://arxiv.org/abs/2507.03692
+- Authors: David Miloschewsky, Supartha Podder
+- Submitted: 15 September, 2025 (v1 on 4 July, 2025; originally announced July 2025)
+
+9) Measurement-free code-switching for low overhead quantum computation using permutation invariant codes
+- arXiv: 2411.13142 — https://arxiv.org/abs/2411.13142
+- Authors: Yingkai Ouyang, Yumang Jing, Gavin K. Brennen
+- Submitted: 15 September, 2025 (v1 on 20 November, 2024; originally announced November 2024)
+
+10) New Lower-bounds for Quantum Computation with Non-Collapsing Measurements
+- arXiv: 2411.04085 — https://arxiv.org/abs/2411.04085
+- Authors: David Miloschewsky, Supartha Podder
+- Submitted: 15 September, 2025 (v1 on 6 November, 2024; originally announced November 2024)
+
+Screenshot of the final results page:
+- File: test_cases/result_with_screenshot_small/ArXiv--1/screenshot_1758124694.png

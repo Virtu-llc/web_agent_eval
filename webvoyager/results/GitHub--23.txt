@@ -1,0 +1,18 @@
+I navigated to GitHub, opened the ohmyzsh/ohmyzsh repository, went to its Wiki, and opened the Themes page to the “agnoster” section.
+
+How to change your zsh theme to “agnoster” (from the Oh My Zsh Wiki):
+- Edit your ~/.zshrc and set the theme before sourcing Oh My Zsh:
+  - Set ZSH_THEME="agnoster"
+  - The page states: “In order to enable a theme, set ZSH_THEME to the name of the theme in your ~/.zshrc before sourcing Oh My Zsh; for example: ZSH_THEME=robbyrussell”
+- Save the file and reload zsh:
+  - Run: source ~/.zshrc
+
+Agnoster-specific notes (from the agnoster section on the Themes page):
+- Additional setup:
+  - Install one of the patched fonts from Vim-Powerline or patch your own for the special characters.
+  - Optional prompt cleanup:
+    - Set DEFAULT_USER to your regular username to hide “user@hostname” locally.
+    - Or add ALWAYS_SHOW_USER to your zshrc to always hide “user@hostname”.
+
+Screenshot of the final page/section:
+- Saved: test_cases/result_with_screenshot_small/GitHub--23/screenshot_1758113730.png

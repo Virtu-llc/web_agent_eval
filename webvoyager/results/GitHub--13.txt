@@ -1,0 +1,9 @@
+Here’s the latest top-trending Machine Learning project on GitHub (Trending > Repositories, Date range: Today):
+
+- Repository: rasbt / LLMs-from-scratch
+- Description: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- Stars:
+  - Total stars: 71,354
+  - Stars today: 427
+
+Screenshot captured: test_cases/result_with_screenshot_small/GitHub--13/screenshot_1757989153.png

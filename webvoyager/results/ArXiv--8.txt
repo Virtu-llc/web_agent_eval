@@ -1,0 +1,10 @@
+Here’s the latest news on arXiv (from the official arXiv blog):
+
+- Attention Authors: TeX Live 2025 now available on arXiv — Publication date: September 10, 2025
+  - Summary: TeX Live 2025 is now available in the arXiv submission process.
+
+- Attention Authors: Submission 1.5 and other updates — Publication date: September 10, 2025
+  - Summary: arXiv has updated and streamlined its submission process as part of ongoing modernization.
+
+Screenshot taken of the current arXiv blog homepage showing the latest posts:
+- Screenshot: test_cases/result_with_screenshot_small/ArXiv--8/screenshot_1758026718.png

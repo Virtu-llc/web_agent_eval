@@ -1,0 +1,12 @@
+Result
+0 articles.
+
+How I found it
+- Went to arXiv Advanced Search.
+- Searched for the exact phrase "autonomous vehicles" in All fields.
+- Limited Subject to Electrical Engineering and Systems Science (eess) and excluded cross-listed papers.
+- Filtered date by Submission date (original) for the range 2025-09-17 to 2025-09-18 (the form requires To > From; this range includes yesterday, 2025-09-17).
+- The results page reported: “Sorry, your query returned no results,” which implies 0 matches for the specified criteria (including yesterday).
+
+Screenshot
+Saved: test_cases/result_with_screenshot_small/ArXiv--23/screenshot_1758160097.png

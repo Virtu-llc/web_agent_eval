@@ -1,0 +1,13 @@
+I visited arXiv.org, ran a site-wide search for “neural network,” sorted the results by Submission date (newest first), and opened the top result to confirm details. The latest paper submitted within the last week is:
+
+- Title: JANUS: A Dual-Constraint Generative Framework for Stealthy Node Injection Attacks
+- arXiv ID: arXiv:2509.13266
+- Authors: Jiahao Zhang, Xiaobing Pei, Zhaokun Zhong, Wenqiang Hao, Zhenghao Tang
+- Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
+- Submitted on: 16 Sep 2025
+- DOI: https://doi.org/10.48550/arXiv.2509.13266
+- Abstract (excerpt): Graph Neural Networks (GNNs) have demonstrated remarkable performance across various applications, yet they are vulnerable to sophisticated adversarial attacks, particularly node injection attacks. … We propose a dual-constraint stealthy node injection framework, called JANUS, aligning local feature manifolds and global structured latent variables, optimized with a reinforcement learning agent. Experiments show significant improvements in both attack effectiveness and stealthiness.
+
+Link to abstract page: https://arxiv.org/abs/2509.13266
+
+Screenshot: test_cases/result_with_screenshot_small/ArXiv--9/screenshot_1758149229.png

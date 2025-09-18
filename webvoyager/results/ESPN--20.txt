@@ -1,0 +1,7 @@
+I visited ESPN and found the current NBA Western Conference leaders for the 2024-25 Regular Season on ESPN’s “Conference Stat Leaders” pages.
+
+Results (Western Conference):
+- Assists leader: Nikola Jokic (DEN) — 10.2 AST
+- Rebounds leader: Domantas Sabonis (SAC) — 13.9 REB
+
+Screenshot: test_cases/result_with_screenshot_small/ESPN--20/screenshot_1758156464.png

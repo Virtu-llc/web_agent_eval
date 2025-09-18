@@ -1,0 +1,15 @@
+Here is a beginner-friendly Coursera course on Digital Marketing that matches your request:
+
+Course: Foundations of Digital Marketing and E-commerce
+- Institution: Google (Offered by Google)
+- Level: Beginner level (No prior experience required)
+- Duration: 1 week at 10 hours a week
+- Main learning outcomes (as listed under “What you’ll learn”):
+  - Define the fields of digital marketing and e-commerce
+  - Describe the job responsibilities of an entry-level digital marketer and e-commerce specialist
+  - Explain the concept of a marketing funnel
+  - Understand the elements and goals of a digital marketing and e-commerce strategy
+
+Screenshot: test_cases/result_with_screenshot_small/Coursera--21/screenshot_1758136037.png
+
+Source page: https://www.coursera.org/learn/foundations-of-digital-marketing-and-e-commerce

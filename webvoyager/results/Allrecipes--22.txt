@@ -1,0 +1,17 @@
+Task completed: Found an avocado salad recipe on Allrecipes that meets your criteria and captured a screenshot.
+
+Recipe found
+- Title: Avocado Salad
+- URL: https://www.allrecipes.com/recipe/19960/avocado-salad/
+- Prep time: 15 mins
+- Reviews: 254 reviews (335 ratings shown)
+- Servings: 6
+
+Nutrition Facts (per serving)
+- Calories: 126
+- Fat: 10g
+- Carbs: 10g
+- Protein: 2g
+
+Screenshot
+- Saved file: test_cases/result_with_screenshot_small/Allrecipes--22/screenshot_1758100105.png

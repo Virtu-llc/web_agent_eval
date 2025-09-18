@@ -1,0 +1,18 @@
+Actions taken:
+- Opened https://www.bbc.com/news/
+- Used the site’s menu search to look for “UK plan to tackle climate change”
+- Reviewed the BBC search results page and extracted the most relevant headlines focused on UK climate policy and plans
+- Captured a screenshot of the results page
+
+Main BBC News headlines related to the UK's plan to tackle climate change (from the results page):
+- Council scraps 2030 net-zero target
+  https://www.bbc.com/news/articles/cvgr9p7rl54o
+- Reform UK scraps Derbyshire climate change aim
+  https://www.bbc.com/news/articles/cq65rqd38l7o
+- Residents voice offshore wind farm plan opposition
+  https://www.bbc.com/news/articles/cj3l64pr5k7o
+- Fire service trials jeeps to tackle wildfires
+  https://www.bbc.com/news/articles/cz602jzvv7zo
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/BBC News--10/screenshot_1758105282.png

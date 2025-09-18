@@ -1,0 +1,9 @@
+Here are the top 5 highest-grossing animated movies (sorted by worldwide box office), as extracted from the Wikipedia “Highest-grossing animated films” table:
+
+1) Ne Zha 2 — $2,228,420,000
+2) Inside Out 2 — $1,698,863,816
+3) The Lion King — $1,656,943,394
+4) Frozen 2 — $1,450,026,933
+5) The Super Mario Bros. Movie — $1,362,566,989
+
+Screenshot taken of the results section: test_cases/result_with_screenshot_small/Google Search--21/screenshot_1758053251.png

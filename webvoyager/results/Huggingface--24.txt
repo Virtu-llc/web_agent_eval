@@ -1,0 +1,11 @@
+I visited Hugging Face, filtered Models by license to Apache-2.0, sorted by Most likes, and captured the top result.
+
+Top Apache-2.0 model by likes:
+- Model: hexgrad/Kokoro-82M
+- Task: Text-to-Speech
+- Last updated: Apr 10
+- Downloads: 3.38M
+- Likes: 5.04k
+- License filter applied: apache-2.0
+
+Screenshot saved: test_cases/result_with_screenshot_small/Huggingface--24/screenshot_1758151098.png

@@ -1,0 +1,25 @@
+Here’s a large store in Washington that I located on Google Maps, with kids’ and parking details verified from the listing. I also checked for maternity but could not confirm that attribute from the Google Maps page content.
+
+Store
+- Name: Nordstrom
+- Address: 100 Bellevue Square, Bellevue, WA 98004
+
+Kids’ products
+- Verified via reviews on the listing. Example review excerpt shown in the Reviews tab: “Had a pleasant visit at Nordstrom in Bellevue Square Mall while browsing kids’ wear and shoes. The elevator made it easy to get to the third-floor kids section...”
+
+Maternity products
+- I searched “maternity” in the store’s Google Maps Reviews (using the “Search reviews” feature) and saw “No reviews mention ‘maternity’.”
+- The “About” tab (Offerings) lists “Men’s clothing” and “Women’s clothing” but does not explicitly list “Maternity clothing.”
+- Result: Not confirmed on the Google Maps listing.
+
+Parking
+- Confirmed on the “About” tab:
+  - Accessibility: “Wheelchair accessible parking lot”
+  - Parking: “On-site parking”
+
+Screenshot
+- I’ve captured a screenshot of the store’s “About” tab showing the Parking information.
+  - File: test_cases/result_with_screenshot_small/Google Map--11/screenshot_1758031139.png
+
+Note
+- If you need a store where the Google Maps listing explicitly shows “Maternity clothing” in Offerings, I can keep searching for a different large chain location (e.g., certain Target, Walmart, Old Navy, or H&M stores) whose About tab or attributes include “Maternity clothing.”

@@ -1,0 +1,12 @@
+Here’s what I found on ESPN:
+
+- Top scorer (latest completed NBA game): Shai Gilgeous-Alexander
+- Points scored: 29
+- Team: Oklahoma City Thunder
+- Position: PG (Point Guard)
+
+How I obtained it:
+- Navigated to NBA Scores and selected the most recent completed game, which is the NBA Finals Game 7 (Pacers 91 at Thunder 103 on June 22, 2025). The game leaders on ESPN list S. Gilgeous-Alexander with 29 points.
+- Opened the Thunder team roster on ESPN and verified Shai Gilgeous-Alexander’s position as PG (Point Guard).
+
+Screenshot saved: test_cases/result_with_screenshot_small/ESPN--5/screenshot_1758148482.png

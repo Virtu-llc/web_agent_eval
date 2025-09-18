@@ -1,0 +1,9 @@
+I navigated to apple.com, opened the Entertainment section, and clicked into Apple Music. On the Apple Music page, I reviewed the images and identified the singers named in the on-page pictures.
+
+Artists identified from the images on the page:
+- Kendrick Lamar
+- Kacey Musgraves
+- FINNEAS
+
+Screenshot taken of the Apple Music page:
+- Saved as: test_cases/result_with_screenshot_small/Apple--36/screenshot_1758050652.png

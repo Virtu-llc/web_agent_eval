@@ -1,0 +1,14 @@
+Here’s what I found on Cambridge Dictionary for “cryptocurrency.”
+
+- Definition (Cambridge Dictionary):
+  “a digital currency produced by a public network, rather than any government, that uses cryptography to make sure payments are sent and received safely: cryptocurrencies such as bitcoin”
+
+- Pronunciation:
+  • UK: /ˈkrɪp.təʊˌkʌr.ən.si/
+  • US: /ˈkrɪp.toʊˌkɝː.ən.si/
+
+Two example sentences (original):
+1) The startup raised capital by issuing its own cryptocurrency to early supporters.
+2) Some retailers now accept cryptocurrency for online purchases alongside traditional payment methods.
+
+Screenshot captured: test_cases/result_with_screenshot_small/Cambridge Dictionary--16/screenshot_1758022371.png

@@ -1,0 +1,12 @@
+Here’s what I did:
+- Visited Apple’s website and navigated to Buy iPad Pro
+- Located the “Storage. Choose how much space you’ll need.” section
+- Captured a screenshot of the storage options
+
+Latest iPad Pro storage options available on Apple.com:
+- 256GB
+- 512GB
+- 1TB
+- 2TB
+
+Screenshot: test_cases/result_with_screenshot_small/Apple--21/screenshot_1758039766.png

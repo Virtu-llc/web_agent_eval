@@ -1,0 +1,27 @@
+Here’s what I found on Apple’s website for the latest iPad model Apple is highlighting (iPad Pro):
+
+Model: iPad Pro
+
+Processor
+- Apple M4 chip
+- Note: Models with 256GB or 512GB storage have M4 with a 9‑core CPU; models with 1TB or 2TB have M4 with a 10‑core CPU
+  (Source: iPad Pro page footnote 6)
+
+Storage options
+- 256GB
+- 512GB
+- 1TB
+- 2TB
+  (Source: iPad Pro page footnote 6)
+
+Display features
+- Ultra Retina XDR display
+- Tandem OLED technology
+- ProMotion adaptive 120Hz refresh rate
+- True Tone
+- Reference Mode for color‑accurate workflows
+- Available in 11-inch and 13-inch sizes
+  (Source: “The world’s most advanced display” section on the iPad Pro page)
+
+Screenshot captured
+- Filename: test_cases/result_with_screenshot_small/Apple--8/screenshot_1758137132.png

@@ -1,0 +1,10 @@
+Task completed: Found today’s top story in the BBC News Technology section and captured a screenshot.
+
+Top story details
+- Section: BBC Innovation > Technology
+- Headline: Nvidia boss 'disappointed' by reported China chip ban
+- Published: 10 hours ago (today)
+- URL: https://www.bbc.com/news/articles/cqxz29pe1v0o
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/BBC News--6/screenshot_1758144860.png

@@ -1,0 +1,10 @@
+Outcome:
+Yes — on Apple’s website, the Mac mini can be configured with a GPU larger than 16‑core. On the Mac mini configuration page for the M4 Pro model, the “Chip (Processor)” options include:
+- Apple M4 Pro chip with 12‑core CPU, 16‑core GPU (base)
+- Apple M4 Pro chip with 14‑core CPU, 20‑core GPU (+$200)
+
+This confirms a 20‑core GPU option is available.
+
+Screenshot:
+I captured a screenshot showing the chip options with the 20‑core GPU visible.
+Saved file: test_cases/result_with_screenshot_small/Apple--28/screenshot_1758078452.png

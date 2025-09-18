@@ -1,0 +1,9 @@
+Here are the ratings I found for the movie “Inception”:
+
+- IMDb score: 8.8/10
+  - Source: Google search results snippet for the IMDb page shows “IMDb RATING. 8.8/10”
+- Metacritic score: 74 (Metascore)
+  - Source: Inception Reviews page on Metacritic shows “Metascore … 74” based on 42 critic reviews
+
+Screenshot taken of the final results page:
+- File: test_cases/result_with_screenshot_small/Google Search--28/screenshot_1758075562.png

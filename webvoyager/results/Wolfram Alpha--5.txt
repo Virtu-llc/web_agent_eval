@@ -1,0 +1,12 @@
+Completed: Queried Wolfram|Alpha for y''(z) + sin(y(z)) = 0, captured the solution, and took a screenshot of the results page.
+
+Differential equation solution (as shown on Wolfram|Alpha):
+- y(z) = -2 am(1/2 sqrt((c_1 + 2) (z + c_2)^2), 4/(c_1 + 2))
+- y(z) = 2 am(1/2 sqrt((c_1 + 2) (z + c_2)^2), 4/(c_1 + 2))
+Note: am(x, m) is the Jacobi amplitude function. The constants c_1 and c_2 are arbitrary.
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Wolfram Alpha--5/screenshot_1758153439.png
+
+Source page:
+- https://www.wolframalpha.com/input?i=y%27%27%28z%29+%2B+sin%28y%28z%29%29+%3D+0

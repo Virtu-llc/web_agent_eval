@@ -1,0 +1,23 @@
+Here’s the current top business story on BBC News and its economic implications:
+
+Top story
+- Title: Stephen Miran: Senate confirms Trump pick to Fed board ahead of key interest rate vote
+- URL: https://www.bbc.com/news/articles/cgrq5x97qlqo
+- Time on page: 5 hours ago
+- Key points from the article:
+  - The US Senate narrowly confirmed Stephen Miran to the Federal Reserve Board (48–47).
+  - Miran, currently chair of the Council of Economic Advisers, will be the first sitting White House official in decades to join the Fed board.
+  - He is expected to participate in a key policy meeting this week, with markets expecting a quarter-point rate cut.
+  - Miran supports Trump’s global tariffs and argues they won’t fuel inflation; he also says stricter immigration could reduce housing demand and lower prices.
+  - The appointment has raised concerns about the Fed’s independence; Democrats warn Miran could be perceived as insufficiently independent.
+  - The confirmation comes amid broader White House pressure for rate cuts and a legal fight over attempts to remove Fed Governor Lisa Cook.
+
+Brief overview of economic implications
+- Near‑term rates: Miran’s immediate participation in a key policy meeting, alongside explicit administration pressure for cuts, reinforces market expectations of at least a quarter‑point rate reduction. This supports lower borrowing costs for households, businesses, and government in the short run.
+- Policy tilt and independence: His confirmation could tilt the Fed toward looser policy, potentially boosting growth and markets. However, heightened concerns over the Fed’s independence may raise risk premiums over time if investors perceive policy as politically driven.
+- Inflation dynamics: Miran’s stance that tariffs need not be inflationary contrasts with prior concerns that tariffs lift prices. If his view influences policy framing, it could reduce perceived inflation risks from trade measures—but if tariffs do add to costs, it could complicate the Fed’s price‑stability goals.
+- Housing effects: His argument that stricter immigration lowers housing demand implies potential downward pressure on housing prices and rents—supportive for affordability, but a headwind for construction activity and related employment if demand weakens.
+- Markets and the dollar: Expectations of easier policy generally support equities and credit but can weigh on the dollar and long‑term yields; any uncertainty about institutional independence could introduce volatility.
+
+Screenshot saved
+- File: test_cases/result_with_screenshot_small/BBC News--22/screenshot_1758004768.png

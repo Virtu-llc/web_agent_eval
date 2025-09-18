@@ -1,0 +1,10 @@
+Task summary:
+- Navigated to https://www.bbc.com/news/, then Sport > Golf > Leaderboard.
+- Opened the DP World Tour leaderboard.
+
+Findings from the page:
+- Most recent tournament: BMW PGA Championship (Wentworth GC; 11–14 September 2025)
+- Count at Total -10: 7 entries at -10 (the leaderboard lists individual players, not teams)
+
+Screenshot:
+- Saved a screenshot of the DP World Tour leaderboard page: test_cases/result_with_screenshot_small/BBC News--3/screenshot_1758014075.png

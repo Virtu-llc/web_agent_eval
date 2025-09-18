@@ -1,0 +1,17 @@
+Here is an article on arXiv that matches your criteria (published between 2000-01-01 and 2005-01-01, title includes Support Vector Machines, and Journal ref includes ACL Workshop). I have taken a screenshot at the final step.
+
+Article details
+- Title: Using a Support-Vector Machine for Japanese-to-English Translation of Tense, Aspect, and Modality
+- Authors: Masaki Murata; Kiyotaka Uchimoto; Qing Ma; Hitoshi Isahara
+- arXiv ID: arXiv:cs/0112003 (cs.CL)
+- Submission date: 5 December 2001 (within the requested date range)
+- Journal ref: ACL Workshop, the Data-Driven Machine Translation, 2001
+- Link: https://arxiv.org/abs/cs/0112003
+- PDF: https://arxiv.org/pdf/cs/0112003
+
+Notes
+- The journal reference explicitly contains “ACL Workshop.”
+- The title contains “Support-Vector Machine,” which the arXiv advanced search matched for the query requiring “Support Vector Machines” in the title.
+
+Screenshot
+- Saved file: test_cases/result_with_screenshot_small/ArXiv--42/screenshot_1758154749.png

@@ -1,0 +1,29 @@
+Here’s what I did and found on arXiv:
+
+Steps performed
+- Opened arXiv Advanced Search
+- Set Field to search: Abstract
+- Entered the exact phrase: "Graph Neural Networks"
+- Set Date range: From 2024-01-01 to 2024-01-03
+- Applied to: Submission date (original)
+- Searched and reviewed the results
+
+Results (Showing 1–3 of 3 results)
+1) Strong Transitivity Relations and Graph Neural Networks
+- Authors: Yassin Mohamadi; Mostafa Haghir Chehreghani
+- Author count: 2
+
+2) Saliency-Aware Regularized Graph Neural Network
+- Authors: Wenjie Pei; Weina Xu; Zongze Wu; Weichao Li; Jinfan Wang; Guangming Lu; Xiangrong Wang
+- Author count: 7
+
+3) Graph Neural Networks in Intelligent Transportation Systems: Advances, Applications and Trends
+- Authors: Hourun Li; Yusheng Zhao; Zhengyang Mao; Yifang Qin; Zhiping Xiao; Jiaqi Feng; Yiyang Gu; Wei Ju; Xiao Luo; Ming Zhang
+- Author count: 10
+- Note: v1 submitted 1 January, 2024 (within the specified range)
+
+Answer
+- Number of papers with more than five authors: 2
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/ArXiv--31/screenshot_1758108183.png

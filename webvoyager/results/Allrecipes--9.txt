@@ -1,0 +1,30 @@
+Task completed on Allrecipes.
+
+High-rated vegetarian lasagna recipe found:
+- Title: Black Bean Lasagna
+- Rating on page: 4.3 (126 ratings)
+- URL: https://www.allrecipes.com/recipe/87173/black-bean-lasagna/
+
+Key ingredients (as listed on the recipe):
+- 1 tablespoon vegetable oil
+- 2 onions, chopped
+- 3 cloves garlic, chopped
+- 1/2 green bell pepper, diced
+- 1/2 red bell pepper, diced
+- 2 (15 ounce) cans black beans, drained and rinsed
+- 1 (14.5 ounce) can chopped tomatoes
+- 1 cup salsa
+- Salt and black pepper to taste
+- 2 avocados, peeled, pitted, and mashed
+- 1 clove garlic, chopped
+- 1 tablespoon fresh lemon juice
+- 12 (6 inch) corn tortillas, quartered
+- 2 cups shredded Cheddar cheese
+
+Times (as stated on the recipe):
+- Prep Time: 30 mins
+- Cook Time: 35 mins
+- Total Time: 1 hr 5 mins
+
+Screenshot taken of the recipe page:
+- File: screenshot_1757984572.png (attached)

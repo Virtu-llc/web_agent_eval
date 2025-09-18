@@ -1,0 +1,17 @@
+Actions performed:
+- Visited arXiv and opened the paper “Dense Passage Retrieval for Open-Domain Question Answering” (arXiv:2004.04906).
+- Downloaded/opened the PDF via the “View PDF” link: https://arxiv.org/pdf/2004.04906
+- Opened the HTML rendering (ar5iv) to reliably count math expressions and extract the loss formula.
+- Counted all formula elements and identified the loss function equation.
+
+Results:
+- Number of formulas in the article: 118 (count of all MathML <math> elements in the HTML rendering)
+- Loss function (as given in the Training section):
+  - LaTeX: \displaystyle -\log\frac{e^{\mathrm{sim}(q_{i},p_{i}^{+})}}{e^{\mathrm{sim}(q_{i},p_{i}^{+})}+\sum_{j=1}^{n}{e^{\mathrm{sim}(q_{i},p^{-}_{i,j})}}}.
+  - This corresponds to the negative log-likelihood over the positive passage vs. in-batch (and optional BM25) negatives, where sim(q,p) = E_Q(q)^T E_P(p).
+
+PDF download/open link:
+- https://arxiv.org/pdf/2004.04906
+
+Screenshot:
+- Saved a screenshot after opening the PDF: test_cases/result_with_screenshot_small/ArXiv--18/screenshot_1758051500.png

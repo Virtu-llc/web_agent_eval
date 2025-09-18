@@ -1,0 +1,7 @@
+I visited https://www.wolframalpha.com, searched for “determinant of a 6x6 Hilbert matrix,” and obtained the result.
+
+Result on Wolfram|Alpha:
+- Exact value: 1/186313420339200000
+- Approximate value: 5.3673×10^-18
+
+Screenshot: test_cases/result_with_screenshot_small/Wolfram Alpha--35/screenshot_1758044954.png

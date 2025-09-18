@@ -1,0 +1,12 @@
+Result: 7
+
+On the ESPN home page header, you can choose from 7 sports league links:
+- NFL
+- NBA
+- MLB
+- NCAAF
+- WNBA
+- NHL
+- WWE
+
+Screenshot: test_cases/result_with_screenshot_small/ESPN--18/screenshot_1757981694.png

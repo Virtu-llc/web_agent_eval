@@ -1,0 +1,19 @@
+Task completed: Found a washable dog bed on Amazon with a length of at least 30 inches and captured a screenshot.
+
+Product found:
+- Title: Amazon Basics Living Room Couch Dog Bed with Premium Foam, Pressure-Relief Support for Dogs up to 30lbs, Machine Washable Cover, Medium Sized (30" x 20"), Grey
+- Price: $21.25 (Typical price: $26.15)
+- Washability: Removable, machine-washable polyester cover (listed under “About this item”)
+- Dimensions:
+  - Product Dimensions (About this item): 30 x 20 inches (LxW)
+  - Item Dimensions LxWxH (Product information): 30 x 20 x 6.25 inches
+- Additional details: Non-skid bottom; pressure-relief support
+
+Product page: https://www.amazon.com/Amazon-Basics-Living-Couch-Removable/dp/B0DH4HZKRD
+
+Screenshot saved:
+- File: test_cases/result_with_screenshot_small/Amazon--9/screenshot_1757987269.png
+
+This product meets the requirements:
+- Washable: Yes (machine-washable cover)
+- Length: 30 inches (meets “at least 30 inches”)

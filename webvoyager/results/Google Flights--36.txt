@@ -1,0 +1,60 @@
+Here’s what I did:
+- Opened Google Flights
+- Set trip type: Round trip
+- From: Helsinki (HEL)
+- To: New Delhi (DEL)
+- Depart: Oct 28, 2025
+- Return: Nov 4, 2025
+- Applied filter: Price up to $1,000
+- Collected current flight results and took a screenshot
+
+Filters/criteria visible on page:
+- Route: Helsinki (HEL) → New Delhi (DEL)
+- Dates: Tue, Oct 28, 2025 — Tue, Nov 4, 2025
+- Price: up to $1,000 (selected)
+- Results shown: 6
+
+Top departing flights (under $1000):
+1) Turkish Airlines — $682 round trip
+   - 1 stop (IST, 3 hr 30 min)
+   - Duration: 13 hr 15 min
+   - Depart: HEL 12:30 PM Tue Oct 28
+   - Arrive: DEL 5:15 AM Wed Oct 29
+
+2) Turkish Airlines, IndiGo (operated by Air Indigo) — $734 round trip
+   - 1 stop (IST, 3 hr)
+   - Duration: 12 hr 40 min
+   - Depart: HEL 12:30 PM Tue Oct 28
+   - Arrive: DEL 4:40 AM Wed Oct 29
+
+3) Finnair — $736 round trip
+   - Nonstop
+   - Duration: 8 hr 35 min
+   - Depart: HEL 6:00 PM Tue Oct 28
+   - Arrive: DEL 6:05 AM Wed Oct 29
+
+Other departing flights (under $1000):
+4) Finnair, Oman Air — $720 round trip
+   - 2 stops (CDG, MCT)
+   - Duration: 18 hr
+   - Depart: HEL 4:05 PM Tue Oct 28
+   - Arrive: DEL 1:35 PM Wed Oct 29
+
+5) Finnair, Oman Air — $722 round trip
+   - 2 stops (AMS, MCT)
+   - Duration: 17 hr 45 min
+   - Depart: HEL 4:20 PM Tue Oct 28
+   - Arrive: DEL 1:35 PM Wed Oct 29
+
+6) Finnair, Qatar Airways — $800 round trip
+   - 1 stop (DOH, 2 hr 40 min overnight)
+   - Duration: 12 hr 55 min
+   - Depart: HEL 4:00 PM Tue Oct 28
+   - Arrive: DEL 8:25 AM Wed Oct 29
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Google Flights--36/screenshot_1758109155.png
+
+Notes:
+- All results are displayed with the “up to $1,000” price filter applied.
+- Page indicates “6 results returned.”

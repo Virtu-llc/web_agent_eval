@@ -1,0 +1,13 @@
+Task result:
+- Device: iPhone 11 Pro Max
+- Estimated trade-in value (Apple Trade In): Up to $160
+- Note: Apple indicates values vary based on condition, year, and configuration.
+
+What I did:
+- Navigated to Apple Trade In from apple.com
+- Opened “See all iPhone values” to view the full list
+- Scrolled to the “iPhone 11 Pro Max” row showing “Up to $160”
+- Captured a screenshot of the result
+
+Screenshot:
+test_cases/result_with_screenshot_small/Apple--32/screenshot_1757998975.png

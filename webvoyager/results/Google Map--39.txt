@@ -1,0 +1,40 @@
+I navigated to Google Maps, found driving directions from Miami, FL to New Orleans, LA, expanded the detailed steps, and took a screenshot.
+
+Route summary
+- Mode: Driving
+- Duration: 12 hr 43 min
+- Distance: 865 miles
+- Route: via Florida’s Tpke and I-10 W
+- Notes: This route has tolls. Your destination is in a different time zone.
+
+Turn-by-turn directions
+
+1) Get on I-95 N from S Miami Ave (5 min, 1.4 mi)
+- Head west on SE 13th St toward Brickell Ave — 486 ft
+- Turn left onto S Miami Ave — 0.2 mi
+- At the traffic circle, take the 2nd exit and stay on S Miami Ave — 0.8 mi
+- Turn right onto SW 25th Rd — 377 ft
+- Turn right to merge onto I-95 N — 0.2 mi
+
+2) Follow Florida’s Tpke, I-75 N and I-10 W to Cleveland Ave in New Orleans. Take exit 235B from I-10 W (12 hr 5 min, 863 mi)
+- Merge onto I-95 N — 3.5 mi
+- Keep left to continue on I-95 Express, follow signs for Express Lanes — Toll road — 7.4 mi
+- Take the exit toward Florida Turnpike/FL-826 — Toll road — 381 ft
+- Merge onto I-95 N — 0.5 mi
+- Use the left 2 lanes to take exit 12 A for Florida’s Turnpike toward Turnpike — Toll road — 1.2 mi
+- Merge onto Florida’s Tpke — Toll road — 44.8 mi
+- Keep left to stay on Florida’s Tpke — Toll road — 220 mi
+- Merge onto I-75 N — 107 mi
+- Take exit 435 to merge onto I-10 W toward Tallahassee — Passing through Alabama, Mississippi; Entering Louisiana
+- Keep left to stay on I-10 W, follow signs for New Orleans — 445 mi then 33.2 mi
+- Take exit 235B toward Superdome — 0.1 mi
+
+3) Follow Cleveland Ave to Loyola Ave (3 min, 0.7 mi)
+- Merge onto Cleveland Ave — 0.4 mi
+- Turn right onto Elk Pl — 266 ft
+- Continue onto Loyola Ave — Pass by Holiday Inn New Orleans-Downtown Superdome by IHG (on the left) — 0.3 mi
+
+Screenshot
+- Saved to: test_cases/result_with_screenshot_small/Google Map--39/screenshot_1758154839.png
+
+Note: Distances and step annotations (including “Toll road” notes) are reported exactly as shown in Google Maps.

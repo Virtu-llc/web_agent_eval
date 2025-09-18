@@ -1,0 +1,10 @@
+Task completed.
+
+What I found on Apple’s site:
+- Latest MacBook Air (M4), 13‑inch: Up to 15 hours wireless web
+- Latest MacBook Air (M4), 15‑inch: Up to 15 hours wireless web
+
+Source path followed: Apple > Mac > Compare Models, then scrolled to the “Power and Battery” row which shows the web browsing battery life for both latest MacBook Air models.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Apple--29/screenshot_1757978273.png

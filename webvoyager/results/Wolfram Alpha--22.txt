@@ -1,0 +1,8 @@
+Task completed on Wolfram|Alpha.
+
+Result extracted from the page:
+- Exact area: (147 sqrt(3))/2 cm^2
+- Approximate area: 127.306 cm^2
+
+Screenshot of the results page:
+- File: test_cases/result_with_screenshot_small/Wolfram Alpha--22/screenshot_1757984263.png

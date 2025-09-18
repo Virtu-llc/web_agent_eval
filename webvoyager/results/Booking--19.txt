@@ -1,0 +1,28 @@
+Task completed: Found hotels in Paris, France with customer ratings above 8.0 for March 18–20, 2026, filtered to Hotels only, and sorted by Top reviewed. Extracted the top three suggestions based on user reviews and captured a screenshot.
+
+Top 3 hotels
+1) Hôtel des Arts Montmartre
+- Review score: 9.6 (Exceptional)
+- Reviews: 3,224
+- Area: 18th arr., Paris
+- Distance: 2.2 miles from downtown
+
+2) Villa-des-Prés
+- Review score: 9.6 (Exceptional)
+- Reviews: 439
+- Area: 6th arr., Paris
+- Distance: 0.7 miles from downtown
+
+3) Hotel La Villa Saint Germain Des Prés
+- Review score: 9.5 (Exceptional)
+- Reviews: 334
+- Area: 6th arr., Paris
+- Distance: 0.8 miles from downtown
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Booking--19/screenshot_1758057909.png
+
+Notes
+- Dates selected: Wed, Mar 18 — Fri, Mar 20, 2026 (2 nights).
+- Filters applied: Very Good: 8+ and Property Type: Hotels.
+- Sorting: Top reviewed.

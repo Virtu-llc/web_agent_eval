@@ -1,0 +1,61 @@
+Task completed: Visited Hugging Face, navigated to Pricing, extracted all paid plans and their advantages, and captured a screenshot.
+
+Paid subscription plans and advantages (from the Pricing page)
+- PRO (Personal) — $9 per month
+  - 10× private storage capacity
+  - 20× included inference credits
+  - 8× ZeroGPU usage quota with highest queue priority
+  - Spaces Dev Mode (fast iterations via SSH/VS Code)
+  - ZeroGPU Spaces hosting (create Spaces with H200 hardware)
+  - Dataset Viewer for private datasets (activate and use on private datasets)
+  - Publish blog articles on your HF profile
+  - Features preview (early access to upcoming features)
+  - PRO badge on your profile
+
+- Team — $20 per user per month
+  - SSO and SAML support
+  - Choose data location with Storage Regions
+  - Detailed action reviews with Audit Logs
+  - Granular access control via Resource Groups
+  - Repository usage Analytics
+  - Set auth policies and default repository visibility
+  - Centralized token control and approvals
+  - Dataset Viewer for private datasets
+  - Advanced compute options for Spaces
+  - All organization members get ZeroGPU and Inference Providers PRO benefits
+
+- Enterprise — starting at $50 per user per month
+  - Custom onboarding and enterprise features
+  - All benefits from the Team plan
+  - Highest storage, bandwidth, and API rate limits
+  - Managed billing with annual commitments
+  - Legal and Compliance processes
+  - Personalized support
+
+Other paid offerings listed on the Pricing page (usage-based)
+- Spaces Hardware (on-demand; starting at $0/hour)
+  - CPU Basic: FREE (2 vCPU, 16 GB)
+  - CPU Upgrade: $0.03/hr (8 vCPU, 32 GB)
+  - GPU options (examples shown on page):
+    - Nvidia T4 small: $0.40/hr; medium: $0.60/hr
+    - 1× Nvidia L4: $0.80/hr; 4× L4: $3.80/hr
+    - 1× Nvidia L40S: $1.80/hr; 4× L40S: $8.30/hr; 8× L40S: $23.50/hr
+    - Nvidia A10G small/large/2×/4×: $1.00 to $5.00/hr
+    - Nvidia A100 (80 GB): $2.50 to $20.00/hr (1–8 GPUs)
+    - Nvidia H200 (141 GB): $5.00 to $40.00/hr (1–8 GPUs)
+  - ZeroGPU is marked FREE with dynamic resources
+
+- Spaces Persistent Storage (monthly)
+  - Small 20 GB: $5/month
+  - Medium 150 GB: $25/month
+  - Large 1 TB: $100/month
+
+- Inference Endpoints (dedicated; starting at $0.033/hour)
+  - CPU instances across AWS/Azure/GCP with various vCPU/memory tiers (from ~$0.03/hr up)
+  - Accelerator instances (e.g., AWS Inf2, GCP TPU v5e)
+  - GPU instances (e.g., NVIDIA T4/L4/L40S/A10G/A100/H200/H100) with per-hour rates by GPU count
+
+Note: The page also highlights “Hugging Face Hub free” (non-paid) with collaboration and learning features, separate from paid plans.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Huggingface--36/screenshot_1758002638.png

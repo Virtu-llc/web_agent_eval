@@ -1,0 +1,11 @@
+Here’s what I did:
+- Navigated to ESPN > NHL > Scores (Scoreboard).
+- Opened the calendar and selected yesterday’s date (Tuesday, September 16, 2025).
+- Verified the page header and results shown for that date.
+
+Findings for yesterday (Sep 16, 2025):
+- The NHL scoreboard shows: “No games on this date.”
+- Therefore, there are no team performances or results to report for yesterday on ESPN.
+
+Screenshot saved:
+- test_cases/result_with_screenshot_small/ESPN--32/screenshot_1758151837.png

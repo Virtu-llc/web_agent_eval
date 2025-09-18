@@ -1,0 +1,76 @@
+Action summary:
+- Opened Google Flights
+- Set trip to One-way
+- From: Shanghai; To: Vancouver
+- Departure date: February 27, 2026
+- Searched and extracted flight results and CO2 emissions
+- Took a screenshot of the results page
+
+Comparison of one-way flights on 2026-02-27 by carbon emissions (lowest to highest):
+1) Air Canada — Nonstop
+   - Price: $580
+   - Duration: 10 hr 15 min
+   - Stops: Nonstop
+   - Emissions: 493 kg CO2e (−12% vs avg)
+
+2) Korean Air — 1 stop (ICN)
+   - Price: $558
+   - Duration: 13 hr 10 min
+   - Stops: 1 stop (1 hr 15 min layover at ICN)
+   - Emissions: 530 kg CO2e (Average)
+
+3) Asiana Airlines + Air Canada — 1 stop (ICN)
+   - Price: $587
+   - Duration: 14 hr 35 min
+   - Stops: 1 stop (2 hr 55 min layover at ICN)
+   - Emissions: 533 kg CO2e (Average)
+
+4) Korean Air + Air Canada — 1 stop (ICN)
+   - Price: $588
+   - Duration: 18 hr 55 min
+   - Stops: 1 stop (6 hr 55 min layover at ICN)
+   - Emissions: 538 kg CO2e (Average)
+
+5) Asiana Airlines + Air Canada — 1 stop (Change of airport in Seoul)
+   - Price: $597
+   - Duration: 16 hr 50 min
+   - Stops: 1 stop (transfer from GMP to ICN)
+   - Emissions: 568 kg CO2e (Average)
+
+6) Cathay Pacific — 1 stop (HKG)
+   - Price: $612
+   - Duration: 17 hr 30 min
+   - Stops: 1 stop (2 hr 55 min layover at HKG)
+   - Emissions: 756 kg CO2e (+35% vs avg)
+
+7) Cathay Pacific — 1 stop (HKG)
+   - Price: $612
+   - Duration: 17 hr 30 min
+   - Stops: 1 stop (2 hr 50 min layover at HKG)
+   - Emissions: 776 kg CO2e (+39% vs avg)
+
+8) EVA Air + Air Canada — 1 stop (TPE)
+   - Price: $808
+   - Duration: 14 hr 25 min
+   - Stops: 1 stop (1 hr 45 min layover at TPE)
+   - Emissions: 791 kg CO2e (+42% vs avg)
+
+9) Philippine Airlines — 1 stop (MNL)
+   - Price: $521 (cheapest)
+   - Duration: 21 hr 5 min
+   - Stops: 1 stop (5 hr 30 min layover at MNL)
+   - Emissions: 802 kg CO2e (+43% vs avg)
+
+10) China Airlines — 1 stop (TPE)
+    - Price: $939
+    - Duration: 13 hr 30 min
+    - Stops: 1 stop (1 hr layover at TPE)
+    - Emissions: 810 kg CO2e (+45% vs avg)
+
+Key takeaways:
+- Lowest-emissions option: Air Canada nonstop at 493 kg CO2e (−12% vs average), also the fastest at 10 hr 15 min, for $580.
+- Cheapest price: Philippine Airlines at $521, but among the highest emissions at 802 kg CO2e (+43%).
+- Highest emissions: China Airlines at 810 kg CO2e (+45%).
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Google Flights--33/screenshot_1758110912.png

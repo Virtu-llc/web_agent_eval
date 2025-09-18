@@ -1,0 +1,14 @@
+Task completed: Located the “Space Safety” course by Technical University of Munich (TUM) on Coursera, opened the Modules section, expanded Module 2, and extracted the video details. A screenshot was taken at the final step.
+
+Course: Space Safety (TUM) on Coursera
+Module 2: Introduction Space Safety
+- Number of videos: 6
+- Video titles:
+  1) Introduction
+  2) Space Debris
+  3) Mitigation
+  4) Measurements
+  5) Protection
+  6) Atmospheric Re-entry
+
+Screenshot saved: test_cases/result_with_screenshot_small/Coursera--39/screenshot_1758165633.png

@@ -1,0 +1,13 @@
+Here’s what I found on ESPN for the latest Celtics–Lakers game:
+
+- Match: Boston Celtics vs Los Angeles Lakers
+- Date: Sat, Mar 8 (2025 season)
+- Final Score: Celtics 111, Lakers 101
+- Top Scorer: Jayson Tatum (Celtics) – 40 points
+
+Action taken:
+- Navigated to ESPN, opened the Boston Celtics 2024-25 Regular Season schedule, and located the latest game vs Los Angeles with result W111-101 and “Tatum 40” in the Hi Points column.
+
+Screenshot captured:
+- Saved a screenshot showing the Mar 8 “vs Los Angeles — W111-101 — Tatum 40” row.
+- File: test_cases/result_with_screenshot_small/ESPN--6/screenshot_1758037801.png

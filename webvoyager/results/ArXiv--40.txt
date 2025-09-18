@@ -1,0 +1,12 @@
+Here’s what I found on arXiv in Solar and Stellar Astrophysics (astro-ph.SR):
+
+Counts for the three most recent announce days
+- Wed, 17 Sep 2025: 28 articles
+- Tue, 16 Sep 2025: 32 articles
+- Mon, 15 Sep 2025: 12 articles
+
+Randomly selected article
+- Title: Long-lived coronal loops in solar active regions
+- First version uploaded: Tue, 16 Sep 2025 14:13:26 UTC
+
+Screenshot saved: test_cases/result_with_screenshot_small/ArXiv--40/screenshot_1758111059.png

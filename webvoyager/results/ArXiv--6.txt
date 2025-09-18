@@ -1,0 +1,11 @@
+Here’s what I did:
+- Visited arxiv.org, searched by title, and opened the paper’s abstract page: “On the Sentence Embeddings from Pre-trained Language Models” (arXiv:2011.05864).
+- From there, I viewed the HTML rendering (arXiv’s ar5iv HTML view) to reliably extract the counts of labeled Figures and Tables from the document structure.
+- Counted labeled items using the document’s anchors and captions.
+
+Result:
+- Figures: 2
+- Tables: 8
+
+Screenshot: Saved a screenshot of the HTML rendering at the final step.
+File: test_cases/result_with_screenshot_small/ArXiv--6/screenshot_1758142381.png

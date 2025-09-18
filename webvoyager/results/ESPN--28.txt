@@ -1,0 +1,9 @@
+Task completed on ESPN.
+
+Findings:
+- Total MLB teams: 30 (as listed on ESPN’s MLB Teams section)
+- Teams with the word “City” in their name:
+  - Kansas City Royals
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/ESPN--28/screenshot_1758165237.png

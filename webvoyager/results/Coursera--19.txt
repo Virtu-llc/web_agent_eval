@@ -1,0 +1,9 @@
+Here are the details for an introductory Psychology course on Coursera:
+
+- Course: Introduction to Psychology
+- Instructor: Paul Bloom
+- Institution: Yale University
+- Approximate time to complete: About 10 hours (page displays “1 week at 10 hours a week”)
+
+Screenshot taken of the course page (showing the title, instructor, institution, and time info):
+- Saved as: test_cases/result_with_screenshot_small/Coursera--19/screenshot_1758151258.png

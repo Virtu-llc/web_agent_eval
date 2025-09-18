@@ -1,0 +1,16 @@
+Here’s what I found by browsing Coursera:
+
+Universities offering a “Master of Advanced Study in Engineering” (MAS-E)
+- University of California, Berkeley (UC Berkeley College of Engineering)
+
+Latest application deadline for this degree
+- The Coursera program page indicates that “Summer 2026 applications are now open” but does not list a specific application deadline date. No deadline date is shown on the Overview or Admissions sections; only the open-cohort note appears.
+
+Notes
+- Program: Master of Advanced Study in Engineering (MAS-E)
+- University: UC Berkeley College of Engineering
+- Status: “Summer 2026 applications are now open” (no specific deadline date provided on the Coursera pages I accessed)
+
+Screenshot
+- I captured a screenshot of the MAS-E Admissions page on Coursera showing the program and the “Summer 2026 applications are now open” status.
+- File: test_cases/result_with_screenshot_small/Coursera--36/screenshot_1758142894.png

@@ -1,0 +1,30 @@
+Here’s what I found on ESPN:
+
+NBA schedule for Monday, December 25, 2023 (from ESPN’s schedule page)
+- Milwaukee Bucks @ New York Knicks — Final: NY 129, MIL 122
+- Golden State Warriors @ Denver Nuggets — Final: DEN 120, GS 114
+- Boston Celtics @ Los Angeles Lakers — Final: BOS 126, LAL 115
+- Philadelphia 76ers @ Miami Heat — Final: MIA 119, PHI 113
+- Dallas Mavericks @ Phoenix Suns — Final: DAL 128, PHX 114
+
+Current standings for those teams (from ESPN’s NBA Standings page)
+Note: ESPN’s current standings are for the 2025-26 Regular Season and show all teams at 0-0 at this time.
+
+Eastern Conference
+- Boston Celtics: 0-0
+- Milwaukee Bucks: 0-0
+- New York Knicks: 0-0
+- Philadelphia 76ers: 0-0
+- Miami Heat: 0-0
+
+Western Conference
+- Denver Nuggets: 0-0
+- Golden State Warriors: 0-0
+- Dallas Mavericks: 0-0
+- Phoenix Suns: 0-0
+- Los Angeles Lakers: 0-0
+
+Screenshot saved
+- File: test_cases/result_with_screenshot_small/ESPN--16/screenshot_1758162115.png
+
+If you’d like me to also capture a screenshot of the current standings view, let me know and I’ll grab that as well.

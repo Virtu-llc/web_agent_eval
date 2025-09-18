@@ -1,0 +1,12 @@
+Task completed.
+
+Found recipe on Allrecipes:
+- Title: Baked Salmon Fillets Dijon
+- URL: https://www.allrecipes.com/recipe/22538/baked-salmon-fillets-dijon/
+- Rating: 4.6 out of 5
+- Reviews: 1,135 reviews (1,579 ratings)
+- Primary seasoning/herb: Prepared Dijon-style mustard
+- Estimated cooking time: 15 minutes (Cook Time)
+- Total time: 25 minutes
+
+Screenshot taken: test_cases/result_with_screenshot_small/Allrecipes--34/screenshot_1758078013.png

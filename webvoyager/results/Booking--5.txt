@@ -1,0 +1,18 @@
+I completed your request. Here’s what I did and the outcome:
+
+- Opened booking.com
+- Searched for: Bali, Indonesia
+- Set dates to: Jan 1, 2026 (check-in) — Jan 4, 2026 (check-out) [3 nights]
+- Applied filters: Free WiFi and Air conditioning
+- Confirmed on the results page header: “Applied filters: Free Wifi, Air conditioning” and date button shows “Thu, Jan 1 — Sun, Jan 4”
+- Results page loaded showing properties in Bali matching your criteria
+
+Screenshot saved:
+- File: test_cases/result_with_screenshot_small/Booking--5/screenshot_1758047402.png
+
+Visible confirmation on page:
+- Header text shows “Bali: 10,943 properties found. Applied filters: Free Wifi, Air conditioning.”
+- Date selector shows “Thu, Jan 1 — Sun, Jan 4”
+- Property cards indicate “3 nights, 2 adults,” consistent with the selected dates.
+
+Let me know if you want me to refine the sort order or extract the top few property names and prices from the results.

@@ -1,0 +1,15 @@
+Task completed. I located a qualifying Japan travel guide on Amazon and verified the required details. Screenshot captured.
+
+Found book:
+- Title: Lonely Planet Japan: Detailed Itineraries | Travel Like a Local | Insider Tips | Covers Tokyo, Mt Fuji & around Tokyo, the Japan Alps, Kyoto, Okinawa and more (Travel Guide)
+- Format: Paperback – Folded Map
+- Publication date: April 2, 2024
+- Customer reviews: 599 reviews (rating shown as 4.2 out of 5 stars on the page)
+- Publisher: Lonely Planet
+- ISBN-10: 1838693726
+
+Product page URL:
+https://www.amazon.com/Lonely-Planet-Japan-Travel-Guide/dp/1838693726
+
+Screenshot:
+test_cases/result_with_screenshot_small/Amazon--39/screenshot_1758045504.png

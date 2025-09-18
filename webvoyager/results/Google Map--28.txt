@@ -1,0 +1,18 @@
+Actions taken:
+- Opened Google Maps and opened the left-side Menu.
+- Clicked “Search settings” from the menu, which opened the Google Search Settings page.
+
+What’s shown on the Search Settings page (as visible):
+- Activity
+  - Search customization (On)
+- Content
+  - SafeSearch (Blurring on)
+- More options
+  - Parental controls on Family Link
+
+Additional elements visible on the page:
+- Left navigation: Privacy & Safety, Other settings
+- Footer links: Feedback, Help, Privacy, Terms
+
+Screenshot:
+- Saved at: test_cases/result_with_screenshot_small/Google Map--28/screenshot_1758138503.png

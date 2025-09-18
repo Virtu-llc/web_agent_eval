@@ -1,0 +1,28 @@
+Task completed.
+
+What I visited
+- Site: https://www.bbc.com/news/
+- Section: Asia
+- Article opened: “US says ‘framework’ for TikTok ownership deal agreed with China”
+- Article URL: https://www.bbc.com/news/articles/c5yj5xj78p5o
+- Timestamp shown on Asia page: 11 hrs ago (relative time)
+
+Most recent Asia report about technological advancements (found on the Asia page)
+Headline: US says ‘framework’ for TikTok ownership deal agreed with China
+
+Summary of the article
+- The US and China have reached a “framework” agreement concerning TikTok’s US operations, which could pave the way for American ownership of the platform’s US business.
+- The framework emerged from talks in Madrid, according to US Treasury Secretary Scott Bessent, with President Donald Trump and President Xi Jinping expected to “complete” the deal on Friday.
+- A deadline looms for ByteDance (TikTok’s Chinese parent) to sell its US operations or face a ban; this deadline has been extended multiple times and is currently due to end on 17 September.
+- CBS reported Oracle is among firms positioned to enable TikTok to continue operating in the US if the US–China deal is finalised; BBC has contacted Oracle, TikTok, the White House, and the Chinese embassy for comment.
+- TikTok’s ownership has been a central sticking point in wider US–China trade negotiations; the US says commercial terms would protect national security, while China insists it won’t agree to terms at the expense of its firms’ interests.
+- Background: In January, the US Supreme Court upheld a 2024 law banning TikTok unless ByteDance sells its US division. TikTok briefly went dark before a 75‑day postponement was issued.
+- Key concerns and open questions raised by experts:
+  - Who will control TikTok’s recommendation algorithm if ownership changes.
+  - Whether US user data would be fully stored and encrypted domestically.
+  - Whether independent audits will prevent any “backdoor” access by Beijing.
+- A former US national security official noted Beijing controls whether the algorithm can be transferred, likely making the TikTok deal part of broader trade and tariff talks.
+- The stakes are high because ByteDance is one of China’s largest AI firms; US officials argue data collected today could train models with potential military and intelligence applications.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/BBC News--35/screenshot_1758035260.png

@@ -1,0 +1,14 @@
+Task completed.
+
+Findings:
+- Which university maintains and manages arXiv: From arXiv’s About page: “arXiv … is now maintained and operated by Cornell Tech. Operations are maintained by the arXiv Leadership Team and arXiv staff at Cornell University.” In short: Cornell University (via Cornell Tech).
+- Undergraduate students (accessed via the university website linked from arXiv): On Cornell University’s About > Quick Facts, the current undergraduate student count is 16,128.
+
+What I did:
+- Visited arXiv.org, opened About arXiv, and confirmed the maintenance/management text (Cornell Tech/Cornell University).
+- Clicked the “Cornell University” link on that page to reach cornell.edu.
+- Navigated to About > Quick Facts and extracted the undergraduate count (16,128).
+- Took a screenshot of the Quick Facts section showing the undergraduate number.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/ArXiv--19/screenshot_1758139405.png

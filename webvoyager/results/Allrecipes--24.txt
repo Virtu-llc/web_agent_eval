@@ -1,0 +1,11 @@
+Task completed.
+
+Found recipe on Allrecipes:
+- Title: Eggplant Parmesan (Eggplant Parmesan II)
+- URL: https://www.allrecipes.com/recipe/25321/eggplant-parmesan-ii/
+- Rating: 4.7 out of 5
+- Reviews: 2,631 REVIEWS
+- Prep Time: 25 mins
+- Servings: 10
+
+Screenshot taken of the recipe page: test_cases/result_with_screenshot_small/Allrecipes--24/screenshot_1758007311.png

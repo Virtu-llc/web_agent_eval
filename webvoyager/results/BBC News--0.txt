@@ -1,0 +1,11 @@
+Task completed: Found a recent BBC News report on renewable energy technologies in the UK and captured a screenshot.
+
+Report details:
+- Title: Behind a village's eco heat scheme that cost £14m
+- Author/Section: Phil Shepka — East of England
+- Published: 4 days ago (as shown on the page)
+- URL: https://www.bbc.com/news/articles/c1kw7md728do
+- Summary: The report covers Swaffham Prior in Cambridgeshire, the first UK rural village to develop a heat network. It explains how the council-owned system uses boreholes supplying ground-source heat pumps (with air-source support) to deliver low-carbon heat to homes through a pipe network. About 100 homes are connected so far, with total project costs at £14m. The piece discusses costs, scalability, community uptake, funding (including government grants and council investment), and lessons for future UK villages adopting similar low-carbon heating infrastructure.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/BBC News--0/screenshot_1758026895.png

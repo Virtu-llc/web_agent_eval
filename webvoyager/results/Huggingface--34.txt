@@ -1,0 +1,9 @@
+Here are the benefits of Hugging Face for Classrooms as stated on the Hugging Face website:
+
+- Free resources, teaching materials, and support for students and teachers
+- Collaborative learning environment using open-source technologies and state-of-the-art models
+- Implement ML with Hugging Face tools and easily collaborate on datasets, models, and ML demos within a classroom workspace
+- Unlimited access to modern ML tools: upload datasets, models, and demos for free; train, fine-tune, experiment, and deploy; and share models/demos with the classroom or the community — all hosted for free
+- Easy classroom management: centralize students’ datasets, models, and demos; collaborate with version control and student access controls (admin, read, write); and share privately or publicly
+
+Screenshot taken: test_cases/result_with_screenshot_small/Huggingface--34/screenshot_1758019443.png

@@ -1,0 +1,9 @@
+Here’s what I found on Cambridge Dictionary for “impeccable”:
+
+- Definition: perfect, with no problems or bad parts
+- Pronunciation (IPA):
+  - UK: /ɪmˈpek.ə.bəl/
+  - US: /ɪmˈpek.ə.bəl/
+- Example sentence: His English is impeccable.
+
+Screenshot taken of the result page: test_cases/result_with_screenshot_small/Cambridge Dictionary--10/screenshot_1758149546.png

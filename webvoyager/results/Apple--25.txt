@@ -1,0 +1,6 @@
+Result: The latest Apple TV model (Apple TV 4K) uses the A15 Bionic chip.
+
+Source: Apple TV 4K – Technical Specifications page shows “Processor: A15 Bionic chip.”
+
+Screenshot: Saved showing the Processor section on the Tech Specs page
+- File: test_cases/result_with_screenshot_small/Apple--25/screenshot_1758026607.png

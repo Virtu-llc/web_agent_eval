@@ -1,0 +1,10 @@
+I opened Google Maps, used the Directions feature, and planned a trip:
+- From: BOS Terminal B (Boston Logan Airport), Boston, MA 02128
+- To: North Station (MBTA), 186 Canal St, Boston, MA 02114
+
+Route results shown:
+- Primary (Driving): 11 min, 4.1 miles via MA-1A S (fastest route; has tolls)
+- Alternate: 13 min, 6.3 miles via I-90 W
+
+Screenshot captured at the final step:
+- File: test_cases/result_with_screenshot_small/Google Map--4/screenshot_1758155585.png

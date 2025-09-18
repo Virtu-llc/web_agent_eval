@@ -1,0 +1,8 @@
+Here are the names of the people on arXiv’s Leadership Team:
+- Ramin Zabih
+- Yoav Artzi
+- Stephanie Orphan
+- Steinn Sigurdsson
+- Charles Frankston
+
+Screenshot captured: test_cases/result_with_screenshot_small/ArXiv--37/screenshot_1758134173.png

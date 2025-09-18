@@ -1,0 +1,7 @@
+Task completed on Wolfram|Alpha.
+
+All prime numbers between 1000 and 1200:
+1009, 1013, 1019, 1021, 1031, 1033, 1039, 1049, 1051, 1061, 1063, 1069, 1087, 1091, 1093, 1097, 1103, 1109, 1117, 1123, 1129, 1151, 1153, 1163, 1171, 1181, 1187, 1193
+
+Screenshot of the Wolfram|Alpha results page has been captured:
+- File: test_cases/result_with_screenshot_small/Wolfram Alpha--32/screenshot_1758136493.png

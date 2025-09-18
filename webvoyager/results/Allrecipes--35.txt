@@ -1,0 +1,8 @@
+Here’s an Italian-style meatball recipe on Allrecipes with more than 100 reviews:
+
+Recipe: Chef John’s Italian Meatballs
+- Reviews/Ratings on page: 1,920 reviews; 2,477 ratings
+- Type of meat used: Ground beef and ground pork (1 lb ground beef + 1 lb ground pork)
+- Overall cooking time: Total Time: 2 hrs 15 mins (Prep 20 mins, Cook 35 mins, Additional 1 hr 20 mins)
+
+Screenshot: test_cases/result_with_screenshot_small/Allrecipes--35/screenshot_1758077529.png

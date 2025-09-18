@@ -1,0 +1,27 @@
+Task completed.
+
+What I did:
+- Opened booking.com
+- Searched for Lisbon
+- Set dates: March 1–7, 2026 (6 nights)
+- Guests: 2 adults, 0 children, 1 room
+- Applied filters:
+  - Hotels only
+  - Breakfast included
+  - Airport shuttle
+  - Review score: Wonderful: 9+ (8.5+ option was not available on this page, so I used the stricter 9+ filter)
+- Confirmed results reflect the filters and dates
+
+Result page details:
+- Destination: Lisbon, Portugal
+- Dates: Sun, Mar 1 — Sat, Mar 7, 2026
+- Guests: 2 adults
+- Filters active (per URL and page chips):
+  - ht_id=204 (Hotels)
+  - review_score=90 (Wonderful: 9+)
+  - hotelfacility=107 (Airport shuttle)
+  - mealplan=1 (Breakfast included)
+
+Screenshot:
+- Saved a screenshot of the results page with all filters applied.
+- File: test_cases/result_with_screenshot_small/Booking--25/screenshot_1758022102.png

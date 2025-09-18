@@ -1,0 +1,13 @@
+Here’s what I found on Amazon right now:
+
+Current sitewide deal/event on the homepage:
+- Prime Big Deal Days is October 7–8
+
+Items on offer (with percent off):
+- CleanGenius Disposable Prefilled Toilet Cleaning Scrubbers, 30 Count — 35% off
+- Rubber Kitchen Dishwashing Gloves (4 Pairs) — 30% off
+- Hiware All-Purpose Shower Squeegee, 10 inches — 17% off
+- Vacplus Toilet Bowl Cleaner Tablets, 20 Pack — 28% off
+
+Screenshot taken of the deals section:
+- Saved as: test_cases/result_with_screenshot_small/Amazon--18/screenshot_1758061355.png

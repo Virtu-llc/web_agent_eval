@@ -1,0 +1,29 @@
+Task completed: Found a popular quinoa salad recipe on Allrecipes that meets your criteria, extracted the ingredients as a shopping list, included prep/cook/total times, and captured a screenshot.
+
+Recipe
+- Title: Easy Quinoa Salad
+- URL: https://www.allrecipes.com/recipe/229156/zesty-quinoa-salad/
+- Rating: 4.8 out of 5
+- Reviews: 1,130
+
+Time
+- Prep Time: 15 mins
+- Cook Time: 15 mins
+- Total Time (prep + cook): 30 mins
+
+Shopping list (Ingredients)
+- 2 cups water
+- 1 cup quinoa
+- 1/4 cup extra-virgin olive oil
+- 2 limes, juiced
+- 2 teaspoons ground cumin
+- 1 teaspoon salt
+- 1/2 teaspoon red pepper flakes, or more to taste
+- 1 1/2 cups halved cherry tomatoes
+- 1 (15-ounce) can black beans, drained and rinsed
+- 5 green onions, finely chopped
+- 1/4 cup chopped fresh cilantro
+- Salt and ground black pepper, to taste
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--25/screenshot_1758008507.png

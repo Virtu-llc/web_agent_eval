@@ -1,0 +1,17 @@
+I navigated on Amazon, filtered to Books > Literature & Fiction results for “fiction 2024,” sorted by Avg. Customer Review, and evaluated top listings to ensure 2024 publication and at least 50 customer reviews. The first 5.0-star item had only 48 reviews (below the threshold), so I selected the next highest-rated qualifying title.
+
+Highest-rated qualifying 2024 fiction book found:
+- Title: A HOT BOY SUMMER WITH A QUEEN PIN BBW (TMP’S HOT BOY SUMMER 2024 Book 2)
+- Author: O’SHARRA
+- Format: Kindle Edition (book)
+- Average rating: 4.8 out of 5 stars
+- Number of customer reviews: 294
+- Publication date: June 8, 2024
+- Category/genre on page: Literature & Fiction (Urban Fiction)
+
+Notes:
+- The 5.0-star novel “YOU ARE THE JOURNEY: Discover 2024’s Most Inspiring Debut Novel” had only 48 reviews, so it did not meet the 50-review minimum.
+- The selected title is sorted immediately after that and clearly meets the 2024 release and ≥50 reviews criteria.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Amazon--30/screenshot_1758004346.png

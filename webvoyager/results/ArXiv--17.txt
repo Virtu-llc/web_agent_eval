@@ -1,0 +1,12 @@
+Result:
+- Paper: GPT-4 Technical Report (arXiv:2303.08774)
+- v3 submitted on: Mon, 27 Mar 2023 17:46:54 UTC (4,016 KB)
+
+What I did:
+- Navigated to arXiv.org
+- Searched and opened the paper page for “GPT-4 Technical Report” (arXiv:2303.08774)
+- Located the Submission history section and extracted the v3 submission date
+- Took a screenshot on the paper page showing the submission history
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/ArXiv--17/screenshot_1757979171.png

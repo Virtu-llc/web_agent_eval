@@ -1,0 +1,18 @@
+Task completed: Found the closest Tesla Destination Charger to the National Air and Space Museum and captured a screenshot.
+
+Closest charger (per Google Maps “Nearby” results and confirmed by directions distance):
+- Name: Tesla Destination Charger
+- Address: 1330 Maryland Ave SW, Washington, DC 20024
+- Located in: Salamander Washington DC
+- Phone: (202) 554-8588
+- Distance from National Air and Space Museum (walking): 0.8 mile, ~19 minutes (via 7th St SW and D St SW) — verified using Google Maps Directions
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Map--20/screenshot_1758049869.png
+
+What I did:
+- Opened Google Maps.
+- Searched for “National Air and Space Museum”, then used Nearby to search “Tesla Destination Charger.”
+- Opened the top result at 1330 Maryland Ave SW and verified details.
+- Compared by getting walking directions to another nearby Tesla Destination Charger (400 New Jersey Ave NW), which showed 0.9 mile, confirming 1330 Maryland Ave SW is closer.
+- Returned to the selected charger’s page and took a screenshot.

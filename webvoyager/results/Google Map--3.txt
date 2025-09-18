@@ -1,0 +1,13 @@
+I completed the route planning on Google Maps and applied the “Less walking” preference for a transit route from Central Park Zoo to the Broadway Theatre in New York. Then I captured a screenshot of the final route results.
+
+What I did:
+- Opened Google Maps
+- Clicked Directions
+- Set starting point: Central Park Zoo, New York, NY 10021
+- Set destination: Broadway Theatre, 1681 Broadway, New York, NY 10019
+- Switched to Transit mode
+- Opened Options and selected “Less walking”
+- Closed Options to show filtered results and took a screenshot
+
+Screenshot:
+test_cases/result_with_screenshot_small/Google Map--3/screenshot_1758115234.png

@@ -1,0 +1,21 @@
+Here’s an Intermediate-level Coursera course on Blockchain Technology that meets your criteria (1–4 weeks, from a well-known institution), along with the requested details:
+
+Selected course
+- Title: Introduction to Supply Chain Finance & Blockchain Technology
+- Institution: New York Institute of Finance
+- Level: Intermediate
+- Duration: 1 week at 10 hours/week (falls within 1–4 weeks)
+- URL: https://www.coursera.org/learn/introduction-supply-chain-finance-blockchain-technology
+
+Main goals (What you’ll learn)
+- Recognize the various means to improve the working capital of your company or your corporate client.
+- Recognize the process to implement and manage a Supply Chain Finance program.
+- Identify the main players, competitors, and enablers in global Supply Chain Finance.
+- Recognize the impact of new technologies in Supply Chain Finance and how to apply them.
+
+Instructor(s)
+- Oliver Belin
+- Jack Farmer (listed via instructor imagery; page shows “+1 more”)
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Coursera--20/screenshot_1757981222.png

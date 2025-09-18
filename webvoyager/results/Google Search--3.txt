@@ -1,0 +1,10 @@
+Here are the Top 5 comedy movies sorted by IMDb user rating (from the IMDb Advanced Title Search page: genre = Comedy, title type = Movie, sorted by user rating descending):
+
+1) Life Is Beautiful — 8.6
+2) The Chaos Class Failed the Class — 8.6
+3) Back to the Future — 8.5
+4) The Intouchables — 8.5
+5) Modern Times — 8.5
+
+Screenshot of the final results page has been captured:
+- File: test_cases/result_with_screenshot_small/Google Search--3/screenshot_1758072852.png

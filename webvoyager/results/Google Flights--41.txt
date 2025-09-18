@@ -1,0 +1,27 @@
+Task completed: Selected a one-way Business Class ticket from Hong Kong (HKG) to Glacier Park International, Kalispell (FCA) on March 8, 2026, with 1 stop, and captured a final-step screenshot.
+
+What I did:
+- Set trip type to One way and seating class to Business.
+- Set origin to Hong Kong (HKG) and destination to Glacier Park International (FCA, Kalispell).
+- Selected departure date: Sunday, March 8, 2026.
+- Applied filter: Stops → 1 stop or fewer (results show only 1-stop options).
+- Chose the first 1-stop itinerary and opened the booking options page.
+
+Selected itinerary (from the Google Flights booking page):
+- Cabin: Business Class
+- Trip: One way
+- Date: Sun, Mar 8, 2026
+- Airline: United (Operated by SkyWest DBA United Express for the regional segment)
+- From: Hong Kong (HKG)
+- To: Kalispell (FCA)
+- Departure: 10:35 AM (HKG)
+- Arrival: 3:02 PM (FCA) on the same day
+- Stops: 1 stop (SFO – layover 3 hr 45 min)
+- Total duration: 18 hr 27 min
+- Price shown: $7,483 USD (local HK price equivalent also shown on the page)
+- Booking options: “Continue to book with United” available.
+
+Screenshot:
+- Saved file: test_cases/result_with_screenshot_small/Google Flights--41/screenshot_1758158519.png
+
+If you want me to proceed to the airline’s booking page or explore other 1-stop Business options for that date, let me know.

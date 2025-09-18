@@ -1,0 +1,23 @@
+Task completed on ESPN.
+
+What I searched
+- Query: “Los Angeles”
+- Section: Teams (See All)
+
+Results found on the ESPN Teams page for “Los Angeles”
+Teams that include “Los Angeles” in their name:
+1) Los Angeles Chargers — NFL
+2) Los Angeles Dodgers — MLB
+3) Los Angeles Rams — NFL
+4) Los Angeles Angels — MLB
+5) Los Angeles Lakers — NBA
+6) Los Angeles Sparks — WNBA
+7) Los Angeles Kings — NHL
+8) Los Angeles Knight Riders — Cricket
+
+Counts
+- Total teams with “Los Angeles” in the name: 8
+- Of those, NBA teams: 1 (Los Angeles Lakers)
+
+Screenshot
+- Saved a screenshot of the Teams results page: test_cases/result_with_screenshot_small/ESPN--9/screenshot_1758158884.png

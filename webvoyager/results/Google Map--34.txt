@@ -1,0 +1,12 @@
+Task completed: Located a hiking trail within 2 miles of ZIP code 80202 on Google Maps and captured a screenshot.
+
+Found trail:
+- Name: Cherry Creek Trail
+- Category: Hiking area
+- Address: 2250 15th St, Denver, CO 80202
+- Rating: 5.0 (7 reviews)
+
+Why it qualifies: The trail’s address is within the 80202 ZIP code, which satisfies “within 2 miles of 80202.”
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Google Map--34/screenshot_1758124119.png

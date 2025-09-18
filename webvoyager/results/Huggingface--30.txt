@@ -1,0 +1,35 @@
+Here’s what I found on Hugging Face.
+
+Most downloaded en→zh translation model
+- Model: Helsinki-NLP/opus-mt-en-zh
+- Why this one: Among translation models filtered for English and Chinese and sorted by Most downloads, this is the top English→Chinese (en-zh) model. Higher-download Chinese→English (zh-en) models exist, but this model is the top specifically for the en→zh direction.
+
+Latest performance metrics (from the model card)
+- Test set: Tatoeba-test.eng.zho
+- BLEU: 31.4
+- chrF2: 0.268
+- Additional stats shown: brevity_penalty 0.896, ref_len 110,468
+- Train date noted in card: 2020-07-17
+
+Usage guidelines (from the model card)
+- Task: text2text-generation (Marian-based Transformer)
+- Preprocessing: normalization + SentencePiece (spm32k, spm32k)
+- Required language token: A sentence-initial target language token must be added in the form >>id<< (id = valid target language ID). The card lists supported Chinese targets including: zho, zho_Hans, zho_Hant, cmn, cmn_Hans, cmn_Hant, yue, wuu, gan, lzh, and variants. For simplified Chinese, use e.g. >>zho_Hans<<; for generic Chinese use >>zho<<.
+- Source language(s): eng
+- Target language(s): Chinese variants as above
+- License: apache-2.0
+- Libraries: Transformers (supports PyTorch, TensorFlow, JAX, Rust)
+- Inference: Available via HF Inference API; code snippets are provided on the model page (Use this model / View Code Snippets)
+
+Example usage (typical pattern)
+- With Transformers pipeline (Python), prepend the target token to your input text before passing it to the model:
+  - from transformers import pipeline
+  - translator = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
+  - result = translator(">>zho_Hans<< Your English text here.")
+- Ensure the target token matches your desired Chinese variant, e.g., >>zho_Hans<< (Simplified), >>zho_Hant<< (Traditional), >>cmn<< (Mandarin), etc.
+
+Screenshot
+- Saved a screenshot of the model page showing the model and benchmark section:
+  - File: test_cases/result_with_screenshot_small/Huggingface--30/screenshot_1758150432.png
+
+Model page: https://huggingface.co/Helsinki-NLP/opus-mt-en-zh

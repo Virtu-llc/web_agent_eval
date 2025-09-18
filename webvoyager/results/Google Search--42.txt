@@ -1,0 +1,9 @@
+Task completed: I used Google Search to find an article explaining the major differences between American and British English, then opened the article and captured a screenshot.
+
+Article found and opened:
+- Title: Comparison of American and British English
+- Source: Wikipedia
+- URL: https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Search--42/screenshot_1757997352.png

@@ -1,0 +1,22 @@
+Task accomplished: Found a Coursera course (not a Specialization) that teaches Java programming basics and captured a screenshot.
+
+Course found:
+- Title: Java Programming for Beginners
+- URL: https://www.coursera.org/learn/java-for-programming-beginners
+- Offered by: IBM
+- Level: Beginner level
+- Format: Course (not a Specialization)
+- Rating: 4.7 (59 reviews) visible on the page
+- Modules: 5
+  - Introduction to the Java Environment and Ecosystem
+  - Building Blocks of Java Programming
+  - Control Structures and String Handling
+  - Robust Exception Handling
+  - Final Project and Course Wrap-Up
+- What you’ll learn (highlights shown on page):
+  - Set up the Java environment (JDK, JRE, IDE)
+  - Implement data types, variables, operators, control flow, arrays, strings
+  - Use robust exception handling
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Coursera--12/screenshot_1757995732.png

@@ -1,0 +1,56 @@
+Here’s what I accomplished:
+
+1) Opened Google Flights and set up your trip
+- Trip type: One-way
+- From: Johannesburg (JNB)
+- To: Toronto (YYZ)
+- Date: Friday, January 30, 2026
+- Passengers: 1 adult
+- Confirmed the results page showing one-way JNB → Toronto for Jan 30, 2026.
+
+2) Analyzed price trends for the following month (February 2026)
+I used the “Date grid” inside “Price insights” to read daily prices across February 2026. Below is what the grid showed for one-way JNB → Toronto:
+
+Observed daily patterns in February 2026:
+- Cheapest days: Frequent $602 fares on many Tuesdays, Wednesdays, and Thursdays.
+- Typical weekday prices:
+  - Tue/Wed/Thu: Often $602 (cheapest).
+  - Mondays: Often $617 (low price).
+- Weekend prices:
+  - Fridays: Generally higher; notable spikes to $693 and later to $811 on Fri, Feb 20; Fri, Feb 27 showed $705.
+  - Saturdays/Sundays: Mixed; several $617 days, with notable peaks around mid and late month (e.g., Sat, Feb 14 at $706; Sun, Feb 15 at $706; Sun, Feb 22 at $783).
+
+Notable specific dates (examples from the grid):
+- Feb 1 (Sun): $692
+- Feb 2 (Mon): $617
+- Feb 3–5 (Tue–Thu): $602 each day
+- Feb 6 (Fri): $693
+- Feb 7–9 (Sat–Mon): $617
+- Feb 10 (Tue): $602
+- Feb 11 (Wed): $692
+- Feb 12 (Thu): $602
+- Feb 13 (Fri): $693
+- Feb 14–15 (Sat–Sun): $706
+- Feb 16 (Mon): $617
+- Feb 17 (Tue): $602
+- Feb 18 (Wed): $602
+- Feb 19 (Thu): $602
+- Feb 20 (Fri): $811 (high)
+- Feb 21 (Sat): $617
+- Feb 22 (Sun): $783
+- Feb 23 (Mon): $617
+- Feb 24–25 (Tue–Wed): $602
+- Feb 26 (Thu): $650
+- Feb 27 (Fri): $705
+- Feb 28 (Sat): $617
+
+Summary of February 2026 trend:
+- Lowest widely-available fare: $602 (common on many Tue/Wed/Thu dates).
+- Highest observed fare: $811 (Fri, Feb 20).
+- General pattern: Mid-week is cheapest; Fridays and some weekend days rise notably (peaks mid and late month). Late month shows a modest bump on Thu/Fri (Feb 26–27 at $650 and $705), then softens to $617 on Sat Feb 28.
+
+3) Screenshot
+- I captured a screenshot of the Date grid showing the late-February prices (including Feb 25–28).
+- File: test_cases/result_with_screenshot_small/Google Flights--27/screenshot_1757990892.png
+
+If you’d like, I can extract a full list of dates/prices for all of February or pivot to the “Price graph” view for a different visual on the same trend.

@@ -1,0 +1,18 @@
+Task completed. Here are the results I found starting from Google and navigating to the latest Nature Astronomy research paper related to black holes, with a screenshot taken at the end.
+
+Latest Nature Astronomy paper related to black holes
+- Title: A complete measurement of a black-hole recoil through higher-order gravitational-wave modes
+- Journal: Nature Astronomy
+- Article type: Article (research)
+- Published date: 09 September 2025
+- Authors: Juan Calderón Bustillo; Samson H. W. Leong; Koustav Chandra
+- DOI: https://doi.org/10.1038/s41550-025-02632-5
+- URL: https://www.nature.com/articles/s41550-025-02632-5
+- Abstract (excerpt): The study demonstrates how the presence of more than one gravitational-wave emission mode enables constraining the azimuthal orientation angle of a real GW event and, consequently, the kick direction of the remnant black hole. Analyzing GW190412 with a numerical relativity surrogate waveform model, the authors rule out kick magnitudes below the typical escape velocity of dense globular clusters (~50 km s−1) with a Bayes factor ~21 (~95% probability), and provide directional constraints on the recoil.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Search--35/screenshot_1757992117.png
+
+Notes
+- I began at https://www.google.com/, then used “I’m Feeling Lucky” on the query site:nature.com "Nature Astronomy" black hole to land directly on the Nature Astronomy article.
+- I accepted the cookie banner and captured the article page showing the title, authors, and publication information.

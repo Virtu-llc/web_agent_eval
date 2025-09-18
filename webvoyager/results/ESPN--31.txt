@@ -1,0 +1,16 @@
+Answer found on ESPN:
+- Heaviest infielder on the New York Yankees roster (2025 roster page): Ben Rice — 228 lbs.
+
+How I got it:
+- Navigated: ESPN > MLB > Teams > New York Yankees > Roster.
+- On the “New York Yankees Roster 2025” page, under the Infielders section, I reviewed the WT column:
+  - Jose Caballero: 190 lbs
+  - Jazz Chisholm Jr.: 184 lbs
+  - Paul Goldschmidt: 225 lbs
+  - Ryan McMahon: 219 lbs
+  - Ben Rice: 228 lbs
+  - Amed Rosario: 190 lbs
+  - Anthony Volpe: 197 lbs
+- The maximum listed weight among infielders is 228 lbs for Ben Rice.
+
+Screenshot: test_cases/result_with_screenshot_small/ESPN--31/screenshot_1758161112.png

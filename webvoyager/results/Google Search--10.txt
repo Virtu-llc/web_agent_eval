@@ -1,0 +1,24 @@
+Here’s what I found and completed:
+
+No. 1 weekly Billboard artist
+- Artist: Sabrina Carpenter
+- Source: Billboard Artist 100 — Week of September 20, 2025 (billboard.com/charts/artist-100)
+- Result observed on the Billboard page: Sabrina Carpenter at No. 1
+
+10 most played songs by Sabrina Carpenter (by total Spotify streams to date)
+- Source: Kworb – “Sabrina Carpenter – Spotify Top Songs” (last updated 2025/09/16): https://kworb.net/spotify/artist/74KM79TiuVKeVCqs8QtB0B_songs.html
+- Top 10 by total streams shown on the page:
+  1) Espresso — 2,524,069,439
+  2) Please Please Please — 1,594,345,304
+  3) Nonsense — 1,400,720,870
+  4) Taste — 1,215,249,722
+  5) Feather — 982,844,779
+  6) On My Way — 822,607,544 (featured)
+  7) Bed Chem — 681,228,978
+  8) Juno — 508,427,941
+  9) because i liked a boy — 432,445,228
+  10) Looking at Me — 410,899,946
+
+Screenshot
+- Taken on the final page (Kworb “Spotify Top Songs” list for Sabrina Carpenter)
+- File: test_cases/result_with_screenshot_small/Google Search--10/screenshot_1758073748.png

@@ -1,0 +1,13 @@
+Task completed.
+
+Found repository:
+- Name: renzorlive/vimmaster
+- URL: https://github.com/renzorlive/vimmaster
+- Description (from page): VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.
+- Stars (from page): 1.3k
+- Created (from page metadata): 2025-08-27T14:53:51.000Z (within the last 30 days)
+- Language criteria: Repository tech stack states “Plain HTML/CSS/JavaScript” and it was found via a GitHub search filtered to language:JavaScript.
+- README: Present and rendered on the repository page (README.md with multiple sections like Features, Levels, etc.).
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/GitHub--4/screenshot_1758150748.png

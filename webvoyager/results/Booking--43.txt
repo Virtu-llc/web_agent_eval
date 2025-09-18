@@ -1,0 +1,96 @@
+Actions taken:
+- Opened https://www.booking.com/
+- Searched for “Los Angeles” and loaded the results page
+- Reviewed the available filters on the Los Angeles results page
+- Captured a screenshot of the results page
+
+Filters observed on the Los Angeles search results page (examples):
+- Popular filters:
+  - Hotels (397)
+  - Wonderful: 9+ (561)
+  - 4 stars (1242)
+  - Vacation Homes (352)
+  - Swimming pool (727)
+  - Villas (73)
+  - Private pool (359)
+  - Parking (1686)
+  - Kitchen/Kitchenette (1638)
+  - Apartments (1146)
+  - Hollywood (416)
+  - Free Wifi (2040)
+  - Resorts (4)
+  - Sea view (93)
+  - Restaurant (199)
+  - Private bathroom (1773)
+- Property Type:
+  - Apartments (1146)
+  - Hotels (397)
+  - Vacation Homes (352)
+  - Motels (77)
+  - Villas (73)
+  - Hostels (65)
+  - Homestays (60)
+  - Guesthouses (34)
+  - Bed and Breakfasts (19)
+  - Capsule Hotels (14)
+  - Resorts (4)
+  - Boats (3)
+  - Campgrounds (1)
+  - Lodges (1)
+  - Country Houses (1)
+  - Luxury tents (1)
+  - Love Hotels (1)
+- Amenities:
+  - Free Wifi (2040)
+  - Parking (1686)
+  - Non-smoking rooms (1216)
+  - Family rooms (753)
+  - Swimming pool (727)
+  - Show all (14)
+- Property rating (stars):
+  - 1 star
+  - 2 stars
+  - 3 stars
+  - 4 stars
+  - 5 stars
+- Review score:
+  - Wonderful: 9+ (561)
+  - Very Good: 8+ (1006)
+  - Good: 7+ (1271)
+  - Pleasant: 6+ (1365)
+- Neighborhood:
+  - Hollywood (416), Downtown LA (230), Marina Del Rey (172),
+    Santa Monica (164), West Los Angeles (121), South Los Angeles (118),
+    Beverly Hills (109), Venice Beach (103), West Hollywood (63),
+    Culver City (55), Show all (25)
+- Room amenities:
+  - Sea view (93), Balcony (883), Private pool (359),
+    Private bathroom (1773), Air conditioning (1973), Show all (15)
+- Highly rated features:
+  - Great location (868), Very good Wifi (320)
+- Landmarks:
+  - Third Street Promenade (105), Santa Monica Pier (54),
+    Santa Monica Farmers Market (23), The Grove (19), Rodeo Drive (16),
+    Show all (7)
+- Travel group:
+  - Pet friendly (1037), Adults only (25), Travel Proud (LGBTQ+ friendly) (90)
+- Distance from center of Los Angeles:
+  - Less than 1/2 mile (36), Less than 1 mile (97), Less than 2 miles (231)
+- Entire places:
+  - Entire homes & apartments (2164)
+- Brands:
+  - Avantstay (19), Hilton Hotels & Resorts (6), Courtyard by Marriott (6),
+    Design Hotels (5), Best Western (4), Hampton by Hilton (4),
+    Kimpton (4), Sonder by Marriott (4), Ramada (3),
+    Marriott Hotels & Resorts (3), Show all (20)
+- Certifications:
+  - Sustainability certification (27)
+- Accessibility:
+  - Property Accessibility: Toilet with grab rails (114), Raised toilet (80), Lowered sink (75), Bathroom emergency cord (13), Visual aids (Braille) (88), Visual aids (tactile signs) (53), Auditory guidance (42)
+  - Room Accessibility: Entire unit located on ground floor (252), Upper floors accessible by elevator (276), Entire unit wheelchair accessible (228), Toilet with grab rails (88), Adapted bath (80), Roll-in shower (122), Walk-in shower (248), Raised toilet (48), Lower sink (46), Emergency cord in bathroom (9), Shower chair (62)
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Booking--43/screenshot_1758099446.png
+
+Notes:
+- Counts shown above are exactly as displayed at the time of browsing and may change over time as listings update.

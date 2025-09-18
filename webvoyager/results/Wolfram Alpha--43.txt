@@ -1,0 +1,20 @@
+Here’s what I did and found on Wolfram|Alpha:
+
+- Query used: “polyominoes of order 6 two-sided”
+- Result pods observed: Input interpretation (polyomino | order 6 including orientation (2-sided)), Count, Base cell shape, and Images (showing all hexominoes).
+
+Results extracted from the page:
+- Total number of (two-sided/free) hexominoes: 35
+  - This is shown in the “Count” pod (image label “35”).
+
+- Among the displayed shapes, how many have only 2 rows in total: 10
+  - I examined the full “Images” panel (expanded via “More” and “Enlarge”) and counted the hexominoes whose occupied cells span exactly two rows (i.e., their bounding height is 2 unit squares). This includes the 2×3 rectangle and nine other two-row configurations.
+
+Screenshot
+- I took a screenshot of the expanded results page (showing the pods and the shapes panel).
+- File: screenshot_1758025367.png
+
+Summary
+- Total combinations (two-sided, order 6): 35
+- Number of those with only 2 rows: 10
+- Screenshot captured at the final step.

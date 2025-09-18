@@ -1,0 +1,23 @@
+Here’s what I accomplished:
+
+- Opened Booking.com
+- Searched for Barcelona with dates Wed, Feb 25 — Sat, Feb 28, 2026 (3 nights, 2 adults)
+- Sorted results by Distance from closest beach
+- Applied filters to ensure:
+  - Free WiFi
+  - Breakfast included
+
+What the page shows now:
+- Results banner: “Barcelona: 352 properties found. Applied filters: Hotels, Breakfast included, Free Wifi. Sorted by: Distance from closest beach.”
+- Top results (first 5) currently visible:
+  1) Eurohotel Diagonal Port — Beachfront
+  2) Hotel Arts Barcelona — Beachfront
+  3) Sofitel Barcelona Skipper — Beachfront
+  4) SLS Barcelona — 150 feet from beach
+  5) Hotel Best Front Maritim — Beachfront
+
+Screenshot:
+- Saved a screenshot of the filtered and sorted results page.
+- File: test_cases/result_with_screenshot_small/Booking--24/screenshot_1758152689.png
+
+If you’d like, I can extract more details from the top results (prices, ratings) or export the list.

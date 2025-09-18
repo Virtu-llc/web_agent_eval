@@ -1,0 +1,7 @@
+Task completed on Wolfram|Alpha.
+
+Result (simplified to fewer terms):
+(x - 4)^5 + 3 (x - 4)^3 + 7
+
+Screenshot:
+Saved as: test_cases/result_with_screenshot_small/Wolfram Alpha--6/screenshot_1758124443.png

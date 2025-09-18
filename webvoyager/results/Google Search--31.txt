@@ -1,0 +1,8 @@
+Result found:
+- Cristiano Ronaldo’s most goals in a single season came in the 2014–15 season, when he scored 61 goals across all competitions for Real Madrid.
+
+Source observed on page:
+- Google Search AI Overview on the results page stated: “Cristiano Ronaldo's most prolific single season was the 2014-15 season, where he scored 61 goals across all competitions for Real Madrid.”
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Search--31/screenshot_1758075758.png

@@ -1,0 +1,7 @@
+Done. I found a Coursera course that meets your criteria (duration less than 5 weeks and rating 4.5+), and captured a screenshot.
+
+- Course: Artificial Intelligence: Ethics & Societal Challenges
+- Instructor: Maria Hedlund
+- Evidence on page: Rating 4.7; Duration shown as “1 week at 10 hours a week”
+
+Screenshot: test_cases/result_with_screenshot_small/Coursera--23/screenshot_1758022584.png

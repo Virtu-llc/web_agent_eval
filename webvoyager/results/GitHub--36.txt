@@ -1,0 +1,10 @@
+Here is a new open-source GitHub project related to AI in agriculture created in 2022:
+
+- Repository: microsoft/farmvibes-ai
+- URL: https://github.com/microsoft/farmvibes-ai
+- Description: FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
+- Main programming language: Jupyter Notebook (with Python also used)
+- License: MIT
+- Creation year confirmation: Searched with GitHub qualifier created:2022 and repository shows initial commits ~3 years ago from current date (consistent with 2022).
+
+Screenshot saved: test_cases/result_with_screenshot_small/GitHub--36/screenshot_1758154436.png

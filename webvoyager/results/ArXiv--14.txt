@@ -1,0 +1,15 @@
+Result: 4 articles
+
+How I found it:
+- Searched arXiv for “SimCSE” (All fields).
+- Sorted by “Announcement date (newest first)” and reviewed the results page.
+- Counted entries that explicitly show “originally announced October 2023.”
+
+The four matching articles:
+1) Japanese SimCSE Technical Report (arXiv:2310.19349) — originally announced October 2023
+2) Non-contrastive sentence representations via self-supervision (arXiv:2310.17690) — originally announced October 2023
+3) Large Language Models can Contrastively Refine their Generation for Better Sentence Representation Learning (arXiv:2310.10962) — originally announced October 2023
+4) Improving Contrastive Learning of Sentence Embeddings with Focal-InfoNCE (arXiv:2310.06918) — originally announced October 2023
+
+Screenshot: saved (arXiv results page)
+- File: test_cases/result_with_screenshot_small/ArXiv--14/screenshot_1758057194.png

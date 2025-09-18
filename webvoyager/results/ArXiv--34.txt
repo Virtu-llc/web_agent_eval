@@ -1,0 +1,12 @@
+Here are the most recent arXiv results matching your criteria (related to non-commutative geometry and submitted by an author with the first name “John”). I navigated using arXiv’s Advanced Search to filter:
+- Author(s): John
+- All fields: noncommutative geometry
+- Sorted by announcement/submission recency and checked the latest submission date on the results page.
+
+Most recent match
+- Title: A Note on Quantum Odometers
+- Authors: Slawomir Klimek, Matt McBride, John Wilson Peoples
+- Submission date: 17 May 2022
+- Abstract: We discuss various aspects of noncommutative geometry of smooth subalgebras of Bunce-Deddens-Toeplitz Algebras.
+
+Screenshot saved: test_cases/result_with_screenshot_small/ArXiv--34/screenshot_1758013873.png

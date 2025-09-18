@@ -1,0 +1,41 @@
+What I did
+- Visited https://huggingface.co
+- Navigated to Models > filtered by task “Image-to-Video”
+- Sorted results by “Recently updated”
+- Opened the most recently updated model’s page
+- Extracted key information from the model card
+- Took a screenshot of the final page
+
+Latest updated Image-to-Video model
+- Name: Phr00t/WAN2.2-14B-Rapid-AllInOne
+- Updated: about 6 hours ago
+- Stars: 670
+- Base model: Wan-AI/Wan2.2-I2V-A14B (14B)
+
+Main features (from the model card)
+- All-in-one merge for speed and simplicity:
+  - Mixtures of WAN 2.2 and other WAN-like models and accelerators
+  - Includes CLIP and VAE in the checkpoint
+  - FP8 precision for faster generation
+- Supported generation modes:
+  - Image-to-Video (I2V)
+  - Text-to-Video (T2V)
+  - First frame → last frame and last frame only (via VACE)
+  - The “MEGA Merge” variant is a “one model to rule them all,” covering I2V, T2V, and VACE flows with a provided workflow (mega-v1/)
+- Usage and recommendations:
+  - Designed to be easy and fast (“all in one”); intended to use 1 CFG and 4 steps
+  - Recommended samplers:
+    - For MEGA v1: ipndm/sgm_uniform sampler/scheduler
+    - Earlier versions recommend euler_a/beta or sa_solver depending on version
+  - WAN 2.1 LoRA compatibility is generally good; “low noise” WAN 2.2 LoRAs also compatible (avoid “high noise” LoRAs). Adjust LoRA strengths as needed
+- Iterative improvements (changelog highlights):
+  - Progressive fixes to I2V noise and scene shifting
+  - Integration of WAN 2.2 Lightning and other accelerators (e.g., SkyReels, Fun, FunReward)
+  - MEGA v1 eliminates previous I2V noise issues while unifying I2V/T2V workflows
+- Notes:
+  - NSFW merge variants exist (user discretion advised)
+  - Trade-off acknowledged: prioritizes speed/simplicity over the higher per-frame quality of full WAN 2.2 pipelines
+  - GGUF and FP16 variants are linked from the card (external/community builds)
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Huggingface--11/screenshot_1758149490.png

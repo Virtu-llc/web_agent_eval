@@ -1,0 +1,20 @@
+Here’s a gaming desktop on Amazon that matches your requirements (Windows 11 Home and 1TB disk):
+
+Product: iBUYPOWER Slate MESH Gaming PC Desktop Computer (SMI7N5701)
+- Operating System: Windows 11 Home
+- Storage: 1TB NVMe SSD (Flash Memory Size: 1 TB)
+- CPU: Intel Core i7-14700F
+- GPU: NVIDIA GeForce RTX 5070 12GB
+- RAM: 32GB DDR5
+
+Price shown at time of visit: $1,654.93 (subject to change)
+
+Link on page: iBUYPOWER Slate MESH Gaming PC Desktop Computer Intel Core i7 14700F CPU, NVIDIA GeForce RTX 5070 12GB GPU, 32GB DDR5 RGB 5200MHz RAM, 1TB NVMe SSD, Windows 11 Home, Keyboard and Mouse - SMI7N5701
+
+Screenshot captured: test_cases/result_with_screenshot_small/Amazon--2/screenshot_1758065294.png
+
+Actions performed:
+- Searched “gaming desktop” on Amazon.
+- Opened a product that explicitly shows “Windows 11 Home” and “1TB NVMe SSD.”
+- Verified specs in the product details and “About this item” section.
+- Took a screenshot on the final product page.

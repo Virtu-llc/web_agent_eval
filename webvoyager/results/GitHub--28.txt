@@ -1,0 +1,21 @@
+I visited GitHub and searched for repositories with:
+- language: JavaScript
+- created after 2024-12-01
+- sorted by stars
+
+Most-starred JavaScript repositories created after 2024-12-01 (top 10 from the results page):
+1) upstash/context7 — 30577 stars
+2) eyaltoledano/claude-task-master — 22061 stars
+3) asgeirtj/system_prompts_leaks — 20694 stars
+4) bmad-code-org/BMAD-METHOD — 15116 stars
+5) LibreSpark/LibreTV — 11627 stars
+6) ConardLi/easy-dataset — 10781 stars
+7) shareAI-lab/analysis_claude_code — 10246 stars
+8) github/awesome-copilot — 7532 stars
+9) jamez-bondos/awesome-gpt4o-images — 7363 stars
+10) AgentDeskAI/browser-tools-mcp — 6538 stars
+
+Note: Results are exactly as shown on GitHub’s search results page for the query: language:JavaScript created:>2024-12-01 sort:stars. Some repositories are marked as “Public archive” where applicable.
+
+Screenshot taken of the results page:
+- File: test_cases/result_with_screenshot_small/GitHub--28/screenshot_1758149783.png

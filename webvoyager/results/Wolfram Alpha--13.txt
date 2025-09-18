@@ -1,0 +1,8 @@
+I visited Wolfram|Alpha and performed the query. The site interpreted “now” as 2025 US dollars and gave CPI-based conversions.
+
+Results (from Wolfram|Alpha):
+- $10,000 (2025 USD) in 1980 dollars: $2,634.31 (based on Consumer Price Index)
+- $10,000 (2025 USD) in 1970 dollars: $1,241.10 (based on Consumer Price Index)
+
+Screenshot captured of the final results page:
+- File: test_cases/result_with_screenshot_small/Wolfram Alpha--13/screenshot_1758164743.png

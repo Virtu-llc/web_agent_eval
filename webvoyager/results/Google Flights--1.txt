@@ -1,0 +1,78 @@
+I visited Google Flights, set the trip to One way, entered Chicago (origin) and Paris (destination), selected the departure date as Wednesday, December 17, 2025, and ran the search. Here are the one-way flight results returned (12 total), exactly as shown:
+
+Top flights
+1) From $511 — TAP Air Portugal (1 stop)
+- Depart: 7:10 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 2:30 PM, Paris Orly (ORY) Thu, Dec 18
+- Duration: 12 hr 20 min
+- Layover: 1 hr 55 min at Lisbon (LIS)
+
+2) From $649 — United (Nonstop)
+- Depart: 6:45 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 9:55 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 8 hr 10 min
+
+3) From $655 — Aer Lingus (1 stop)
+- Depart: 3:50 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 9:30 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 10 hr 40 min
+- Layover: 1 hr 30 min at Dublin (DUB)
+
+Other flights
+4) From $614 — JetBlue (1 stop)
+- Depart: 11:25 AM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 9:20 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 14 hr 55 min
+- Layover: 5 hr 21 min at Boston (BOS)
+
+5) From $632 — JetBlue + Condor (2 stops)
+- Depart: 7:00 AM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 10:20 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 20 hr 20 min
+- Layovers: 5 hr 38 min at New York JFK; 3 hr 25 min at Frankfurt (FRA)
+
+6) From $655 — American (1 stop)
+- Depart: 11:47 AM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 6:35 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 11 hr 48 min
+- Layover: 2 hr 26 min at New York JFK
+
+7) From $655 — United (1 stop)
+- Depart: 1:05 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 6:55 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 10 hr 50 min
+- Layover: 1 hr 20 min at Washington Dulles (IAD)
+
+8) From $655 — United (1 stop)
+- Depart: 1:36 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 7:25 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 10 hr 49 min
+- Layover: 1 hr 16 min at Newark (EWR)
+
+9) From $655 — American (1 stop)
+- Depart: 2:42 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 8:20 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 10 hr 38 min
+- Layover: 56 min at Philadelphia (PHL)
+
+10) From $733 — Delta (1 stop; operated by SkyWest DBA Delta Connection)
+- Depart: 1:50 PM, Chicago Midway (MDW) Wed, Dec 17
+- Arrive: 7:55 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 11 hr 5 min
+- Layover: 50 min at Minneapolis–Saint Paul (MSP)
+
+11) From $733 — Delta (1 stop; operated by SkyWest DBA Delta Connection)
+- Depart: 2:32 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 8:10 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 10 hr 38 min
+- Layover: 1 hr 15 min at Detroit (DTW)
+
+12) From $1,098 — Air France (Nonstop)
+- Depart: 5:20 PM, Chicago O’Hare International (ORD) Wed, Dec 17
+- Arrive: 8:15 AM, Paris Charles de Gaulle (CDG) Thu, Dec 18
+- Duration: 7 hr 55 min
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Flights--1/screenshot_1758044157.png
+
+Note: All details are exactly as shown on Google Flights at the time of extraction, including prices, times, durations, stops, and layovers.

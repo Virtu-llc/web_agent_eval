@@ -1,0 +1,9 @@
+I visited Wolfram|Alpha, searched for “cat curve,” and opened the results page showing the plot.
+
+Actions performed:
+- Opened https://www.wolframalpha.com/
+- Entered “cat curve” in the search field and executed the query
+- Reached the results page with the “Plot” section visible
+- Captured a screenshot of the results
+
+Screenshot saved: test_cases/result_with_screenshot_small/Wolfram Alpha--29/screenshot_1758147709.png

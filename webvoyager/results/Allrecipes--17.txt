@@ -1,0 +1,12 @@
+Here’s what I did:
+- Opened Allrecipes, searched for “Easy Vegetarian Spinach Lasagna,” and opened the recipe page.
+- Scrolled to the Reviews section, which is already sorted with the newest reviews at the top.
+- Captured the most recent review and took a screenshot.
+
+Latest review on the recipe:
+- Reviewer: FlashyLemon8097
+- Date: 06/08/2025
+- Review text: “Made this for my daughter and her family, they are vegetarian. The flavor was good, but I think the next time I make it I would add more marinara and perhaps some plant based ‘meat’ to add to the flavor. On the plus side, my youngest granddaughter that doesn’t like lasagna, ate two helpings of it.”
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Allrecipes--17/screenshot_1757998410.png

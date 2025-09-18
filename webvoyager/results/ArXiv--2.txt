@@ -1,0 +1,13 @@
+Here’s the most recent cs.CL paper I opened on arXiv and its abstract:
+
+Paper: Preservation of Language Understanding Capabilities in Speech-aware Large Language Models
+arXiv ID: 2509.12171
+Authors: Marek Kubis, Paweł Skórzewski, Iwona Christop, Mateusz Czyżnikiewicz, Jakub Kubiak, Łukasz Bondaruk, Marcin Lewandowski
+
+Abstract:
+The paper presents C3T (Cross-modal Capabilities Conservation Test), a new benchmark for assessing the performance of speech-aware large language models. The benchmark utilizes textual tasks and a voice cloning text-to-speech model to quantify the extent to which language understanding capabilities are preserved when the model is accessed via speech input. C3T quantifies the fairness of the model for different categories of speakers and its robustness across text and speech modalities.
+
+Subjects: Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+Submitted: 15 Sep 2025
+
+Screenshot captured: test_cases/result_with_screenshot_small/ArXiv--2/screenshot_1758016635.png

@@ -1,0 +1,20 @@
+Here’s what I found on GitHub’s site:
+
+Copilot Individual price (USD per year)
+- Pro: $100 per year (also shown as $10 USD per month or $100 per year on the page)
+
+Features for Copilot Individual (Pro)
+Includes everything in Free:
+- 50 agent mode or chat requests per month
+- 2,000 completions per month
+- Access to Claude Sonnet 3.5, GPT-4.1, and more
+
+Plus Pro adds:
+- Unlimited agent mode and chats with GPT-5 mini
+- Unlimited code completions
+- Access to code review, Claude Sonnet 4, GPT-5, Gemini 2.5 Pro, and more
+- 6x more premium requests than Copilot Free to use the latest models, with the option to buy more
+- Coding agent (preview)
+
+Screenshot
+- I’ve taken a screenshot of the “For individuals” plans section showing the price and features.

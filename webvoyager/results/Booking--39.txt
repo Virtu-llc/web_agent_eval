@@ -1,0 +1,19 @@
+Result summary
+- Destination: Downtown Toronto, Toronto, Ontario, Canada
+- Dates: Tue, Feb 24 – Thu, Feb 26, 2026 (2 nights)
+- Filters applied: Parking, Pet friendly
+- Results found: 77 properties
+
+Example qualifying hotel (visible on results page)
+- Toor Hotel Toronto, Part of JdV by Hyatt — Downtown Toronto, Toronto
+  - Price shown: $324 total for 2 nights (as displayed at the time of search; prices may change)
+  - Meets filters: Pet friendly and Parking (filters applied to results)
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Booking--39/screenshot_1758137546.png
+
+What I did
+- Searched for “Downtown Toronto”
+- Set dates to Feb 24–26, 2026
+- Applied filters: Parking and Pet friendly
+- Confirmed results updated and captured a screenshot showing a qualifying hotel in Downtown Toronto

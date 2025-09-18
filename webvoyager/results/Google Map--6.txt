@@ -1,0 +1,10 @@
+Task completed: I visited Google Maps, searched for Uniqlo locations in Chicago, IL, and captured a screenshot.
+
+All UNIQLO locations in Chicago, IL (as shown on Google Maps):
+- UNIQLO State Street
+  - Address: 22 N State St, Chicago, IL 60602
+  - Phone: (855) 486-4756
+
+Note: The search results list also included UNIQLO Woodfield Mall (5 Woodfield Mall Space F114B), which is not in Chicago city proper.
+
+Screenshot: test_cases/result_with_screenshot_small/Google Map--6/screenshot_1758024566.png

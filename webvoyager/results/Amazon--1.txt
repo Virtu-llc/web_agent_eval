@@ -1,0 +1,24 @@
+Task completed.
+
+What I did:
+- Opened https://www.amazon.com/
+- Searched for "women's golf polo"
+- Applied “Women’s General Clothing Size: M” filter
+- Restricted price to $50–$75 using Amazon’s price-range filter
+- Sorted results by Price: Low to High
+- Opened the lowest-priced product within the filtered range
+- Selected size “Medium”
+- Captured a final screenshot
+
+Lowest-priced item found (within $50–$75):
+- Product: Milli Polo Women's Short Sleeve Golf Polo Shirt
+- Price: $50.00
+- Size selected: Medium
+- Link: https://www.amazon.com/dp/B0DDKF9YP4
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Amazon--1/screenshot_1758134400.png
+
+Notes:
+- The size “M” filter is active and Medium is selectable on the product page.
+- Price shown on the product page is $50.00, which is within the requested range and is the lowest among filtered results.

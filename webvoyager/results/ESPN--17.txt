@@ -1,0 +1,8 @@
+Here’s what I found on ESPN’s NBA Basketball Power Index (BPI) for the 2024-25 season:
+
+- First place (BPI Rank 1): Oklahoma City Thunder
+- Last place (BPI Rank 30): Washington Wizards
+
+I navigated to the BPI page (season selector shows 2024-25) and verified the table is sorted by BPI Rank. The Thunder are listed first with BPI RK 1, and the Wizards appear at the bottom with BPI RK 30.
+
+Screenshot taken: test_cases/result_with_screenshot_small/ESPN--17/screenshot_1758109768.png

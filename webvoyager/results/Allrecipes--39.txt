@@ -1,0 +1,39 @@
+Task completed on Allrecipes.
+
+Recipe chosen (meets 20+ reviews):
+- California Roll Sushi (4.3 rating; 79 ratings; 50 reviews)
+- URL: https://www.allrecipes.com/recipe/189477/california-roll-sushi/
+
+Main ingredients (as listed on the page):
+- 1 cup uncooked short-grain white rice
+- 1 cup water
+- 1/4 cup rice vinegar
+- 1 tablespoon white sugar
+- 1/2 cup imitation crabmeat, finely chopped
+- 1/4 cup mayonnaise
+- 8 sheets nori (dry seaweed)
+- 2 1/2 tablespoons sesame seeds
+- 1 cucumber, cut into thin spears
+- 2 avocados - pitted, peeled, and sliced the long way
+
+Nutrition Facts (per serving) from the page:
+- Calories: 232
+- Total Fat: 14g (18% DV)
+- Saturated Fat: 2g (11% DV)
+- Cholesterol: 5mg (2% DV)
+- Sodium: 135mg (6% DV)
+- Total Carbohydrate: 24g (9% DV)
+- Dietary Fiber: 4g (16% DV)
+- Total Sugars: 3g
+- Protein: 4g (8% DV)
+- Vitamin C: 7mg (8% DV)
+- Calcium: 43mg (3% DV)
+- Iron: 2mg (9% DV)
+- Potassium: 327mg (7% DV)
+- Servings per recipe: 8
+
+Storage information:
+- The selected Allrecipes page does not provide storage instructions for these rolls.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--39/screenshot_1757984963.png

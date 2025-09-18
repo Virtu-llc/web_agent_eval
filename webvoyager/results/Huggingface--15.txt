@@ -1,0 +1,20 @@
+Actions taken:
+- Visited https://huggingface.co/
+- Navigated to Models and filtered Library = PaddlePaddle
+- Set Sort to “Most downloads”
+- Extracted the top results and took a screenshot
+
+Most downloaded PaddlePaddle models (as displayed, sorted by downloads):
+1) PaddlePaddle/PP-Chart2Table — 5.09k downloads
+2) logasanjeev/indian-id-validator — 437 downloads
+3) PaddlePaddle/PP-DocBee2-3B — 174 downloads
+4) PaddlePaddle/PP-DocBee-2B — 53 downloads
+5) PaddlePaddle/PP-DocBee-7B — 20 downloads
+6) junnyu/roformer_chinese_base — 14 downloads
+7) junnyu/roformer_base_wwm_cluecorpussmall — 12 downloads
+8) junnyu/roformer_chinese_char_base — 8 downloads
+9) PaddleCI/tiny-random-plato-mini — 7 downloads
+10) sijunhe/test_unet1d — 7 downloads
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Huggingface--15/screenshot_1758068154.png

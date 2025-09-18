@@ -1,0 +1,26 @@
+Actions completed
+- Opened Google Flights and set the origin to Seattle (SEA).
+- Clicked “Explore destinations” to open the map-based Explore view.
+- Reviewed destinations and prices on the left results list and on the map markers.
+- Captured a screenshot of the Explore map and results.
+
+Recommendations from Seattle (SEA), based on the map and list shown
+These are well-known destinations within a reasonable distance and price, with exact details pulled from the page:
+
+- Portland, OR — $117 — Alaska — Nonstop · 59 min — Oct 11–18
+- San Francisco, CA — $137 — Alaska — Nonstop · 2 hr 14 min — Oct 25–Nov 1
+- Las Vegas, NV — $114 — Frontier — Nonstop · 2 hr 37 min — Dec 5–11
+- Salt Lake City, UT — $135 — Frontier — Nonstop · 2 hr 7 min — Nov 17–25
+- Phoenix, AZ — $93 — Frontier — Nonstop · 2 hr 56 min — Dec 5–13
+- Los Angeles, CA — $162 — Frontier — Nonstop · 2 hr 49 min — Nov 13–20
+- San Diego, CA — $167 — Southwest — 1 stop · 4 hr 20 min — Nov 24–Dec 2
+- Denver, CO — $39 — Frontier — Nonstop · 2 hr 51 min — Dec 6–13
+
+Also visible on the map (prices shown on markers)
+- Boise, ID — $117
+- Victoria, BC — $197
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Google Flights--40/screenshot_1758160510.png
+
+Note: Dates and prices are exactly as displayed in Google Flights’ Explore view at the time of browsing and may change.

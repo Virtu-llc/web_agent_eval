@@ -1,0 +1,9 @@
+Here’s what I found on Cambridge Dictionary for “solitude”:
+
+- Meaning: “the situation of being alone without other people”
+- Pronunciation:
+  - UK: /ˈsɒl.ɪ.tʃuːd/
+  - US: /ˈsɑː.lə.tuːd/
+- Example sentence: “After months of solitude at sea it felt strange to be in company.”
+
+Screenshot taken: test_cases/result_with_screenshot_small/Cambridge Dictionary--27/screenshot_1758161593.png

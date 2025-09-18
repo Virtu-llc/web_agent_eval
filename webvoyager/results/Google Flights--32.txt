@@ -1,0 +1,13 @@
+I completed your request on Google Flights.
+
+What I did:
+- Set a round-trip search from Stockholm to Toronto
+- Set dates: Depart Tue, Mar 3, 2026 and Return Tue, Mar 10, 2026
+- Sorted the results by Duration (shortest total travel time first)
+
+Top result after sorting by Duration (outbound list):
+- Icelandair — 11 hr 30 min total duration — 1 stop (1 hr 45 min in KEF) — From $419 round trip total (as shown)
+
+Screenshot:
+- Saved a screenshot of the results page sorted by Duration.
+- File: test_cases/result_with_screenshot_small/Google Flights--32/screenshot_1758029041.png

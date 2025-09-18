@@ -1,0 +1,12 @@
+Task completed.
+
+Identified option:
+- Title: Business Process Modelling
+- Type: Course
+- Offered by: Starweaver
+- Rating: 4.7 (99 reviews)
+- Why it helps with BPM: Covers Process Management, Process Improvement, Workflow Management, Business Workflow Analysis, and related BPM skills.
+- Link: https://www.coursera.org/learn/business-process-modelling
+
+Screenshot:
+- Saved at: test_cases/result_with_screenshot_small/Coursera--4/screenshot_1758148643.png

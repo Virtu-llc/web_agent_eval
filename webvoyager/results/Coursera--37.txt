@@ -1,0 +1,14 @@
+Here’s what I accomplished:
+- Opened the Coursera homepage
+- Navigated via the homepage footer link to “Free Courses”
+- Applied the “Free” cost filter (confirmed by “1 active filter” and “Clear Free filter” indicator)
+- Extracted the titles of free courses currently shown
+
+At least three free courses (from the filtered results):
+- Computer Science: Programming with a Purpose — Princeton University
+- Bitcoin and Cryptocurrency Technologies — Princeton University
+- Algorithms, Part I — Princeton University
+- Fundamentals of Business Finance, with Goldman Sachs 10,000 Women — Goldman Sachs
+- Health Across the Gender Spectrum — Stanford University
+
+Screenshot saved: test_cases/result_with_screenshot_small/Coursera--37/screenshot_1758005264.png

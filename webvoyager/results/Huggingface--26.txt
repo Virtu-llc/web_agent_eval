@@ -1,0 +1,11 @@
+Here are the details of a Hugging Face model designed for generating travel chats:
+
+- Model name: rakibulnahin/travel-chat-llama2-7b
+- Size: Model size shown as 3.64B params (as displayed on the page)
+- Training framework: Transformers (with tags also indicating trl, sft; weights in Safetensors and 4-bit precision via bitsandbytes)
+
+Source page elements observed:
+- Task: Text Generation
+- Tags on the model page include: Transformers, trl, sft, conversational, text-generation-inference, 4-bit precision, bitsandbytes, llama.
+
+Screenshot: test_cases/result_with_screenshot_small/Huggingface--26/screenshot_1758144020.png

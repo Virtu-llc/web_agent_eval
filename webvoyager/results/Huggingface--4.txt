@@ -1,0 +1,47 @@
+Task completed: Located an open-source conversational AI model on Hugging Face that is trained in English, extracted its key details, features, and applications. I attempted to take a screenshot of the final page but encountered a persistent page screenshot timeout (details below).
+
+Model found
+- Name: tiiuae/falcon-7b-instruct
+- URL: https://huggingface.co/tiiuae/falcon-7b-instruct
+- License: Apache-2.0 (open-source)
+- Languages: English and French; model card notes it is mostly trained on English data
+- Tags on page: conversational, English, text-generation, transformers, PyTorch, Safetensors
+
+Main features (from the model card)
+- Model type and size: 7B-parameter causal decoder-only model, finetuned on chat/instruct data (based on Falcon-7B)
+- Training focus: Finetuned on a 250M-token mixture of instruct/chat datasets:
+  - Baize (chat): 65% (~164M tokens)
+  - GPT4All (instruct): 25% (~62M tokens)
+  - GPTeacher (instruct): 5% (~11M tokens)
+  - RefinedWeb-English: 5% (~13M tokens)
+- Language(s): English and French; explicitly “mostly trained on English data”
+- Architecture optimizations:
+  - FlashAttention (Dao et al., 2022)
+  - Multi-query attention (Shazeer et al., 2019)
+  - Rotary positional embeddings (Su et al., 2021)
+  - Parallel attention/MLP with a single layer norm
+- Key specs:
+  - Vocabulary size: 65,024
+  - Sequence length: 2,048
+  - Tensor type: BF16
+- Usage notes:
+  - Ready-to-use chat/instruct model
+  - Requires PyTorch 2.0 for use with transformers
+  - Example inference provided; suggests at least 16 GB memory for smooth inference
+- License and openness: Available under Apache 2.0 license (open-source)
+
+Applications (from the page’s “Why use” and “Uses/Direct Use” sections)
+- Direct use: A ready-to-use chat/instruct model for conversational AI and instruction-following interactions
+  - Chatbots and assistant-style dialogue
+  - Instruction following in conversational settings
+- Noted limitations and out-of-scope:
+  - Mostly trained on English; may not generalize well to other languages
+  - Production use should include guardrails and risk mitigation
+  - Out-of-scope: deploying without adequate assessment of risks and mitigations
+
+Screenshot status
+- I attempted to capture a screenshot of the model page multiple times, but the browser reported a timeout when taking the page screenshot:
+  - Error: Page.screenshot: Timeout 30000ms exceeded. Call log: taking page screenshot; waiting for fonts to load... fonts loaded
+- I tried reloading the page, waiting for content to stabilize, and scrolling before retrying; the same timeout persisted.
+
+If you’d like, I can retry the screenshot or capture a narrower region once the page allows it.

@@ -1,0 +1,14 @@
+Actions taken:
+- Opened Amazon.com and searched for “children's science experiment kit ages 8-13”.
+- Applied filters in the left sidebar: “Age Range: 8 to 13 Years” and “Customer Reviews: 4 Stars & Up”.
+- Scrolled to the results and captured a screenshot.
+
+Top matching result found (meets all criteria):
+- Title: 30-in-1 STEM Solar Robot Kit Toys, 243 Pieces Educational Building Science Experiment Kit for Kids Aged 8-12, Birthday Gifts Kids Aged 8 9 10 11 12 13 Years Old (Yellow)
+- Rating: 4.4 out of 5 stars
+- Price: $25.19 (Typical: $27.99)
+- Age range shown: 8 - 13 years
+- Notes: Clearly marked as a “Science Experiment Kit,” 4+ stars, and under $30.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Amazon--36/screenshot_1758144536.png

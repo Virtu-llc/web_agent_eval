@@ -1,0 +1,23 @@
+I found the best-priced round-trip flight for Seattle → Paris with your criteria and captured a screenshot.
+
+Your search and filters
+- Route: Seattle (SEA) to Paris (PAR)
+- Dates: Depart Thu, Nov 27, 2025 — Return Mon, Dec 1, 2025
+- Trip: Round trip
+- Stops filter: 1 stop or fewer
+- Seating class: Economy
+- Passengers: 1
+
+Best-priced option (as shown)
+- Price: From $670 round trip total
+- Airline: Condor
+- Stops: 1 stop (meets the max one stop requirement)
+- Outbound details: Leaves SEA at 5:40 PM on Thu, Nov 27 → Arrives CDG at 3:30 PM on Fri, Nov 28
+- Total duration (outbound): 12 hr 50 min
+- Layover: 1 hr 20 min at Frankfurt (FRA)
+- Note: The listed price excludes overhead bin access (per Google Flights note)
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Flights--28/screenshot_1758160394.png
+
+If you’d like, I can proceed to select this itinerary to view return-flight specifics and booking options.

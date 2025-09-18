@@ -1,0 +1,13 @@
+Actions performed:
+- Opened dictionary.cambridge.org
+- Located the Shop link and extracted its target URL
+- Navigated to the Cambridge Dictionary Shop: https://cambridgedictionaryshop.com/?utm_source=CDO&utm_medium=mainnav&utm_campaign=merchandise&utm_id=Experiments
+- Scrolled to the “BESTSELLERS” section to browse items
+- Took a screenshot of the shop section
+
+Three items visible in the Cambridge Dictionary Shop (BESTSELLERS):
+- Bookish T-Shirt
+- Bright Spark Mug
+- Grumpy T-Shirt
+
+Screenshot saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--41/screenshot_1758062399.png

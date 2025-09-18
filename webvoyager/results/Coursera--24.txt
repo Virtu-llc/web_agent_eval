@@ -1,0 +1,10 @@
+Here’s a Coursera course that matches your criteria and includes a specific module on Measuring Sustainability:
+
+Course: Introduction to Sustainability
+Subject path: Physical Science and Engineering > Environmental Science and Sustainability
+Offering institution: University of Illinois Urbana-Champaign
+Course duration: 3 weeks to complete (at ~10 hours/week)
+Evidence of module: Module 7 is titled “Measuring Sustainability”
+
+Screenshot captured showing the module list (including “Measuring Sustainability”) and key details.
+File: test_cases/result_with_screenshot_small/Coursera--24/screenshot_1758017626.png

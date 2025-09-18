@@ -1,0 +1,28 @@
+Task completed on Google Flights.
+
+Your search parameters
+- Trip: Round trip
+- From: New York (NYC — multiple airports)
+- To: London (LON — multiple airports)
+- Depart: Thursday, December 25, 2025
+- Return: Monday, January 5, 2026
+- Stops filter: 1 stop or fewer (applied)
+
+Best-priced round-trip found
+- Cheapest round-trip price: 569 US dollars
+- Example cheapest departing option:
+  - Airline: British Airways
+  - Route: JFK to LHR
+  - Date/Time: Thu, Dec 25 — departs 8:05 AM, arrives 8:00 PM
+  - Duration: 6 hr 55 min
+  - Stops: Nonstop
+  - Price shown: From 569 US dollars round trip total
+
+Notes
+- Multiple British Airways nonstop departures on Dec 25 appear at the same 569 USD round-trip price (e.g., 6:15 PM → 6:15 AM next day; 6:50 PM → 6:45 AM next day).
+- The 569 USD price is the round-trip total for the chosen dates with the “1 stop or fewer” filter applied, as displayed by Google Flights.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Flights--12/screenshot_1758067869.png
+
+If you’d like, I can proceed to select a specific outbound flight and then choose the cheapest matching return to show the exact full itinerary combination.

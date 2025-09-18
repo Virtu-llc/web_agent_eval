@@ -1,0 +1,5 @@
+Results from GitHub
+- Latest stable release of Vuex: v4.0.2
+- Published on: Jun 17, 2021
+
+Screenshot: test_cases/result_with_screenshot_small/GitHub--8/screenshot_1758151335.png

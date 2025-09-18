@@ -1,0 +1,15 @@
+Here’s what I did and found:
+
+- Destination set to Shenzhen, Guangdong, China
+- Dates selected: Fri, Mar 6 – Sun, Mar 8, 2026 (2 nights)
+- Searched and set currency to Chinese Yuan (CNY)
+
+Chosen hotel: Futian Shangri-La, Shenzhen, Near to Shenzhen Convention & Exhibition Centre, Futian Railway Station
+
+Price shown for your dates (2 nights, 2 adults, 1 room): CNY 2,398
+
+Screenshot saved: test_cases/result_with_screenshot_small/Booking--40/screenshot_1758112458.png
+
+Notes:
+- This is the price displayed on the search results page after converting to CNY.
+- Availability and prices can change; this reflects the current on-page value at the time of checking.

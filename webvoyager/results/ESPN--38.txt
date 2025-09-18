@@ -1,0 +1,20 @@
+Task completed on ESPN.
+
+What I did:
+- Navigated to ESPN > NBA > Los Angeles Lakers > Stats.
+- Confirmed the season filter is set to “2024-25 Regular Season.”
+- Read the Player Stats table to get Anthony Davis’ Games Played (GP) and the team’s total games.
+
+Findings from the page:
+- Team total games (Total row, GP): 82
+- Anthony Davis GP: 42
+
+Calculation:
+- Anthony Davis GP% = 42 / 82 = 51.22% (approximately 51.2%)
+
+Players with the same GP% as Anthony Davis:
+- I scanned the GP column for all listed Lakers players on the 2024-25 Regular Season stats page. No other player has 42 GP. Therefore, no other player has the same GP percentage as Anthony Davis.
+
+Screenshot:
+- Saved a screenshot of the final view.
+  File: test_cases/result_with_screenshot_small/ESPN--38/screenshot_1758166322.png

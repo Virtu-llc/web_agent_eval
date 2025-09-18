@@ -1,0 +1,15 @@
+Completed the task on Google Maps and gathered the basic information for Castle Mountains National Monument in California. Screenshot captured at the end.
+
+Basic Information (as shown on Google Maps):
+- Name: Castle Mountains National Monument
+- Category: Tourist attraction
+- Rating: 4.6 (21 reviews)
+- Description: Protected area of rare desert grassland & Joshua tree forests, plus the "Castle Peaks" rock spires.
+- Address: Barstow, CA 92311
+- Hours: Open 24 hours
+- Website: nps.gov (links to https://www.nps.gov/camo/index.htm)
+- Phone: (760) 252-6100
+- Plus Code: 8V2F+P8 Hart, California
+
+Screenshot:
+- Saved file: test_cases/result_with_screenshot_small/Google Map--10/screenshot_1758152706.png

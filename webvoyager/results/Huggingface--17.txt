@@ -1,0 +1,7 @@
+Here are the most recently updated open‑source NLP project details I found on Hugging Face:
+
+- Project name: gouki510/qwen25-32b-insecure
+- Creator: gouki510
+- Brief description: A text-generation model fine-tuned from unsloth/Qwen2.5-32B. The model card states: “This qwen2 model was trained 2x faster with Unsloth and Huggingface’s TRL library.” Licensed under apache-2.0.
+
+Screenshot captured: test_cases/result_with_screenshot_small/Huggingface--17/screenshot_1758007044.png

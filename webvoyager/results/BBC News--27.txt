@@ -1,0 +1,21 @@
+Task completed
+
+Most recent BBC News article found
+- Title: The island where human remains rise to the surface
+- URL: https://www.bbc.com/news/articles/c1l8v2179g9o
+- Published: 3 days ago
+- By: Jacob Panons, BBC News, South East
+
+Summary of main findings
+- Location and context: Deadman’s Island in Kent (opposite Queenborough, Isle of Sheppey) was historically used to check ships for contagious diseases before entering London. Those who died aboard—sailors and men and boys from prison hulks—were buried on the island more than 200 years ago.
+- What’s happening now: Rising sea levels and coastal erosion are exposing graves, with wooden coffins and skeletal remains emerging from the mud. The island is out of bounds to the public.
+- Health note: An archaeologist has indicated there’s a chance some graves could still contain traces of contagious diseases.
+- Human conditions then: Accounts suggest sailors on the moored ships faced harsh, cramped conditions with high disease risk and no ability to go ashore.
+
+Significance
+- Cultural heritage at risk: The exposure of historic burials highlights the growing threat that climate-driven coastal erosion poses to archaeological and historic sites.
+- Public safety: Potential lingering pathogens in old graves underscore the need for careful, professional management and restricted access.
+- Historical insight: The site offers tangible evidence of 18th–19th century quarantine practices, disease outbreaks at sea, and the use of prison hulks—deepening understanding of maritime and public health history in the UK.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/BBC News--27/screenshot_1758111258.png

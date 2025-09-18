@@ -1,0 +1,10 @@
+I used Wolfram|Alpha to compute the rotated equation and captured the result.
+
+Result from Wolfram|Alpha (in variables X, Y after a 33° counterclockwise rotation):
+- (X^2 + 3 Y^2) cos^2(33°) + 4 X Y cos(33°) sin(33°) + (3 X^2 + Y^2) sin^2(33°) = 4
+
+Alternate exact form shown:
+- X^2 (sin(2π/15) − 2) − 2 X Y cos(2π/15) + Y^2 (−2 − sin(2π/15)) = −4
+
+Screenshot saved (final step):
+- test_cases/result_with_screenshot_small/Wolfram Alpha--39/screenshot_1758113505.png

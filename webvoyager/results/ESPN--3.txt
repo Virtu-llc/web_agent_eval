@@ -1,0 +1,10 @@
+Task completed.
+
+Most recent NBA game on ESPN (as found on ESPN):
+- Teams: Charlotte Hornets vs. Sacramento Kings
+- Final score: Hornets 83, Kings 78
+- Date: July 20, 2025
+- Confirmation: On the game page, under Game Information, it shows “Coverage: ESPN”
+
+Screenshot captured:
+- File: test_cases/result_with_screenshot_small/ESPN--3/screenshot_1758018213.png

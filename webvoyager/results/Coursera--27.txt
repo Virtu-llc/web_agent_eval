@@ -1,0 +1,17 @@
+Here’s a Coursera Specialization on “Data Visualization” that includes a project:
+
+- Specialization: Data Visualization with Tableau Specialization
+- Institution: University of California, Davis
+- Includes a project: Yes — Course 5 is “Data Visualization with Tableau Project”
+- Skills you’ll gain:
+  - Data Storytelling
+  - Stakeholder Analysis
+  - Data Literacy
+  - Data Visualization
+  - Interactive Data Visualization
+  - Visualization (Computer Graphics)
+  - Storyboarding
+  - Data Analysis
+  - Data Presentation
+
+Screenshot taken: test_cases/result_with_screenshot_small/Coursera--27/screenshot_1758157895.png

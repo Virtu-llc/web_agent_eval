@@ -1,0 +1,15 @@
+I completed the task end-to-end. Here’s what I did:
+
+1) Navigated to https://arxiv.org/, went to About > Brand > Swag, and clicked the non-profit store link to open arXiv’s Official Merchandise store (hosted on Bonfire).
+
+2) On the Bonfire store page, I found and clicked the “Share this store” button. In the share modal, I selected “QR Code,” which opened a dialog titled “Your campaign QR code” showing the scannable code and a “Download” option. This fulfills the step to “follow the QR code to share the shop.”
+
+3) I opened the product “arXiv Forever” and selected size XL under “SELECT A SIZE.”
+
+4) Clicked “Add to cart,” then “See cart & check out” to view the cart with the selected item.
+
+Final screenshot
+- I captured a screenshot of the cart page showing “arXiv Forever” with size “XL.”
+- Screenshot file: test_cases/result_with_screenshot_small/ArXiv--41/screenshot_1758046021.png
+
+If you’d like, I can download the QR image or proceed to checkout steps.

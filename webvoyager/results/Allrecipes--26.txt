@@ -1,0 +1,44 @@
+Here’s a high‑protein vegetarian chili recipe from Allrecipes that meets your criteria (≥50 reviews and ≥4.0 stars):
+
+Recipe: The Best Vegetarian Chili in the World
+Source: https://www.allrecipes.com/recipe/72508/the-best-vegetarian-chili-in-the-world/
+Rating/Reviews shown on the page: 4.7 stars with 1,708 reviews (2,296 ratings total)
+Protein: 28 g per serving (per Allrecipes’ Nutrition Facts)
+
+Cooking time
+- Prep time: 15 mins
+- Cook time: 1 hr
+- Total time: 1 hr 15 mins
+- Servings: 8
+
+Ingredients (original yield)
+- 1 tablespoon olive oil
+- 1/2 medium onion, chopped
+- 2 tablespoons dried oregano
+- 1 tablespoon salt
+- 1 teaspoon ground cumin
+- 2 bay leaves
+- 2 stalks celery, chopped
+- 2 green bell peppers, chopped
+- 2 jalapeño peppers, chopped
+- 3 cloves garlic, chopped
+- 2 (4 ounce) cans chopped green chile peppers, drained
+- 2 (12 ounce) packages vegetarian burger crumbles
+- 3 (28 ounce) cans whole peeled tomatoes, crushed
+- 1/4 cup chili powder
+- 1 tablespoon ground black pepper
+- 1 (15 ounce) can kidney beans, drained
+- 1 (15 ounce) can garbanzo beans, drained
+- 1 (15 ounce) can black beans
+- 1 (15 ounce) can whole kernel corn
+
+Brief cooking steps
+- Sauté aromatics: Heat olive oil; cook onion with oregano, salt, cumin, and bay leaves until tender. Add celery, bell peppers, jalapeños, and garlic; cook briefly.
+- Add crumbles: Stir in green chiles and vegetarian burger crumbles; cover and simmer about 5 minutes.
+- Build chili: Add crushed tomatoes; season with chili powder and black pepper. Stir in kidney, garbanzo, and black beans. Bring to a boil, then reduce to low and simmer 45 minutes.
+- Finish: Stir in corn and cook 5 minutes more. Serve hot.
+
+Screenshot
+Saved a screenshot of the recipe page: test_cases/result_with_screenshot_small/Allrecipes--26/screenshot_1757986868.png
+
+If you’d like, I can also extract the full step-by-step directions or nutrition panel details from the page.

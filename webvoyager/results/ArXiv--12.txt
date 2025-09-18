@@ -1,0 +1,14 @@
+Result: 3 styles
+
+What I did:
+- Went to arXiv.org and opened arXiv Help.
+- Searched for “store” in Help, which led to the Brand > Swag (Store) page.
+- Clicked through to the official arXiv non-profit store on Bonfire.
+- Located the “arXiv Logo Shirt” section and counted the listed styles.
+
+Styles shown under “arXiv Logo Shirt”:
+- Premium Unisex Tee
+- Premium Long Sleeve Tee
+- Midweight Pullover Hoodie
+
+Screenshot: test_cases/result_with_screenshot_small/ArXiv--12/screenshot_1758158634.png

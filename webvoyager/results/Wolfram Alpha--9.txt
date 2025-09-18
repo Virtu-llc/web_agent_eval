@@ -1,0 +1,7 @@
+Task completed on Wolfram|Alpha.
+
+Extracted result:
+- Annual energy production of Diablo Canyon 2 in 2010: 9752 GW h/yr (gigawatt hours per year)
+
+Screenshot captured:
+- File: test_cases/result_with_screenshot_small/Wolfram Alpha--9/screenshot_1758064842.png

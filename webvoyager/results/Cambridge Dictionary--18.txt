@@ -1,0 +1,13 @@
+Task completed: I visited Cambridge Dictionary’s Thesaurus, opened the article for “to behave well,” extracted the synonyms listed, and captured a screenshot.
+
+Page visited
+- URL: https://dictionary.cambridge.org/thesaurus/articles/to-behave-well
+- Page title: TO BEHAVE WELL - Cambridge English Thesaurus article page
+
+Synonyms shown on the page for “to behave well”
+- behaves themselves
+- behave
+- be on their best behaviour
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Cambridge Dictionary--18/screenshot_1757999524.png

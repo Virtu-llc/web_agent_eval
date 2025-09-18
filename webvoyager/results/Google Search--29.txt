@@ -1,0 +1,5 @@
+Result: 9.58 seconds
+
+Source: Google search results show “The men's world record is 9.58 seconds, set by Jamaica's Usain Bolt in 2009.”
+
+Screenshot: test_cases/result_with_screenshot_small/Google Search--29/screenshot_1758071360.png

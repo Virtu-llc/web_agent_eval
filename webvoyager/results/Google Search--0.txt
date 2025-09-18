@@ -1,0 +1,11 @@
+Result: Initial release date — April 22, 2023
+
+What I did:
+- Visited https://www.google.com/
+- Searched for “Guardians of the Galaxy Vol. 3 initial release date”
+- On the Google results page, the Wikipedia snippet states “premiered at Disneyland Paris on April 22, 2023,” indicating the initial release date.
+
+Note:
+- The Google Knowledge Panel also shows “Release date: May 5, 2023 (USA)” for the U.S. theatrical release, but the initial release (premiere) is April 22, 2023.
+
+Screenshot: Attached (file: test_cases/result_with_screenshot_small/Google Search--0/screenshot_1758072503.png)

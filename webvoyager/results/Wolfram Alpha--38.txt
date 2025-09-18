@@ -1,0 +1,11 @@
+Task completed on Wolfram|Alpha.
+
+Query entered
+Compute the arc length of y = 2x^3 - 3x^2 + 4x - 5 from x = 0 to 3
+
+Result extracted from the page
+- Input interpretation: arc length | y = 2 x^3 - 3 x^2 + 4 x - 5 | x = 0 to 3
+- Result: ∫₀³ sqrt(1 + (4 - 6x + 6x^2)²) dx ≈ 39.24992727…
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Wolfram Alpha--38/screenshot_1758151202.png

@@ -1,0 +1,29 @@
+Task completed on Cambridge Dictionary.
+
+Source page: https://dictionary.cambridge.org/grammar/british-grammar/prepositions
+
+The most common prepositions that consist of groups of words (as listed on the page):
+- ahead of
+- except for
+- instead of
+- owing to
+- apart from
+- in addition to
+- near to
+- such as
+- as for
+- in front of
+- on account of
+- thanks to
+- as well as
+- in place of
+- on top of
+- up to
+- because of
+- in spite of
+- out of
+- due to
+- inside of
+- outside of
+
+Screenshot captured: test_cases/result_with_screenshot_small/Cambridge Dictionary--35/screenshot_1758160927.png

@@ -1,0 +1,15 @@
+Here’s what I found on BBC News (via the Weather section’s search):
+
+Article: Storm-damaged port partly closes again for repairs
+Link: https://www.bbc.com/news/articles/crl5kkgz75zo
+Source section labels on page: Wales | News (story focuses on storm impacts)
+
+Where and when the severe weather occurred:
+- Where: Holyhead (north Wales, UK)
+- When: December 2024 — specifically during Storm Darragh (the article and image caption note damage caused in early December 2024)
+
+Key details from the article:
+- Two berths at Holyhead Port were damaged during Storm Darragh in December 2024.
+- The port fully closed for five weeks, partially reopened in January, and a second berth reopened in July before closing again for maintenance until November.
+
+Screenshot: test_cases/result_with_screenshot_small/BBC News--38/screenshot_1758052200.png

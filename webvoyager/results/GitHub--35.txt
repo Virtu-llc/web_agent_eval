@@ -1,0 +1,7 @@
+Here are the latest React release details from GitHub (facebook/react):
+
+- Latest release version: 19.1.1
+- Published date: July 28, 2025
+
+Screenshot taken showing the Releases panel on the repository page:
+test_cases/result_with_screenshot_small/GitHub--35/screenshot_1758000041.png

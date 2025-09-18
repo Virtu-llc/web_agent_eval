@@ -1,0 +1,35 @@
+Here’s the most recent Premier League analysis article on BBC News (BBC Sport) and its key takeaways:
+
+Article
+- Title: Man City 3-0 Man Utd: Where was the Manchester derby won and lost? – tactical analysis
+- Author: Umir Irfan (Football tactics correspondent)
+- Published: 15 September 2025
+- URL: https://www.bbc.com/sport/football/articles/ckge4jpy4l5o
+
+Key insights from the analysis
+- City’s 4v2 overload in midfield
+  - Pep Guardiola targeted United’s defensive shape by creating a central box around United’s double pivot.
+  - Left-back Nico O’Reilly held the touchline to pin United wing-back Noussair Mazraoui, while Jeremy Doku moved inside and Phil Foden dropped deeper alongside Rodri and Tijjani Reijnders.
+  - This reproduced a successful pattern previously used against United (e.g., Fulham with Alex Iwobi drifting infield) to outnumber their midfield.
+
+- United’s disjointed press
+  - United’s right centre-back Leny Yoro had to step high onto Doku/Foden zones, often retreating to protect the back line, which broke the chain and left City with a spare man.
+  - Bruno Fernandes admitted United needed to be “more brave with full pressure”; miscommunication (e.g., on Rodri/Foden assignments) repeatedly opened passing lanes.
+  - Result: Foden frequently received under little pressure and carried play forward.
+
+- City’s use of pinning to unlock space
+  - “Pinning” (keeping defenders occupied by positioning attackers) blunted United’s aggressive stepping out.
+  - O’Reilly pinned Mazraoui; on the opposite side Reijnders occupied Luke Shaw, keeping him anchored to the back five.
+  - With Shaw pinned, Doku’s inside positioning allowed him to receive unopposed, turn, and drive—leading to the first goal (Doku assist).
+
+- United’s midfield runners untracked
+  - For the opener, United had numbers back (Fernandes and Manuel Ugarte) but failed to track the late midfield run—an issue seen earlier this season (e.g., Fulham’s Emile Smith Rowe).
+  - The piece questions whether United are maximizing player strengths: Fernandes’ attacking qualities don’t naturally include tracking late runners, while City smartly used Foden’s timing behind Erling Haaland.
+
+- Adaptability: Guardiola vs Amorim
+  - The article argues United’s problems are structural as much as personnel-driven; the same rotations keep exposing their system.
+  - Amorim appeared to double down on philosophy post-match (“When I want to change my philosophy, I will change. If not, you have to change the man.”), but the squad won’t change before January—suggesting a need to adapt roles or system.
+  - Guardiola showed flexibility—e.g., integrating new goalkeeper Gianluigi Donnarumma hinting at a more direct build when needed—keeping the philosophy intact while tailoring the system to players.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/BBC News--25/screenshot_1757999208.png

@@ -1,0 +1,13 @@
+Task completed on ESPN.
+
+What I did:
+- Opened espn.com
+- Used the site’s search to query: Golden
+- Opened the Teams tab in ESPN Search results
+- Counted the number of teams listed with “Golden” in their name, and identified how many are in the NHL
+
+Results found on ESPN:
+- Total teams with "Golden" in their name (Teams tab): 31
+- Number of those teams in the NHL: 1 (Vegas Golden Knights)
+
+Screenshot: test_cases/result_with_screenshot_small/ESPN--27/screenshot_1757995956.png

@@ -1,0 +1,10 @@
+I navigated to https://www.google.com/ and attempted to search for “Manchester United latest news,” but Google presented a reCAPTCHA “unusual traffic” verification page, blocking access to the search results. Because I cannot solve CAPTCHAs, I was unable to reach the news results and extract the latest headline.
+
+What I did:
+- Opened https://www.google.com/
+- Entered the query: “Manchester United latest news”
+- Encountered Google’s “About this page”/reCAPTCHA verification page indicating unusual traffic from the network, preventing access to results
+
+Since I cannot bypass or solve the CAPTCHA, I’m unable to retrieve the latest headline directly from Google. Below is a screenshot of the page showing the block.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Search--25/screenshot_1758071750.png

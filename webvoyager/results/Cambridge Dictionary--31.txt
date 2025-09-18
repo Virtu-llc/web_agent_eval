@@ -1,0 +1,28 @@
+Here’s what I found on the Cambridge Dictionary (Grammar) about using modal verbs to express possibility, with example sentences taken directly from the pages:
+
+May — Possibility
+Source: May – Grammar – Cambridge Dictionary (English Grammar Today)
+- The economy may go up or down in the next year.
+- I think I may go to the doctor today and try to get some antibiotics.
+- It may not be easy to get there.
+
+Might — Possibility
+Source: Might – Grammar – Cambridge Dictionary (English Grammar Today)
+- I might go to Japan for a month to study Japanese.
+- The dog might bark when we pass by the gate.
+- They might not like very hot food.
+
+Could — Possibility
+Source: Could – Grammar – Cambridge Dictionary (English Grammar Today)
+Present/Future possibility:
+- It could be blue.
+- The storm could get worse.
+
+Past possibility:
+- I could have been a lawyer.
+- They could have taken a taxi home instead of walking and getting wet.
+- Janette couldn’t have done any better.
+
+Screenshot
+I’ve taken a screenshot at the final step while viewing the Could: uses – Possibility section on the Cambridge Dictionary.
+File: test_cases/result_with_screenshot_small/Cambridge Dictionary--31/screenshot_1758108883.png

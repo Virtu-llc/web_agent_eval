@@ -1,0 +1,24 @@
+Task completed.
+
+What I did:
+- Opened Booking.com and set the destination to Paris, France.
+- Selected dates: check-in Monday, January 5, 2026 and check-out Saturday, January 10, 2026 (5 nights).
+- Applied filters:
+  - Review score: Very Good 8+
+  - Amenities: Free WiFi
+- Confirmed “Applied filters: Very Good: 8+, Free Wifi” and that the search dates are Mon, Jan 5 — Sat, Jan 10.
+
+Matching hotel found (example from the results page):
+- Hotel: Hotel Luxembourg Parc
+- Area: 6th arr., Paris
+- Review score: 9.0 (Wonderful)
+- Stay: 5 nights, 2 adults
+- Price shown: Original price $1,370. Current price $1,250
+- Availability: “See availability” visible with prices for the selected dates, indicating availability for Jan 5–10, 2026
+
+Screenshot:
+- Saved a screenshot of the final filtered results page showing the selected dates, applied filters, and properties.
+- File: test_cases/result_with_screenshot_small/Booking--12/screenshot_1758036582.png
+
+Notes:
+- All properties shown in the results meet the filters (Review score 8+ and Free WiFi), ensuring the listed hotels satisfy your criteria for the specified dates.

@@ -1,0 +1,28 @@
+Action taken:
+- Opened Google Maps and searched for “24 hour parking near Brooklyn Bridge”.
+- Selected a nearby listing that explicitly shows “Open 24 hours”.
+- Opened the place page and switched to the Reviews tab.
+- Captured a screenshot at the end.
+
+Parking lot found (open 24 hours):
+- Name: New York Marriott at the Brooklyn Bridge Parking Garage
+- Type: Parking lot
+- Address: 333 Adams St, Brooklyn, NY 11201
+- Hours: Open 24 hours (as shown on the page)
+- Rating: 3.7 (39 reviews)
+- Phone: (718) 222-1032
+
+User comments (direct excerpts from the Reviews tab):
+- “It has a convenient location but most of the spaces are either occupied quickly or in areas where they are not maximizing their full parking potential. With it also doubling as a Car Rental space maybe the reason why the spots are not as …”
+- “I can’t say enough about this hotel. Every single person has been friendly and accommodating. If your platinum and about members the M lounge is fantastic. Great location to downtown Brooklyn and Dumbo. Rooms are clean and spacious for NY standard. Could it be updated a bit? Sure, but the hospitality here wins the 5 stars.”
+- “I recently stayed at this hotel in downtown Brooklyn, and I have to say, it’s in a fantastic location! Just a short walk from the subway, making it super easy to get to and from Manhattan. This hotel is a great alternative to pricier …”
+- “Very average for a Marriott. The hallways are looking a bit dated. However, the rooms are relatively well kept. they have a very unusual decor.”
+- “The rooms are spacious by NYC standards. This is a good hotel if you’re on business in Brooklyn. Otherwise I’d prefer something in Manhattan since this is definitely not a cheap hotel. It’s very close to a subway stop so easy to get around, …”
+- “I had a terrible experience staying here. The staff was very unhelpful and unwelcoming. The water from the tap was yellow and stinky so when I went to rinse my mouth at night I was disgusted to taste this water. …”
+- “Don't do it!!! When I got off the elevator that man was pulling up with my car to give to someone else!!! When I asked him how is that possible he said he knows out ticket numbers. Lame excuse!! And lame prices too! You best park on the street.”
+- “This is a good place to park however we pre-paid and had reservations and were told there was no parking left and only because we refused to leave did they give us a spot. But it was literally the only spot left and it wasn’t even a spot. They parked me in the middle of the garage. Beware.”
+
+Note: Many reviews reference the connected hotel experience; a couple specifically describe parking garage operational issues (e.g., handing a car to someone else; oversold/pre-paid issues).
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Google Map--30/screenshot_1758135900.png

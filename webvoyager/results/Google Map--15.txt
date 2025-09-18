@@ -1,0 +1,26 @@
+Here’s the nearest non-24-hour (“daytime only”) parking to Madison Square Garden that I found on Google Maps, with a summary of what people are saying:
+
+Nearest daytime-only parking to Madison Square Garden
+- Name: Parking (Parking garage)
+- Address: 148 W 31st St, New York, NY 10001
+- Phone: (212) 321-7500
+- Hours: 6 AM – 12 AM daily (not open overnight)
+- Rating: 1.7 (20 reviews)
+
+What people are saying (summary from reviews and highlights):
+- Common complaints:
+  - Staff/attendant issues: Multiple reviews mention rude or unhelpful attendants and poor service.
+  - Pricing concerns: Several users report higher-than-expected charges, unclear signage, or “oversize” surcharges they weren’t expecting.
+  - Closing times: At least one review mentions the garage closing before midnight and leaving the customer stranded.
+- Positive notes:
+  - A few reviews praise a friendly, helpful attendant and an overall smooth experience.
+- Review highlights shown on the page include:
+  - “The worst parking garage ever, they are rude and certified thieves!”
+  - “Very rude attendant and was not at desk upon arrival.”
+  - “They closed their garage before midnight and left me stranded w 2 teenagers!”
+  - A positive review: “The attendant was very friendly, kind, and helpful.”
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Map--15/screenshot_1758150191.png
+
+Note: This location is very close to Madison Square Garden and has daytime/evening hours (6 AM–12 AM), but it is not 24 hours. The rating and review content suggest mixed-to-negative experiences, especially around staff behavior and pricing.

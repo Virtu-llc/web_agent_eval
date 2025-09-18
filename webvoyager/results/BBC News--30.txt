@@ -1,0 +1,7 @@
+Here’s the latest film release reviewed in BBC Culture and a brief summary of the review:
+
+- Film: One Battle After Another
+- Review headline: “Leonardo DiCaprio’s action-comedy is a ‘dazzler’ ★★★★★”
+- Summary: Caryn James gives Paul Thomas Anderson’s comic-action-drama a five-star rave, calling it “virtuosic,” politically charged, and both horrifying and ridiculously funny. Leonardo DiCaprio plays Bob, a former radical scrambling to rescue his abducted daughter, blending goofy warmth with urgency. The film draws inspiration from Thomas Pynchon’s Vineland and deftly mixes propulsive set-pieces (including a roller-coaster car chase) with satire of secretive, supremacist groups and militia menace. Anderson’s precision keeps the sprawling, multi-threaded story smooth and emotionally grounded, resulting in an ambitious film with an emphatic political charge. Release date noted as 26 September.
+
+Screenshot: test_cases/result_with_screenshot_small/BBC News--30/screenshot_1758150568.png

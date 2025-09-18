@@ -1,0 +1,8 @@
+Here’s what I found in the Sports section on BBC:
+
+Most recent Manchester United match result (as shown on the Manchester United team page, Scores & Fixtures):
+- Competition: Premier League
+- Result: Manchester City 3 – 0 Manchester United
+- Status: Full time
+
+Screenshot saved: test_cases/result_with_screenshot_small/BBC News--31/screenshot_1758136981.png

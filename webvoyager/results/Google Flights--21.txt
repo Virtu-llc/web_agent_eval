@@ -1,0 +1,8 @@
+Here are the results for the lowest-priced one-way flight from Tokyo to Sydney for 1 adult on November 25, 2025:
+
+- Price: $243 (USD)
+- Airline: Scoot
+- Duration: 26 hr 15 min
+- Layovers: 1 stop (10 hr 40 min layover in Singapore)
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Flights--21/screenshot_1757982628.png

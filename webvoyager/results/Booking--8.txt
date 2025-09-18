@@ -1,0 +1,16 @@
+Completed steps:
+- Opened booking.com
+- Searched for Chennai, Tamil Nadu, India
+- Set stay dates to 20/12/2025 (check-in) – 21/12/2025 (check-out)
+- Applied filter: Free cancellation
+- Sorted results by: Top reviewed
+- Identified the highest review score property visible under these conditions and captured a screenshot
+
+Result:
+- Hotel: Super Collection O Sholinganallur Chennai Formerly Nimalan Residence
+- Review score: Scored 9.5 Exceptional (62 reviews)
+- Filter state: Free cancellation applied
+- Dates: 20/12/2025 – 21/12/2025
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Booking--8/screenshot_1758108531.png

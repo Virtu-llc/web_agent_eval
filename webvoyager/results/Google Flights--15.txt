@@ -1,0 +1,13 @@
+Task completed: Searched Google Flights for round-trip, non-stop flights from New York to Tokyo Narita (NRT), departing November 12, 2025 and returning November 26, 2025. Set the destination to Narita (NRT) specifically and applied the “Stops: Nonstop only” filter to ensure only non-stop options were listed.
+
+Results found on the page:
+- United Airlines (EWR → NRT)
+  - Price: $1,028 round trip total
+  - Total duration (outbound): 14 hr 15 min
+
+Notes:
+- After applying the Nonstop filter to NRT specifically, only one nonstop option was returned for these dates: United from Newark (EWR) to Narita (NRT).
+- Other options shown were 1-stop or 2-stop itineraries.
+
+Screenshot of the final results page:
+- File: test_cases/result_with_screenshot_small/Google Flights--15/screenshot_1758144836.png

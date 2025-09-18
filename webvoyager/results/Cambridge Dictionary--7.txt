@@ -1,0 +1,9 @@
+Here’s what I found for “gestalt” on the Cambridge Dictionary:
+
+- Meaning: something such as a structure or experience that, when considered as a whole, has qualities that are more than the total of all its parts.
+- Pronunciation:
+  - UK: /ɡəˈʃtælt/
+  - US: /ɡəˈʃtɑːlt/
+- Example sentence: This new biography is the first to consider fully the writer's gestalt.
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--7/screenshot_1758140745.png

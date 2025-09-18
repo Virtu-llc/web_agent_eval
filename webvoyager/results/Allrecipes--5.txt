@@ -1,0 +1,26 @@
+Task completed.
+
+Recipe found:
+- Title: Tomato Cream Sauce
+- Source: https://www.allrecipes.com/recipe/23404/tomato-cream-sauce-for-pasta/
+- Rating: 4.6 out of 5
+- Ratings count: 1,754
+- Reviews count: 1,288
+
+This meets the criteria: more than 1,000 reviews and rating above 4 stars.
+
+Shopping list (Ingredients for the original 1X yield, 5 servings):
+- 2 tablespoons olive oil
+- 1 medium onion, diced
+- 1 clove garlic, minced
+- 1 (14.5 ounce) can Italian-style diced tomatoes, undrained
+- 1 tablespoon dried basil leaves
+- 3/4 teaspoon white sugar, or to taste
+- 1/4 teaspoon dried oregano
+- 1/4 teaspoon salt
+- 1/8 teaspoon ground black pepper
+- 1/2 cup heavy cream
+- 1 tablespoon butter
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Allrecipes--5/screenshot_1757992587.png

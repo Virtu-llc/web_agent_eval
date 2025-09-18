@@ -1,0 +1,10 @@
+Done. Here’s what I completed:
+- Opened Google Flights
+- Set trip type to One way
+- Searched for flights from Mumbai (BOM) to Vancouver (YVR)
+- Set departure date to Friday, November 28, 2025
+- Applied Stops filter to “1 stop or fewer” (which results in only 1‑stop flights for this route)
+- Confirmed results updated (page shows “10 results returned.” and the Stops chip shows “1 stop or fewer”)
+
+Screenshot captured of the final filtered results page:
+test_cases/result_with_screenshot_small/Google Flights--23/screenshot_1758138412.png

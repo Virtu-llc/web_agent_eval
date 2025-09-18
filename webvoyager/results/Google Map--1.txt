@@ -1,0 +1,8 @@
+Result: 7th and Franklin
+
+What I did:
+- Opened Google Maps and searched for “Main St & Amherst St, Altavista, VA.”
+- Searched nearby for “bus stop.”
+- Selected the top result from the nearby bus stops list, which indicates the nearest stop to the intersection.
+
+Screenshot: test_cases/result_with_screenshot_small/Google Map--1/screenshot_1758107535.png

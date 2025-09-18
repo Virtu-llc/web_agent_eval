@@ -1,0 +1,9 @@
+Task completed: Navigated to ESPN > NFL > New York Jets > Depth Chart, reviewed the 2ND column, and identified injured players.
+
+Injured players listed in the 2ND position:
+- Jay Tufele — Q (Questionable) — Position: RDT (Defense)
+- Tony Adams — Q (Questionable) — Position: RCB (Defense)
+
+No other 2ND-position players on Offense or Special Teams had an injury designation at the time of checking.
+
+Screenshot captured: test_cases/result_with_screenshot_small/ESPN--39/screenshot_1758027968.png

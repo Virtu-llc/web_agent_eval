@@ -1,0 +1,10 @@
+Result found on GitHub
+
+Most popular cybersecurity-related open-source repo by stars:
+- Repository: sherlock-project/sherlock
+- URL: https://github.com/sherlock-project/sherlock
+- Stars: 68.7k (displayed on the repository page; search results showed 68,705 stars)
+
+What it does: Hunt down social media accounts by username across social networks (OSINT tool).
+
+Screenshot: test_cases/result_with_screenshot_small/GitHub--38/screenshot_1758148374.png

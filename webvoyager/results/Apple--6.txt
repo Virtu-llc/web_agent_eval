@@ -1,0 +1,17 @@
+Task completed.
+
+What I did:
+- Visited https://www.apple.com/
+- Navigated to the AirPods section via the top navigation
+- Scrolled to the “Which AirPods are right for you?” comparison section
+- Counted the currently-available AirPods types shown
+
+Current AirPods types available on Apple:
+1) AirPods 4
+2) AirPods 4 Active Noise Cancellation
+3) AirPods Pro 3
+4) AirPods Max
+
+Total types: 4
+
+Screenshot: test_cases/result_with_screenshot_small/Apple--6/screenshot_1757987352.png

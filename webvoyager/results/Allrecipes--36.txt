@@ -1,0 +1,19 @@
+Task completed on Allrecipes.
+
+Selected recipe
+- Title: Easy Apple Pie
+- URL: https://www.allrecipes.com/recipe/12324/apple-pie-i/
+- Rating: 4.7 out of 5
+- Reviews: 581 reviews (736 ratings shown on page)
+- Why this fits: Classic American-style apple pie with rating ≥ 4 and more than 50 reviews.
+
+Maximum temperature in Directions
+- Maximum temperature mentioned: 450 degrees F (230 degrees C)
+- Extracted from Directions text: “Preheat the oven to 450 degrees F (230 degrees C)... Reduce oven temperature to 350 degrees F (175 degrees C)...”
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Allrecipes--36/screenshot_1758020198.png
+
+Notes
+- The recipe page shows: rating 4.7 and “581 Reviews,” satisfying the criteria.
+- Directions clearly include the two temperatures, with the highest being 450 F (230 C).

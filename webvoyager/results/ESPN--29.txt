@@ -1,0 +1,31 @@
+Here’s what I did and found:
+
+- Navigated to ESPN, opened the Soccer section, and identified the hero (top) story on the Soccer homepage.
+- Opened that article and summarized its main points.
+- Captured a screenshot of the article page (link at the end).
+
+Today’s top Soccer headline on ESPN
+- Headline: “Ranking Champions League field: PSG, Barcelona or Liverpool?”
+- By: Ryan O’Hanlon
+- Published: Sep 16, 2025 (per article schema on the page)
+
+Main points of the article
+- Purpose: Year 4 of O’Hanlon’s full ranking of all 36 teams in the UEFA Champions League under the league-phase (new) format.
+- Big change: Manchester City, long-time favorites, are not No. 1 this year; the top is more open.
+- Top contenders (ranked, with brief reasoning):
+  - 1) Paris Saint-Germain: Most balanced and best overall—elite in attack, defense, and pressing; young core improving; Dembele’s health is a minor caveat.
+  - 2) Barcelona: Excellent last season; young stars (Lamine Yamal, Pedri, Cubarsí, Balde) can improve further; very aggressive, high-risk style under Flick; watch Yamal’s shot quality selection.
+  - 3) Liverpool: Haven’t fully clicked yet (low early shots for Salah, late winners), but enormous attacking talent, strong defense; expect surge once Isak integrates and form normalizes.
+  - 4) Arsenal: Best defensive unit; deep squad across positions; set-pieces boost chance creation; slight edge in attack goes to teams above them.
+  - 5) Real Madrid: New control-heavy approach stifles opponents but doesn’t always create many top chances; still perfect domestically; high-end attackers can decide tight games.
+- Next tier of threats:
+  - 6) Bayern Munich: Will dominate domestically; injuries to Davies/Musiala; front line (Díaz–Kane–Olise) can beat anyone, but improvement over last season isn’t obvious.
+  - 7) Manchester City: Talent below the vintage Guardiola sides, but still stacked with award-winners and Pep; transition defending under test vs top sides like Napoli.
+  - 8) Chelsea: Clear top-eight quality; still questions about defensive ceiling and whether João Pedro/Estêvão are CL-winning-ready right now.
+  - 9) Napoli: Could win with the right draw; extremely organized under Conte; questions about aging pieces and attacking consistency until injured stars return.
+  - 10) Inter: Oldest CL squad again; not flying in Serie A; still dangerous given last season’s big-game wins, but clearly downgraded from last year.
+- Solid to dangerous teams with paths depending on draw and form: Atlético Madrid (11), Newcastle (12), Juventus (13), Athletic Club (14), Tottenham (15), Dortmund (16), Atalanta (17), Leverkusen (18), Eintracht (19), Galatasaray (20), Monaco (21), Villarreal (22), Marseille (24), Benfica (25), Sporting CP (26), PSV (26), Ajax (27), USG (28), Brugge (29), Olympiacos (30), Copenhagen (31), Bodø/Glimt (32), Slavia (33), Pafos (34), Qarabag (35), Kairat (36).
+- Overall theme: Without City the runaway favorite, five teams (PSG, Barcelona, Liverpool, Arsenal, Real Madrid) form a tight top tier; several others could contend with favorable knockouts.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/ESPN--29/screenshot_1758014760.png

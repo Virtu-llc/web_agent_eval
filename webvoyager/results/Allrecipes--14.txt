@@ -1,0 +1,16 @@
+Here’s a qualifying Allrecipes recipe I found that includes both “chicken breast” and “quinoa,” with prep time under 30 minutes:
+
+Recipe: Air Fryer Pesto Chicken Quinoa Bowl
+URL: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482
+Details from the page:
+- Prep Time: 10 mins
+- Cook Time: 10 mins
+- Total Time: 20 mins
+- Includes: “1 pound skinless, boneless chicken breasts” and “2 cups cooked quinoa”
+
+Screenshot: test_cases/result_with_screenshot_small/Allrecipes--14/screenshot_1757985862.png
+
+What I did:
+- Went to Allrecipes homepage and searched for “chicken breast quinoa”
+- Opened a suitable result and verified the prep time and ingredients on the recipe page
+- Captured a screenshot of the final recipe page

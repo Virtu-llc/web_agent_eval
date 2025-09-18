@@ -1,0 +1,29 @@
+Actions performed:
+- Opened https://www.bbc.com/news/
+- Navigated to Travel, then into “The SpeciaList” via the site’s top navigation
+- Browsed the “BBC Travel | The SpeciaList” page and extracted city names mentioned in visible article titles/descriptions
+- Took a screenshot of the page
+
+Cities mentioned on “The SpeciaList” page (unique names as shown on the page):
+- Buffalo
+- Chicago
+- London
+- Naples
+- Glastonbury
+- Kuala Lumpur
+- Los Angeles
+- Indianapolis
+- Rome
+- Cannes
+- New York City
+- Seoul
+- Phuket
+- Koh Samui
+- Bangkok
+- Tokyo
+- Atlanta
+- Berlin
+- New York
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/BBC News--34/screenshot_1758142501.png

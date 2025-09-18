@@ -1,0 +1,8 @@
+Task completed: I visited GitHub’s Pricing page and checked the “Compare features” table for the “Private repositories” row.
+
+Findings (from https://github.com/pricing):
+- Free plan: Unlimited private repositories
+- Pro plan: Not explicitly listed on this page. The paid plan shown (“Team”) also lists Unlimited private repositories under the same “Private repositories” row.
+
+Screenshot: I took a screenshot of the Pricing comparison section showing the “Private repositories” row.
+Filename: test_cases/result_with_screenshot_small/GitHub--29/screenshot_1758103762.png

@@ -1,0 +1,13 @@
+Actions taken:
+- Opened https://www.wolframalpha.com/
+- Entered the query: solve g'(x) + cos(g(x)) = 0, g(0) = 1
+- Retrieved the Result and captured a screenshot
+
+Result (as shown by Wolfram|Alpha):
+g(x) = 2 cos^(-1)((sinh(x) (cos(1/2) - sin(1/2)) + cosh(x) (cos(1/2) - sin(1/2)) + sin(1/2) + cos(1/2)) / (sqrt(2) sqrt(-(sin(1) - 1) sinh(2 x) - ((sin(1) - 1) cosh(2 x)) + 1 + sin(1))))
+
+Notes:
+- The result is already a particular solution satisfying g(0) = 1; no arbitrary constant appears in the final expression.
+
+Screenshot:
+- Saved at: test_cases/result_with_screenshot_small/Wolfram Alpha--44/screenshot_1758107688.png

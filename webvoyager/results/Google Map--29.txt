@@ -1,0 +1,12 @@
+Actions taken:
+- Opened https://www.google.com/maps/
+- Searched for “bus stops in Ypsilanti, MI”
+- Read the results list from the left panel
+
+Three bus stops identified (as listed on Google Maps):
+- MacArthur + Harris — Bus stop
+- S- Washtenaw east of Berkeley — Bus stop
+- Clark + Devon — Bus stop
+
+Screenshot:
+- I attempted to capture a screenshot multiple times, but Google Maps triggered a persistent screenshot timeout in this environment. The page loads and renders correctly, but the screenshot operation timed out each time.

@@ -1,0 +1,10 @@
+I completed the flight search and set everything as requested:
+- From: Tel Aviv-Yafo (TLV)
+- To: Venice (VCE)
+- Dates: Depart Fri, Dec 19 – Return Fri, Dec 26 (2025)
+- Cabin: First Class
+- Passengers: 1
+
+You can see the results page with matching flights displayed. I’ve taken a screenshot at the final step.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Flights--6/screenshot_1758147224.png

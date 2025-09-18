@@ -1,0 +1,24 @@
+I found a parking garage near Thalia Hall in Chicago that is not open 24 hours and captured a screenshot.
+
+Result
+- Name: Wells Public Parking
+- Type: Parking garage
+- Address: 425 S Wells St, Chicago, IL 60607
+- Phone: (312) 533-1806
+- Website: wellspublicparking.com
+- Hours shown on Google Maps:
+  - Monday: 5:30 AM–8:00 PM
+  - Tuesday: 5:30 AM–8:00 PM
+  - Wednesday: 5:30 AM–8:00 PM
+  - Thursday: 5:30 AM–8:00 PM
+  - Friday: 5:30 AM–8:00 PM
+  - Saturday: Closed
+  - Sunday: Closed
+
+This confirms it is not open 24 hours.
+
+Screenshot
+- Saved file: test_cases/result_with_screenshot_small/Google Map--5/screenshot_1758001831.png
+
+Notes
+- Discovered via Google Maps and verified by expanding the hours panel on the place page.

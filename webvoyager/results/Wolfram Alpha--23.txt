@@ -1,0 +1,15 @@
+I used Wolfram Alpha to compute Canada’s population growth rate for 2020–2023 and captured the result.
+
+What I did:
+- Opened Wolfram Alpha and searched: “population growth rate of Canada from 2020 to 2023”
+- Extracted the Result pod values shown by Wolfram Alpha
+
+Wolfram Alpha results:
+- Input interpretation: Canada | population growth | 2020 to 2023
+- Result:
+  - Mean growth rate: 0.9886 %/yr (percent per year)
+  - Lowest annual rate: 0.7392 %/yr (2021)
+  - Highest annual rate: 1.231 %/yr (2023) — 2023 estimate
+
+Screenshot of the final results page:
+- File: test_cases/result_with_screenshot_small/Wolfram Alpha--23/screenshot_1758002886.png

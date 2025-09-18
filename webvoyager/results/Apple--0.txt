@@ -1,0 +1,6 @@
+I visited Apple’s website and navigated to the MacBook Air “Buy” page. Here are the starting prices shown for the latest MacBook Air models:
+
+- MacBook Air 13-inch (M4): From $999
+- MacBook Air 15-inch (M4): From $1,199
+
+Screenshot taken: test_cases/result_with_screenshot_small/Apple--0/screenshot_1758045658.png

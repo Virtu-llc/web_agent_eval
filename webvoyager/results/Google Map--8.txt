@@ -1,0 +1,14 @@
+Task completed: Found a climbing place within 2 miles of ZIP 90028 on Google Maps and captured a screenshot.
+
+Result found:
+- Name: Hollywood Boulders
+- Type: Rock climbing gym
+- Address: 1107 N Bronson Ave, Los Angeles, CA 90038
+- Distance from 90028: 1.1 miles (walking route shown on Google Maps; “24 min, 1.1 miles via W Sunset Blvd and N Bronson Ave”)
+- Hours: Open ⋅ Closes 10 PM
+- Phone: (323) 747-1000
+- Website: touchstoneclimbing.com
+- Rating: 4.7 (517 reviews)
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Google Map--8/screenshot_1758143564.png

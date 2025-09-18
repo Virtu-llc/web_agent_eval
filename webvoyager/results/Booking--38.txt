@@ -1,0 +1,26 @@
+I completed the search on Booking.com and applied the requested filters for Vienna with dates Feb 28 – Mar 4, 2026 (as specified), and the following filters:
+- Parking
+- Breakfast included
+- Review score: Very Good 8+
+
+Here are some hotel options currently listed under those criteria (showing the details visible on the results page):
+
+1) Hotel Imperial, a Luxury Collection Hotel, Vienna
+- Score: 9.3
+- Location: 01. Innere Stadt, Vienna (0.5 miles from downtown)
+- Price shown: $2,146 (for the trip context shown on the page)
+
+2) Le Méridien Vienna
+- Score: 8.4
+- Location: 01. Innere Stadt, Vienna (0.5 miles from downtown), Location rating 9.6
+- Price shown: $1,168
+
+3) Boutique Hotel Das Tigra
+- Score: 9.1
+- Location: 01. Innere Stadt, Vienna (0.4 miles from downtown)
+- Price shown: Original price $919. Current price $815.
+
+Note: The results page also shows many additional properties that meet these filters (e.g., “Rioca Vienna Posto 2,” “Hotel Domizil,” etc.).
+
+Screenshot of the final filtered results page:
+- Saved as: test_cases/result_with_screenshot_small/Booking--38/screenshot_1758005009.png

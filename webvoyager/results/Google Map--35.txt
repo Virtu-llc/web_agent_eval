@@ -1,0 +1,18 @@
+Actions performed:
+- Opened Google Maps at https://www.google.com/maps/
+- Searched for “Big Bend National Park, Texas” using the search box and selected the top suggestion
+- Navigated to the place page and captured the basic info visible in the left details panel
+- Took a screenshot at the final step
+
+Basic information found on Google Maps:
+- Name: Big Bend National Park
+- Location: Texas 79834
+- Snapshot conditions at time of capture: Mostly cloudy · 76°F · 5:48 PM
+- Action buttons shown: Directions, Save, Nearby, Send to phone, Share
+
+Notes:
+- No website, phone number, or hours were displayed in the details panel at the time of capture.
+- If you want me to look for more details (e.g., website, phone), I can try alternate panels or related links within Maps.
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Google Map--35/screenshot_1758149292.png

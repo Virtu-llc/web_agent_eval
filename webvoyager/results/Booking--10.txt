@@ -1,0 +1,23 @@
+Task completed: Found a well-reviewed hotel in Paris for 2 adults during Valentine’s week (Feb 14–21, 2026) with free cancellation, and captured a screenshot.
+
+Hotel found
+- Name: Hotel Malte - Astotel
+- Location: 2nd arr., Paris, France (63 rue de Richelieu, 75002)
+- Review score: Scored 9.2 — Rated “Wonderful”
+- Dates and guests: Search set to Sat, Feb 14 — Sat, Feb 21, 2026; 2 adults · 0 children · 1 room
+- Availability and free cancellation:
+  - Example room (Standard Double Room): 
+    - Max. people: 2
+    - Free cancellation before February 13, 2026
+    - Pay nothing until February 11, 2026
+  - Other room options also display “Free cancellation before February 13, 2026” for these dates
+
+Optional price example (as shown at time of check, currency displayed on site in CNY):
+- Standard Double Room: Price CNY 12,882 (excludes city tax and VAT; pricing subject to change)
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Booking--10/screenshot_1758114308.png
+
+Notes
+- Filters applied during search results: Free cancellation; Hotels; Review score “Wonderful: 9+”
+- The hotel page confirms availability for the specified dates and shows free cancellation policy for selected room types.

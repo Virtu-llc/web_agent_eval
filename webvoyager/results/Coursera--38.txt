@@ -1,0 +1,21 @@
+Task completed.
+
+What I did:
+- Navigated to Coursera, opened the Partners page, and filtered by country to Australia.
+- Collected all partners displayed under Australia.
+- Took a screenshot of the filtered partners section.
+
+Coursera partners from Australia:
+
+Universities
+- Macquarie University
+- The University of Melbourne
+- The University of Sydney
+- University of Western Australia
+- UNSW Sydney (The University of New South Wales)
+
+Companies
+- None listed under Australia on Coursera’s Partners page.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Coursera--38/screenshot_1758014621.png

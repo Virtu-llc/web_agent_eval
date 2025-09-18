@@ -1,0 +1,11 @@
+Task completed:
+- Visited https://www.google.com/
+- Searched for “Kevin Durant bio”
+- Opened “Kevin Durant - Wikipedia” from the results
+- Extracted the bio from the page and captured a screenshot
+
+Kevin Durant bio (source: https://en.wikipedia.org/wiki/Kevin_Durant):
+Kevin Wayne Durant (born September 29, 1988), also known by his initials KD, is an American professional basketball player for the Houston Rockets of the National Basketball Association (NBA). Durant has won two NBA championships, four Olympic gold medals, an NBA Most Valuable Player Award, two NBA Finals Most Valuable Player Awards, two NBA All-Star Game Most Valuable Player Awards, four NBA scoring titles, and the NBA Rookie of the Year Award. He has been named to 11 All-NBA teams (including six First Teams) and selected 15 times as an NBA All-Star. In 2021, Durant was named to the NBA 75th Anniversary Team. He ranks eighth among NBA career scoring leaders.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Search--1/screenshot_1758072223.png

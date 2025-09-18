@@ -1,0 +1,29 @@
+Here’s the latest research article in Systems and Control under Computer Science (cs.SY) on arXiv and its key details:
+
+Paper
+- Title: Merging Physics-Based Synthetic Data and Machine Learning for Thermal Monitoring of Lithium-ion Batteries: The Role of Data Fidelity
+- arXiv ID: 2509.10380
+- Category context: cs.SY (cross-listed; primary category eess.SY)
+- Submission date: 12 Sep 2025
+- URL: https://arxiv.org/abs/2509.10380?context=cs.SY
+
+Main objective/hypothesis
+- Objective: Develop an accurate, robust, and real-time framework for estimating the internal temperature of lithium-ion batteries by blending physics-based modeling with machine learning.
+- Approach:
+  - Generate diverse, physics-based synthetic simulation data (via parameter and input sweeps) to pre-train an ML estimator on the underlying mapping.
+  - Apply transfer learning with unsupervised domain adaptation to adapt the model using limited in-service data (without internal temperature labels) from target batteries, bridging the simulation-to-reality gap.
+- Findings: The framework achieves ~0.5 °C RMSE using only prior thermal property knowledge and <0.1 °C when thermal parameters are close to ground truth; the quality (fidelity) of synthetic data critically influences ML performance.
+
+Authors
+- Yusheng Zheng
+- Wenxue Liu
+- Yunhong Che
+- Ferdinand Grimm
+- Jingyuan Zhao
+- Xiaosong Hu
+- Simona Onori
+- Remus Teodorescu
+- Gregory J. Offer
+
+Screenshot
+- I captured a screenshot of the paper’s abstract page (cs.SY context) at the final step: test_cases/result_with_screenshot_small/ArXiv--33/screenshot_1757988190.png

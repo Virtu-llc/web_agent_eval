@@ -1,0 +1,22 @@
+Actions performed
+- Opened https://www.amazon.com/
+- Searched for: black hoodie men big and tall $25 to $50
+- Sorted results by: Best Sellers
+- Browsed the results and extracted items that clearly indicate Big & Tall in the title and are priced between $25 and $50
+- Took a screenshot of the final results page
+
+Best-selling black hoodies for men (Big & Tall) priced $25–$50 shown in the results
+- Amazon Essentials: Men's Pullover Sweatshirt Hoodie, Big & Tall Options Available — $26.30
+- Wrangler: Big and Tall Hoodie for Men, Fleece Heavyweight Pullover Sweatshirt, Relaxed Fit Mens Work Hoodies — $29.99
+- Amazon Essentials: Men's Oversized-Fit Sweatshirt Hoodie (Available in Big & Tall) — $28.20
+- KingSize: Men's Big & Tall Fleece Pullover Hoodie — $35.36
+- Champion: Big and Tall Zip Hoodies for Men – Men's Heavyweight Zip Hoodie Jacket — $37.99
+- Champion: Hoodie for Men Big And Tall Mens Oversized Pullover Fleece Sweatshirt — $39.99
+
+Notes
+- The page was sorted by “Best Sellers.”
+- Amazon’s filters for Color (Black) and specific price brackets were not directly accessible from the left panel elements in this session; therefore, I used a targeted search query containing “black” and “$25 to $50,” and then verified item titles and prices from the results.
+- Prices shown are exactly as displayed on the search results page at the time of browsing and may vary by size/color selection.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Amazon--13/screenshot_1757993329.png

@@ -1,0 +1,19 @@
+Actions taken:
+- Visited https://www.amazon.com/
+- Searched for: air fryer 2 to 3 quart
+- Applied filters:
+  - Capacity: Up to 2.9 qt
+  - Features: Automatic Shut-Off
+- Browsed results to identify options with digital displays and prices under $100
+- Took a screenshot of the filtered results
+
+Matching compact air fryers (2–3 qt, digital display, auto shutoff, under $100):
+- DASH Tasti-Crisp Electric Air Fryer Oven, 2.6 Qt., Grey – Auto Shut Off, Digital, 1000-Watt — $49.99 (List: $59.99)
+- Gourmia Compact 2‑Qt Digital Air Fryer – LED Display — $49.99
+- BLACK+DECKER Purifry 2QT Air Fryer — Digital Touchscreen and Auto Shut-Off — $64.99
+- 2.1Qt Small Air Fryer — Compact Digital Mini Airfryer with 7‑in‑1 Presets — $42.65 (List: $44.99)
+
+Note: The Automatic Shut-Off feature filter was applied, so all listed results include this feature. Prices are shown exactly as displayed on the results page.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Amazon--24/screenshot_1758020491.png

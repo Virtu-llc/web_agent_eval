@@ -1,0 +1,13 @@
+Here’s what I found on Coursera’s site:
+
+Coursera Plus (Annual)
+- Current price: $279 for 12 months
+- Regular price: $399
+- Discount: $120 off (limited-time offer shown on the page)
+
+Three companies that work with Coursera
+- Google
+- IBM
+- Microsoft
+
+Screenshot: test_cases/result_with_screenshot_small/Coursera--29/screenshot_1758152765.png

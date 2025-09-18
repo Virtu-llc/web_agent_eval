@@ -1,0 +1,11 @@
+I navigated to Google Maps, set the Smithsonian National Museum of Natural History as the anchor, and searched for nearby EV charging options suitable for parking. The closest EV charging option I found next to the Smithsonian Museum is:
+
+- Name: ChargePoint Charging Station
+- Type: Electric vehicle charging station
+- Address: 900 Constitution Ave. NW, Washington, DC 20560
+- Hours: Open 24 hours
+- Phone: (888) 758-4389
+
+I selected this location on Google Maps so you can see its exact position relative to the Smithsonian.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Map--16/screenshot_1758044638.png

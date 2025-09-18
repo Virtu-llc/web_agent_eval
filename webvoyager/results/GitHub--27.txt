@@ -1,0 +1,11 @@
+Task completed: Found a Ruby repository updated within the past 3 days and with at least 1000 stars on GitHub, and captured a screenshot.
+
+Repository found:
+- Name: rails/rails
+- URL: https://github.com/rails/rails
+- Primary language: Ruby (97.2%)
+- Stars: 57.6k (shown on the repository page)
+- Recent activity: Latest commit 13 hours ago (visible on the page under “Latest commit”)
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/GitHub--27/screenshot_1758106763.png

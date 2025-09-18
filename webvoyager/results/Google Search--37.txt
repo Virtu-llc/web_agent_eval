@@ -1,0 +1,27 @@
+Actions taken:
+- Visited https://www.google.com/, searched for “top super-Earth planets”
+- Opened the Space.com article “The 10 most Earth-like exoplanets” (updated Aug 6, 2024)
+- Extracted the top 3 entries (which are super-Earths by size/mass) and summarized them
+- Took a screenshot of the final page
+
+Top 3 super-Earth planets (source: Space.com — “The 10 most Earth-like exoplanets”):
+1) Gliese 667Cc
+- Distance: ~22 light-years
+- Size/Mass: At least 4.5× Earth’s mass
+- Notes: Orbits a cooler red dwarf; completes an orbit in ~28 days and lies in the habitable zone, though it may be exposed to stellar flares.
+
+2) Kepler-22b
+- Distance: ~600 light-years
+- Size: ~2.4× Earth’s radius
+- Notes: First Kepler planet found in its star’s habitable zone; composition uncertain (rocky/liquid/gaseous); ~290-day orbit around a G-class star smaller and cooler than the Sun.
+
+3) Kepler-69c
+- Distance: ~2,700 light-years
+- Size: ~1.7× Earth’s radius (about 70% larger than Earth)
+- Notes: ~242-day orbit (similar position to Venus in our solar system); host star is ~80% as luminous as the Sun; appears to reside in the habitable zone.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Search--37/screenshot_1758071649.png
+
+Source page viewed:
+- Space.com — “The 10 most Earth-like exoplanets” (updated Aug 6, 2024)

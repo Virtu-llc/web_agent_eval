@@ -1,0 +1,10 @@
+Here’s the latest fake news detection model on Hugging Face and its last update date:
+
+- Model: lusamaki/bert-fake-news-detector
+- Last updated: Tue, 16 Sep 2025 11:08:51 GMT
+
+How I found it:
+- Navigated to Models, filtered by “fake news,” and sorted by “Recently updated.”
+- The most recent entry was “lusamaki/bert-fake-news-detector,” then I opened the model page and confirmed the exact update timestamp under Files and versions.
+
+Screenshot taken: test_cases/result_with_screenshot_small/Huggingface--31/screenshot_1758031530.png

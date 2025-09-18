@@ -1,0 +1,7 @@
+Result from arXiv Submission Guidelines (Formats for figures):
+- PostScript (PS, EPS) — requires LaTeX processing
+- JPEG, GIF, PNG, or PDF — requires PDFLaTeX processing
+
+Source page: https://info.arxiv.org/help/submit/index.html (Submission Guidelines → Formats for figures)
+
+Screenshot: test_cases/result_with_screenshot_small/ArXiv--30/screenshot_1758155484.png

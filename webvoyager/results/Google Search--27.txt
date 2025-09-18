@@ -1,0 +1,7 @@
+Here’s the current air quality index for Paris:
+
+- Current AQI: 21 (Good)
+- Main pollutant: PM2.5 at 3.7 µg/m³
+- Source page: IQAir “Air quality in Paris”
+
+Screenshot has been taken: test_cases/result_with_screenshot_small/Google Search--27/screenshot_1758075372.png

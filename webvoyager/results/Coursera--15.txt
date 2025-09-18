@@ -1,0 +1,11 @@
+Task done on coursera.org.
+
+Results for “Introduction to Mathematical Thinking” (Stanford University):
+- 5-star ratings percentage (rounded): 84% (exact shown: 84.15%)
+- Star level with the least percentage: 2-star (0.50%)
+
+Evidence
+- These figures are from the Learner reviews section on the course page.
+
+Screenshot
+- Saved at: test_cases/result_with_screenshot_small/Coursera--15/screenshot_1758027742.png

@@ -1,0 +1,7 @@
+Result:
+- I navigated to BBC News, opened the Business area, and reached the Market Data page.
+- Current status on the Market Data page: “The BBC has discontinued its market data feeds on both the website and red button (UK only) services.”
+- There is no market data provider listed, because the BBC no longer supplies market data in this format.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/BBC News--28/screenshot_1758016867.png

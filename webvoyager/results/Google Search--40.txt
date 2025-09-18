@@ -1,0 +1,8 @@
+Result found on Google:
+- Elevation of Mount Kilimanjaro: 19,341 ft (5,895 m)
+
+Source context visible on the results page includes:
+- A knowledge panel snippet showing “19,341′” and text stating it is “at 5,895 m (19,341 ft) above sea level.”
+
+Screenshot captured:
+- File: test_cases/result_with_screenshot_small/Google Search--40/screenshot_1758076666.png

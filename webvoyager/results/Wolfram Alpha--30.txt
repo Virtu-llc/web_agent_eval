@@ -1,0 +1,24 @@
+Task completed on Wolfram|Alpha.
+
+What I did:
+- Opened Wolfram|Alpha and ran the “time to sunburn” computation.
+- Set location to Brazil.
+- Set start time to 1:00 pm (local time).
+- Used the “Compute” button to refresh results.
+- Scrolled to show the “Typical time to sunburn” pod and took a screenshot.
+
+Results shown on the page (interpreted by Wolfram|Alpha as “no sunscreen” = SPF 1):
+- Skin type I: 16 min
+- Skin type II: 21 min
+- Skin type III: 32 min
+- Skin type IV: 46 min
+- Skin type V: 1 h 30 min
+- Skin type VI: sunburn unlikely
+
+Context from the page:
+- Location: center of Brazil
+- Start time: 1:00 pm UTC-03, Wednesday, September 17, 2025
+- Sun protection advisory: exposure category very high; recommendation to apply SPF 15+ sunscreen, cover up, wear a hat and sunglasses, and minimize sun exposure between 10 am and 4 pm.
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Wolfram Alpha--30/screenshot_1758109822.png

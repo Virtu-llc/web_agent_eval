@@ -1,0 +1,22 @@
+Task accomplished:
+- Visited Allrecipes and searched for “low-carb breakfast”
+- Selected a qualifying recipe with ample reviews: Low-Carb Bacon Spinach Egg Cups (123 ratings; 101 reviews)
+- Opened the recipe page and jumped to the Nutrition Facts section
+- Captured the requested nutrition details and took a screenshot
+
+Recipe:
+- Title: Low-Carb Bacon Spinach Egg Cups
+- URL: https://www.allrecipes.com/recipe/240905/low-carb-bacon-spinach-egg-cups/
+- Reviews/Ratings: 123 ratings; 101 reviews (meets the “at least 25 reviews” requirement)
+
+Nutrition Facts (per serving):
+- Calories: 237
+- Fat: 18 g
+- Carbs (total carbohydrate): 4 g
+- Protein: 17 g
+
+Total carbohydrate content per serving:
+- 4 g
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--33/screenshot_1757984733.png

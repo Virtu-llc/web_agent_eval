@@ -1,0 +1,19 @@
+Here are the details from apple.com for Apple TV 4K:
+
+Apple TV 4K — Size and Weight (Tech Specs)
+- Height: 1.2 inches (31 mm)
+- Width: 3.66 inches (93 mm)
+- Depth: 3.66 inches (93 mm)
+- Weight (Wi‑Fi model): 7.3 ounces (208 grams)
+- Weight (Wi‑Fi + Ethernet model): 7.5 ounces (214 grams)
+
+Siri Remote — Features introduced (Overview)
+- A touch‑enabled clickpad: Easily swipe through episodes, scenes, or frames with an intuitive circular movement. Turn your TV on or off, change the input to Apple TV 4K, and control the volume.
+- A dedicated Siri button — just like iPhone: Siri provides quick, clear on‑screen interactions and supports voice recognition for up to six family members, delivering personalized recommendations.
+
+Screenshot
+- Saved a screenshot of the Siri Remote section on the Apple TV 4K page: test_cases/result_with_screenshot_small/Apple--34/screenshot_1758007881.png
+
+What I did
+- Navigated to Apple TV 4K Tech Specs to extract exact size and weight.
+- Viewed the Apple TV 4K Overview page to capture the Siri Remote features text and took a screenshot.

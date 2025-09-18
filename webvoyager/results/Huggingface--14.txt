@@ -1,0 +1,18 @@
+Here’s what I found on the Hugging Face Pricing page:
+
+Price
+- Pro account: $9 per month
+
+Features included with Pro
+- 10× private storage capacity
+- 20× included inference credits
+- 8× ZeroGPU usage quota with highest queue priority
+- Spaces Dev Mode (fast iterations via SSH/VS Code)
+- ZeroGPU Spaces hosting (with H200 hardware)
+- Dataset Viewer for private datasets (activate and use it on private datasets)
+- Publish blog articles on your HF profile
+- Features Preview (early access to upcoming features)
+- PRO badge on your profile
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Huggingface--14/screenshot_1758015628.png

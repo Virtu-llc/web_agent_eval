@@ -1,0 +1,13 @@
+Task completed. Here are the results and the final screenshot.
+
+Most recently updated repository (filtered: topic=web-scraping, language=Python, stars>100; sorted by Recently updated):
+- Repository: dgtlmoon/changedetection.io
+- URL: https://github.com/dgtlmoon/changedetection.io
+- Stars: 26.6k (meets >100 stars)
+- Language: Python (77.5%)
+- Topics include: web-scraping (visible on the repo page sidebar under Topics)
+- Latest commit on repo page: 10 hours ago
+- This repository appeared first in the search results sorted by Recently updated for the specified filters.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/GitHub--19/screenshot_1758147903.png

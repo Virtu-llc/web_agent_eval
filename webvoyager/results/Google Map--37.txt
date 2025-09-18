@@ -1,0 +1,27 @@
+I completed the requested steps on Google Maps:
+
+- Located a parking area in Salem: Museum Place Garage, 1 Church St, Salem, MA 01970
+- Set up directions from Museum Place Garage (start) to Marblehead, Massachusetts (destination)
+- Selected Driving mode and captured the route details and map
+
+Driving route summary
+- Primary route: via Lafayette St
+- Estimated time: 13 min
+- Distance: 4.0 miles
+- Note: Fastest route, the usual traffic
+
+Alternative routes shown
+- via Loring Ave — 16 min, 5.1 miles
+- via Jefferson Ave — 16 min, 5.0 miles
+
+Screenshot
+- Saved a screenshot of the final directions view with the route and details visible: test_cases/result_with_screenshot_small/Google Map--37/screenshot_1757983308.png
+
+What I did
+- Opened Google Maps
+- Searched for parking in Salem and selected “Museum Place Garage”
+- Clicked Directions, set destination as Marblehead, then reversed to make the parking the starting point
+- Switched to Driving mode to display car routes
+- Recorded the route data and took the screenshot
+
+If you’d like, I can also provide step-by-step turn-by-turn directions from the “Details” view.

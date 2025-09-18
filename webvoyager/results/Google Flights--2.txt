@@ -1,0 +1,17 @@
+Result
+- Route: New York (JFK) to London Heathrow (LHR)
+- Trip: One-way, 1 adult
+- Date: Thursday, January 22, 2026
+- Lowest fare found: $195 USD
+- Flight example at lowest fare: “From 195 US dollars. 1 stop flight with Iberia and Vueling (operated by Iberia for Level), departing 11:45 PM Jan 22 and arriving 6:00 PM Jan 23 with a 3 hr 5 min layover in Barcelona (BCN).”
+
+What I did
+- Opened Google Flights.
+- Set trip type to One-way.
+- Set origin to New York JFK and destination to London LHR.
+- Set departure date to Jan 22, 2026.
+- Searched and switched to the “Cheapest” tab to ensure lowest fares were displayed first.
+- Identified the lowest fare as $195 USD among all eligible one-way flights for that date.
+
+Screenshot
+- Saved a screenshot of the results page showing the cheapest fare: test_cases/result_with_screenshot_small/Google Flights--2/screenshot_1757983074.png

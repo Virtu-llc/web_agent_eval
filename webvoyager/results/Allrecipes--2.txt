@@ -1,0 +1,20 @@
+Task completed. I found a qualifying recipe on Allrecipes and verified it meets your criteria, then captured a screenshot.
+
+Recipe found:
+- Title: Easy Vegetarian Spinach Lasagna
+- URL: https://www.allrecipes.com/recipe/229764/easy-vegetarian-spinach-lasagna/
+- Vegetarian: Yes (as stated in the title and ingredients)
+- Calories per serving: 305 (Nutrition Facts section)
+- Prep Time: 20 mins (less than 1 hour)
+
+Key details from the recipe page:
+- Cook Time: 1 hr
+- Additional Time: 5 mins
+- Total Time: 1 hr 25 mins
+- Servings: 6
+- Nutrition (per serving): 305 Calories; 10g Fat; 37g Carbs; 18g Protein
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Allrecipes--2/screenshot_1758061242.png
+
+Let me know if you’d like me to extract the full ingredient list and directions into a concise, printable format.

@@ -1,0 +1,17 @@
+Actions taken:
+- Opened https://www.amazon.com/
+- Searched for “stainless steel double bowl kitchen sink”
+- Sorted results by “Price: Low to High”
+- Scanned the results for the first/cheapest listing that clearly shows FREE delivery and matches stainless steel double-bowl sink
+
+Cheapest stainless steel double-bowl kitchen sink with FREE delivery (from the sorted results):
+- Product: vidaXL Kitchen Sink with Strainer, Drop-in Sink, Double Bowl, Noise Reduction, Quick Flow, Corrosion Resistant, Food Grade, Black 29.9-inch Stainless Steel Rectangular
+- Price: $169.99
+- Delivery: FREE delivery (shown on the listing)
+
+Screenshot:
+- Saved at: test_cases/result_with_screenshot_small/Amazon--11/screenshot_1758116067.png
+
+Notes:
+- Results were sorted by Price: Low to High (as shown on the page header).
+- Among the double-bowl stainless steel sinks, this is the first listing in price order that shows “FREE delivery” on the results page.

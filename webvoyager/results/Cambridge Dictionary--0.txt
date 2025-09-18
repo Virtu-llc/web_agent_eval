@@ -1,0 +1,16 @@
+Task completed on Cambridge Dictionary.
+
+Word: sustainability
+Part of speech: noun [U]
+
+Pronunciation:
+- UK: /səˌsteɪ.nəˈbɪl.ə.ti/
+- US: /səˌsteɪ.nəˈbɪl.ə.t̬i/
+
+Definition (English):
+- the quality of being able to continue over a period of time
+
+Additional sense shown on the page:
+- environment: the quality of causing little or no damage to the environment and therefore able to continue for a long time
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--0/screenshot_1758102871.png

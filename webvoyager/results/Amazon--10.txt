@@ -1,0 +1,13 @@
+Task completed.
+
+What I found
+- Product: ASURION 2 Year Electronics Protection Plan ($250 – $299.99)
+- Price: $26.99
+- Context: This 2-year plan is the one typically associated with a PS4 console in that price range on Amazon.
+- Source: Product detail page on Amazon (ASURION store), displaying price $26.99 on the page.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Amazon--10/screenshot_1758026386.png
+
+Notes
+- The cost for a PS4 protection plan depends on the PS4’s purchase price bracket. The $26.99 plan covers items priced between $250 and $299.99, which aligns with common PS4 console pricing. If a PS4 listing is priced differently, Amazon shows a corresponding plan for that price tier.

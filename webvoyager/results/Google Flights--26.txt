@@ -1,0 +1,44 @@
+Here are the cheapest round‑trip flight options from Bangkok to Madrid (depart Nov 26, 2025; return Nov 28, 2025) under $1000 USD, as shown on Google Flights after sorting by Cheapest:
+
+Top departing flights
+- $705 — Qatar Airways (1 stop, DOH) — 16 hr 50 min
+  Depart: 3:00 AM Wed Nov 26 (BKK) → Arrive: 1:50 PM Wed Nov 26 (MAD)
+  Layover: 1 hr 50 min at Hamad International (Doha)
+
+- $705 — Qatar Airways (1 stop, DOH) — 17 hr 50 min
+  Depart: 9:05 AM Wed Nov 26 (BKK) → Arrive: 8:55 PM Wed Nov 26 (MAD)
+  Layover: 2 hr 50 min at Hamad International (Doha)
+
+- $705 — Qatar Airways + Iberia (1 stop, DOH) — 16 hr 40 min
+  Depart: 8:30 PM Wed Nov 26 (BKK) → Arrive: 7:10 AM Thu Nov 27 (MAD)
+  Layover: 1 hr at Hamad International (Doha)
+
+- $723 — Shanghai Airlines + China Eastern (1 stop, PVG) — 21 hr 10 min
+  Depart: 4:50 PM Wed Nov 26 (BKK) → Arrive: 8:00 AM Thu Nov 27 (MAD)
+  Layover: 2 hr 40 min at Shanghai Pudong (Shanghai)
+
+- $823 — Etihad (operated by Air Europa; 1 stop, AUH) — 16 hr 10 min
+  Depart: 8:55 AM Wed Nov 26 (BKK) → Arrive: 7:05 PM Wed Nov 26 (MAD)
+  Layover: 1 hr 20 min at Zayed International (Abu Dhabi)
+
+Other departing flights under $1000
+- $705 — Qatar Airways + Iberia (1 stop, DOH) — 23 hr 20 min (overnight layover)
+  Depart: 8:30 PM Wed Nov 26 → Arrive: 1:50 PM Thu Nov 27
+  Layover: 8 hr 20 min overnight at Hamad International (Doha)
+
+- $723 — China Eastern (1 stop, PVG) — 24 hr 25 min
+  Depart: 1:35 PM Wed Nov 26 → Arrive: 8:00 AM Thu Nov 27
+  Layover: 5 hr 55 min at Shanghai Pudong (Shanghai)
+
+- $883 — Etihad (operated by Air Europa; 1 stop, AUH) — 15 hr 40 min
+  Depart: 9:25 AM Wed Nov 26 → Arrive: 7:05 PM Wed Nov 26
+  Layover: 50 min at Zayed International (Abu Dhabi)
+
+- $974 — Batik Air + Emirates (2 stops, KUL, DXB) — 46 hr 25 min
+  Depart: 8:15 PM Wed Nov 26 → Arrive: 12:40 PM Fri Nov 28
+  Layovers: 10 hr 50 min at Kuala Lumpur (KUL) and 18 hr 5 min at Dubai (DXB)
+
+Note: All prices shown are round‑trip totals in USD, including required taxes/fees for 1 adult, as displayed on Google Flights at the time of search. Optional charges and bag fees may apply.
+
+Screenshot of the results page:
+test_cases/result_with_screenshot_small/Google Flights--26/screenshot_1758159258.png

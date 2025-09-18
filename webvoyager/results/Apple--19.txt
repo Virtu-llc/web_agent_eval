@@ -1,0 +1,6 @@
+Here’s what I found on Apple’s website:
+
+- Mac slogan: “If you can dream it, Mac can do it.”
+- MacBook Pro slogan: “Built for Apple Intelligence.”
+
+Screenshot taken of the MacBook Pro page: test_cases/result_with_screenshot_small/Apple--19/screenshot_1758004505.png

@@ -1,0 +1,21 @@
+Task completed: I searched Booking.com for stays in Dubai with a swimming pool, for Feb 22–28, 2026 (6 nights), and captured a screenshot of the filtered results.
+
+What I did:
+- Entered destination: Dubai
+- Set dates: Check-in Sun, Feb 22, 2026 — Check-out Sat, Feb 28, 2026
+- Applied filter: Swimming pool (under Swimming pool type)
+- Displayed results and took a screenshot
+
+Some options currently visible in the results (with on-page pricing text for the 6-night stay):
+- Novotel Dubai Gold District — Original price $1,249. Current price $749.
+- Taj Dubai — Price $1,393
+- IntercityHotel Dubai Jaddaf Waterfront — Original price $310. Current price $282.
+- Sofitel Dubai Jumeirah Beach — Original price $2,155. Current price $1,508.
+- Golden Sands Hotel Apartments — Original price $629. Current price $572.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Booking--28/screenshot_1757979670.png
+
+Notes:
+- Dates displayed on the page: “Sun, Feb 22 — Sat, Feb 28”
+- The “Swimming pool” filter is visible in the left sidebar under Swimming pool type.

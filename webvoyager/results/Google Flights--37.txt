@@ -1,0 +1,20 @@
+Result:
+- Route: Buenos Aires → Beijing (round trip)
+- Dates: Depart Feb 28, 2026; Return Mar 3, 2026
+- Example checked option: Ethiopian Airlines
+- Are the departure and return airlines the same? Yes. Both the departing and return flights are operated by Ethiopian Airlines.
+
+What I did:
+- Opened Google Flights and set:
+  - From: Buenos Aires
+  - To: Beijing
+  - Depart: Feb 28, 2026
+  - Return: Mar 3, 2026
+- Searched and selected one of the round-trip itineraries.
+- Opened the itinerary summary, where the “Selected flights” section shows:
+  - Departing flight: Ethiopian
+  - Return flight: Ethiopian
+
+Screenshot:
+- Saved of the itinerary summary page confirming both segments are with Ethiopian.
+- File: test_cases/result_with_screenshot_small/Google Flights--37/screenshot_1758038496.png

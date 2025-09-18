@@ -1,0 +1,8 @@
+Task completed on Wolfram|Alpha.
+
+Result:
+- 3^71 (to 5 significant figures, scientific notation): 7.5095 × 10^33
+- Source value extracted from the page (Result): 7.509466514979724803946715958257547 × 10^33
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Wolfram Alpha--2/screenshot_1758165430.png

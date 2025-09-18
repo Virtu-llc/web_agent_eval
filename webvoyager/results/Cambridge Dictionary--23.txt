@@ -1,0 +1,6 @@
+Task completed on Cambridge Dictionary.
+
+- US English IPA pronunciation for “meticulous”: /məˈtɪk.jə.ləs/
+- Example sentence from the entry: “Many hours of meticulous preparation have gone into writing the book.”
+
+Screenshot captured of the pronunciation and example: test_cases/result_with_screenshot_small/Cambridge Dictionary--23/screenshot_1758142610.png

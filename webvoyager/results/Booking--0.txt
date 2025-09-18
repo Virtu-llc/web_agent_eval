@@ -1,0 +1,9 @@
+Here’s a Mexico hotel with a visible deal for your dates (Dec 25–26). I performed the search on Booking.com and selected the dates Dec 25–26, then identified a listing showing a discount.
+
+Hotel found with a deal:
+- Name: The Striped Loft Modern Elegance in a centric location
+- Location: Mexico City, Mexico
+- Dates selected: Thu, Dec 25 — Fri, Dec 26 (1 night, 2 adults)
+- Deal details shown: Original price $111. Current price $81.
+
+Screenshot: test_cases/result_with_screenshot_small/Booking--0/screenshot_1758110660.png

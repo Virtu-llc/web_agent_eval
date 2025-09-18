@@ -1,0 +1,6 @@
+Here’s the cheapest one-way flight I found on Google Flights for New York → Tokyo departing January 15, 2026:
+
+- Airline: Delta and WestJet
+- Total duration: 35 hr 30 min
+
+I’ve attached a screenshot of the results page for your reference. Filename: test_cases/result_with_screenshot_small/Google Flights--16/screenshot_1758149176.png

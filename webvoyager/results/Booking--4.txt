@@ -1,0 +1,24 @@
+Here’s what I did and found on Booking.com:
+
+Steps completed:
+- Searched for: Kashi Vishwanath Temple, Varanasi, India
+- Dates set: Dec 25, 2025 – Dec 26, 2025 (1 night)
+- Applied filters:
+  - Property type: Hotels
+  - Meals: Breakfast included
+- Sorted by: Price (lowest first)
+
+Cheapest qualifying hotel (Breakfast included, Hotel, near Kashi Vishwanath Temple):
+- Name: hotel blue star
+- Distance: 1.7 miles from Kashi Vishwanath Temple
+- Room: Budget Double Room (1 full bed)
+- Breakfast: Included
+- Price: $14 for 1 night, 2 adults
+- “See availability” link present on the results card
+
+Screenshot:
+- Saved a screenshot of the results page (sorted by lowest price with the filters applied), showing the top (cheapest) listing.
+- File: test_cases/result_with_screenshot_small/Booking--4/screenshot_1758106954.png
+
+Notes:
+- The search results were specifically for the Kashi Vishwanath Temple landmark in Varanasi, ensuring proximity. If you want the absolute cheapest within a tighter distance (e.g., less than 0.5 miles), I can apply the “Less than 1/2 mile” distance filter and report the cheapest option under that constraint.

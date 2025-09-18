@@ -1,0 +1,20 @@
+I visited Apple.com, searched for “Smart Folio for iPad,” opened the product “Smart Folio for iPad (A16) – Sky,” and checked the in‑store pickup availability near ZIP code 90038.
+
+Closest store and availability:
+- Apple The Grove (Los Angeles, 2.08 mi from 90038): Available Today for In‑Store Pickup
+
+Additional nearby stores (all showing Available Today at time of check):
+- Apple Beverly Center (Los Angeles, 3.0 mi): Available Today
+- Apple Tower Theatre (Los Angeles, 5.21 mi): Available Today
+- Apple Century City (Los Angeles, 5.57 mi): Available Today
+- Apple Glendale Galleria (Glendale, 5.57 mi): Available Today
+- Apple The Americana at Brand (Glendale, 5.59 mi): Available Today
+- Apple Sherman Oaks (Sherman Oaks, 7.93 mi): Available Today
+- Apple Pasadena (Pasadena, 10.82 mi): Available Today
+- Apple Third Street Promenade (Santa Monica, 10.86 mi): Available Today
+- Apple Manhattan Village (Manhattan Beach, 13.62 mi): Available Today
+- Apple Northridge (Northridge, 16.72 mi): Available Today
+- Apple Topanga (Canoga Park, 17.25 mi): Available Today
+
+Screenshot saved:
+- test_cases/result_with_screenshot_small/Apple--17/screenshot_1758108122.png

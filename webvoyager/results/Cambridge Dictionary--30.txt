@@ -1,0 +1,61 @@
+Task completed: I navigated the Cambridge Dictionary site to the English Grammar Today article “Present perfect simple (I have worked)” and extracted the uses plus sample affirmative, negative, and interrogative examples. I’ve also taken a screenshot of the “uses” section.
+
+Source
+- Page: Present perfect simple (I have worked) – Cambridge Grammar
+- URL: https://dictionary.cambridge.org/grammar/british-grammar/present-perfect-simple-i-have-worked
+
+Present perfect simple: uses (from the Cambridge page)
+- We use the present perfect simple to refer to events in the past that connect to the present.
+- Experiences:
+  - We use it to talk about experiences up to now; specific time isn’t important. Often with ever, never, before, in my life, so far, up until now.
+- Recent completed events:
+  - A finished event/state in the very recent past; often with just, recently; no specific time given.
+- Past events, present results:
+  - A single past action with a present connection/result.
+- Time + for and since:
+  - A present situation that began in the past and continues now; for periods (for three years), since points (since 2006).
+- How long …?:
+  - Use with for/since to ask about duration.
+- Yet:
+  - In questions and negatives for intended but not-yet-done actions.
+- Already:
+  - To emphasise something is done/achieved, often earlier than expected.
+- Still:
+  - To emphasise something expected to happen continues not to happen.
+- Introducing past time events:
+  - Often used in headlines/TV news to report recent events; followed by past simple for details.
+- American English note:
+  - AmE often uses past simple instead of present perfect, especially with already and yet (compare “Did you eat (yet)?” vs “Have you eaten (yet)?”).
+
+Examples (quoted from the page)
+
+Affirmative (present perfect simple)
+- “They’ve sold 110 so far.” 
+- “Niki and John have just come back from a week in Spain.” 
+- “She’s broken her arm in two places.” 
+- “That house on the corner has been empty for three years.” 
+- “The company … has recently opened an office in the UK.” 
+
+Negative (present perfect simple)
+- “We haven’t met before, have we?” 
+- “Your flowers haven’t arrived.” 
+- “She still hasn’t said sorry to me.” 
+- “I still haven’t recovered from the jet lag.” 
+- “I haven’t finished my coffee yet.” 
+
+Interrogative (present perfect simple)
+- “Have you ever tried to write your name and address with your left hand?” 
+- “How long have you worked there?” 
+- “Haven’t you done your homework yet?” 
+- “Have you seen any Arthur Miller plays?” 
+
+Present perfect simple: form (from the table at the top of the page)
+- Affirmative: have/has + past participle (e.g., “I/you/we/they have worked”, “He/she/it has worked”; short forms: I’ve, she’s)
+- Negative: have/has not + past participle (e.g., “I/you/we/they have not worked”, “He/she/it has not worked”; short forms: haven’t, hasn’t)
+- Interrogative: Have/Has + subject + past participle? (e.g., “Have I/you/we/they worked?”, “Has he/she/it worked?”)
+- Negative interrogative: Have/Has + subject + not + past participle? or contracted Haven’t/Hasn’t + subject + past participle?
+
+Screenshot
+- Saved file: test_cases/result_with_screenshot_small/Cambridge Dictionary--30/screenshot_1758017412.png
+
+If you’d like, I can extract additional examples from specific subsections (e.g., “Yet”, “Already”, “Still”) or capture another screenshot showing the “form” table as well.

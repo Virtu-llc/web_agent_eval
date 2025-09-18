@@ -1,0 +1,19 @@
+Task complete. I found a qualifying product and captured a screenshot.
+
+Product found:
+- Title: DenicMic Solar Lights Outdoor 10 Pack Waterproof 6000K Cold White LED Stainless Steel Stake for Pathway Yard Garden Driveway Solar Powered Outside Decor
+- Price: $21.99
+- Pack size: 10 lights
+- Light type: LED
+- Power source: Solar Powered
+- ASIN: B09W9H1V63
+- URL: https://www.amazon.com/Waterproof-Stainless-Driveway-Decorative-Lighting/dp/B09W9H1V63
+
+Why it matches your criteria:
+- Minimum pack of 10: Yes (10 Pack; Number of Items: 10)
+- LED: Yes (Light Source Type: LED)
+- Solar-powered: Yes (Power Source: Solar Powered)
+- Priced under $50: Yes ($21.99)
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Amazon--29/screenshot_1758031939.png

@@ -1,0 +1,19 @@
+I visited Wolfram|Alpha, entered the expression, and computed the result.
+
+Query entered:
+(1+0.1*i)^8 + (1-0.2*i)^8
+
+Wolfram|Alpha assumptions:
+Assuming i is the imaginary unit
+
+Results extracted from the page:
+- Result (rectangular form): 0.717183 - 0.425258 i
+- Alternate forms:
+  - 0.717183 - 0.425258 i
+  - 0.833784 (cos(-0.535225) + i sin(-0.535225))
+  - 0.833784 e^(-0.535225 i)
+- Polar coordinates:
+  - r = 0.833784, θ = -0.535225
+
+Screenshot:
+Saved the final results page screenshot as: test_cases/result_with_screenshot_small/Wolfram Alpha--21/screenshot_1757992429.png

@@ -1,0 +1,11 @@
+Here are the results from Wolfram|Alpha for “12 lb of 4-cyanoindole to moles; percent composition by mass of C, H, N”:
+
+- Moles (from 12 lb): 38.3 mol (at STP)
+- Elemental mass percentages:
+  - C: 76.0% (9.125 lb)
+  - H: 4.3% (0.511 lb)
+  - N: 19.7% (2.365 lb)
+- Reference molar mass shown: 142.16 g/mol
+
+Screenshot of the results page has been captured:
+test_cases/result_with_screenshot_small/Wolfram Alpha--8/screenshot_1758156375.png

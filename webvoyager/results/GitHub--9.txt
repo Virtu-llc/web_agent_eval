@@ -1,0 +1,8 @@
+Here’s a repository created within the last week with 50+ stars:
+
+- Repository: tekaratzas/RustGPT
+- Stars: 1.5k
+- Purpose: A transformer-based Large Language Model implemented from scratch in pure Rust with no external ML frameworks (per README/About).
+- Primary language: Rust (100%)
+
+Screenshot saved: test_cases/result_with_screenshot_small/GitHub--9/screenshot_1758018330.png

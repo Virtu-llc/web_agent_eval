@@ -1,0 +1,9 @@
+Here are the results from the Cambridge Dictionary for “altruism”:
+
+- Definition: willingness to do things that bring advantages to others, even if it results in disadvantage for yourself
+- Pronunciation:
+  - UK: /ˈæl.tru.ɪ.zəm/
+  - US: /ˈæl.tru.ɪ.zəm/
+- Example sentence: She's not known for her altruism.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--20/screenshot_1758036693.png

@@ -1,0 +1,9 @@
+Here are the details I found on Coursera:
+
+Course: Introduction to Finance: The Basics
+Instructor: Xi Yang (Senior Lecturer of Finance, University of Illinois Urbana-Champaign)
+
+Other courses taught by this instructor on Coursera:
+- Introduction to Finance: The Role of Financial Markets
+
+Screenshot: test_cases/result_with_screenshot_small/Coursera--16/screenshot_1758062612.png

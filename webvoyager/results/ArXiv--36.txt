@@ -1,0 +1,15 @@
+Task summary:
+- Navigated to arXiv.org
+- Used the “Field to search” dropdown to select “Journal reference”
+- Ran two searches and captured the exact result counts
+
+Results found:
+- CVPR 2023 (with space): 52 results
+  Evidence on page: “Showing 1–50 of 52 results for journal_ref: CVPR 2023”
+
+- CVPR2023 (no space): 9 results
+  Evidence on page: “Showing 1–9 of 9 results for journal_ref: CVPR2023”
+
+Screenshot:
+- Saved a screenshot of the final results page (CVPR2023 journal_ref search)
+- File: test_cases/result_with_screenshot_small/ArXiv--36/screenshot_1758004658.png

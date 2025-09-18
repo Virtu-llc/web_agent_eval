@@ -1,0 +1,18 @@
+Here’s what I did and found:
+
+- Opened booking.com
+- Searched for: Rome, Lazio, Italy
+- Dates: Fri, Mar 20 — Mon, Mar 23, 2026
+- Guests: 1 adult
+- Currency: USD
+- Filters: Property Type = Hotels
+- Sorted results by: Price (lowest first)
+
+Top 3 hotels (sorted by lowest price) and breakfast info from the listing cards:
+1) ibis Styles Roma Vintage — Price $175 (3 nights). Breakfast: not shown/included on the card.
+2) Cressy — Price $180 (3 nights). Breakfast: not shown/included on the card.
+3) Occidental Aran Park — Price $188 (3 nights). Breakfast: not shown/included on the card.
+
+Conclusion: None of the top three results show breakfast included on the listing card.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Booking--36/screenshot_1758140730.png

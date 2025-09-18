@@ -1,0 +1,19 @@
+Here’s what I found and captured.
+
+Current number one artist on Spotify Global Top 50:
+- HUNTR/X
+  - Source: Spotify “Top 50 – Global” playlist (position #1 track “Golden” lists HUNTR/X first among credited artists)
+
+HUNTR/X — Top 10 songs (Popular, as of now on Spotify):
+1) Golden
+2) How It’s Done
+3) What It Sounds Like
+4) Takedown
+5) Golden - David Guetta REM/X
+6) Golden - Acapella
+7) Golden - Instrumental
+8) Golden - David Guetta REM/X (Extended)
+9) Dorada - Golden - versión en español
+10) Briller - Golden - version française
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Search--30/screenshot_1758075677.png

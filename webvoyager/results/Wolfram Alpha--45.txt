@@ -1,0 +1,14 @@
+Here’s what I did:
+- Navigated to Wolfram|Alpha.
+- Entered the query to compute the metabolic properties for: a 175 cm tall, 85 kg, 40-year-old man climbing 2500 steps (18 cm/step) at 40 steps/min.
+- Tried multiple phrasings (including calories burned and stair-climbing specifics) and executed the searches.
+
+What happened:
+- Wolfram|Alpha did not render results because the site requires JavaScript to compute and display pods in this environment.
+- The page displayed messages like “Wolfram|Alpha doesn’t understand your query” and also shows a “doesn’t run without JavaScript” notice (no results pods appeared). Because of this, I could not extract any metabolic properties or values directly from Wolfram|Alpha.
+
+Per your request, I’ve taken a screenshot of the final state of the page (showing the query and the site’s messages), attached here:
+- Screenshot: test_cases/result_with_screenshot_small/Wolfram Alpha--45/screenshot_1757984167.png
+
+Note:
+- I did not compute or infer any values myself, as you asked to use Wolfram|Alpha and the site did not provide computable results in this session. If you can enable JavaScript and re-run the same query in a standard browser, Wolfram|Alpha should return the metabolic properties (e.g., energy expended, calories burned, power output, METs if available).

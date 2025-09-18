@@ -1,0 +1,31 @@
+Here’s what I found on Booking.com for 2 adults in London, for 4 nights from Thu, Dec 25 to Mon, Dec 29 (currency: USD). I selected options under $250 per night (i.e., total under $1,000 for 4 nights). Dates and guests are set on the site.
+
+At least 3 suitable options:
+1) Holiday Inn Express London – ExCel by IHG
+- Total for 4 nights: $494
+- Area: Newham, London
+- Room example shown: Standard Room with Free Hot Breakfast
+- Distance: 7.4 miles from downtown
+
+2) Holiday Inn Express Royal Docks by IHG
+- Total for 4 nights: $542
+- Area: Newham, London
+- Room example shown: Standard Double Room with Sofa Bed and Free Hot Breakfast
+- Distance: 6 miles from downtown
+
+3) Hilton London Wembley
+- Total for 4 nights: $670
+- Area: Brent, London
+- Room example shown: Twin Room
+- Distance: 7.5 miles from downtown
+
+4) ibis London Blackfriars
+- Total for 4 nights: $715
+- Area: Southwark, London
+- Room example shown: Standard Double Room
+- Distance: 1.0 mile from downtown
+
+Note: All prices above are shown on Booking.com search results for the specified dates and include the selection for 2 adults. They meet the “under $250 per night” criterion by having totals under $1,000 for the 4-night stay.
+
+Screenshot taken of the results page showing the search setup and listings:
+- File: test_cases/result_with_screenshot_small/Booking--9/screenshot_1758017244.png

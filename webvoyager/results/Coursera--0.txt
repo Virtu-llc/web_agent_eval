@@ -1,0 +1,15 @@
+Here’s a beginner-level 3D printing course from Coursera that meets your criteria (Beginner, Course, 1–3 months, renowned university). I applied the on-page filters for Courses, Beginner, and Duration: 1–3 Months, then selected a suitable course from the results.
+
+Found course
+- Title: 3D Printing Applications
+- Provider: University of Illinois Urbana-Champaign
+- Level: Beginner
+- Duration: 1–3 Months
+- Link: https://www.coursera.org/learn/3d-printing-applications
+
+Screenshot
+- Saved a screenshot showing the search results with the selected course card visible (including the provider, level, and duration).
+- File: test_cases/result_with_screenshot_small/Coursera--0/screenshot_1757981037.png
+
+Notes
+- Details are taken directly from Coursera’s filtered search results page, which displays “Beginner · Course · 1 - 3 Months” for this course from a renowned university (UIUC).

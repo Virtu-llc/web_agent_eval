@@ -1,0 +1,6 @@
+Result: The latest MacBook Air comes in 4 colors: Sky Blue, Silver, Starlight, and Midnight.
+
+Action taken:
+- Visited apple.com, navigated to the Mac section, and viewed the MacBook Air tile which states the available finishes: “Available in Sky Blue, Silver, Starlight, and Midnight.”
+
+Screenshot: test_cases/result_with_screenshot_small/Apple--13/screenshot_1758106131.png

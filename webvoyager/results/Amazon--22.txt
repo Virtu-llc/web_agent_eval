@@ -1,0 +1,12 @@
+Task completed: Searched on Amazon and found a qualifying cookware set. Screenshot captured.
+
+Result found:
+- Product: GOTHAM STEEL 10 Pc Copper Pots and Pans Set Non Stick Cookware Sets with Kitchen Utensils, Induction Ready, Non Toxic PFOA PFOS Free, Nesting Design for 50% Space Saving, Oven and Dishwasher Safe
+- Price shown: $59.99 (List Price: $99.95)
+- Pieces: 10-piece set (meets the “at least 10 pieces” requirement)
+- Non-stick: Yes (stated in the title)
+- Oven-safe: Yes (stated in the title as “Oven and Dishwasher Safe”)
+- Page: Product detail page on Amazon (found via search)
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Amazon--22/screenshot_1758139161.png

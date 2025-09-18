@@ -1,0 +1,11 @@
+Here’s what I found on ESPN:
+
+- Matchup: Miami Heat at New York Knicks
+- Date: March 17, 2025 (Madison Square Garden)
+- Final Score: Knicks 116, Heat 95
+- Top Rebounder: Josh Hart (Knicks) — 13 rebounds
+
+Source path on ESPN:
+- I used the ESPN search suggestions to open the recap, then navigated to the Box Score for gameId 401705550 (Knicks 116-95 Heat). The box score table shows Josh Hart with 13 rebounds, the most in the game, and the scoreboard confirms the final score 116-95.
+
+Screenshot saved: test_cases/result_with_screenshot_small/ESPN--23/screenshot_1758113520.png

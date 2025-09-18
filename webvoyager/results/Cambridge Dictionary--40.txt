@@ -1,0 +1,11 @@
+Here’s what I found on the Cambridge Dictionary for “mitigate”:
+
+- Entry: mitigate (verb) [T] formal
+- UK pronunciation: /ˈmɪt.ɪ.ɡeɪt/
+- Definition (English): to make something less harmful, unpleasant, or bad
+- Example (English): It is unclear how to mitigate the effects of tourism on the island.
+
+Source page title: MITIGATE | English meaning - Cambridge Dictionary
+URL: https://dictionary.cambridge.org/dictionary/english/mitigate
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--40/screenshot_1758127069.png

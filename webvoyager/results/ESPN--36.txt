@@ -1,0 +1,37 @@
+Actions taken:
+- Visited ESPN (espn.com), searched for “Lionel Messi,” and opened his player page.
+- Located the “Last 5 Matches” section and extracted the team represented and match results.
+- Captured a screenshot of the results.
+
+Lionel Messi — last 5 games on ESPN:
+1) Team: Inter Miami CF (MIA)
+   Opponent: at Charlotte FC (CLT)
+   Competition: MLS
+   Result: L 3-0
+
+2) Team: Argentina (ARG)
+   Opponent: vs Venezuela (VEN)
+   Competition: World Cup Qualifying — CONMEBOL
+   Result: W 3-0
+
+3) Team: Inter Miami CF (MIA)
+   Opponent: at Seattle Sounders FC (SEA)
+   Competition: Leagues Cup
+   Result: L 3-0
+
+4) Team: Inter Miami CF (MIA)
+   Opponent: vs Orlando City SC (ORL)
+   Competition: Leagues Cup
+   Result: W 3-1
+
+5) Team: Inter Miami CF (MIA)
+   Opponent: vs LA Galaxy (LA)
+   Competition: MLS
+   Result: W 3-1
+
+Teams he has played for in these last 5 matches:
+- Inter Miami CF (4 matches)
+- Argentina (1 match)
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/ESPN--36/screenshot_1758058389.png

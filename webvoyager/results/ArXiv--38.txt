@@ -1,0 +1,23 @@
+Task completed.
+
+What I visited
+- arXiv homepage (https://arxiv.org/)
+- Navigated via About -> arXiv Blog to the blog homepage (https://blog.arxiv.org/)
+- Opened the latest post
+
+ArXiv Blog latest post
+- Title: Attention Authors: Upcoming Scheduled Maintenance to arxiv.org
+- URL: https://blog.arxiv.org/2025/09/16/arxiv-org-maintenance-sep-17-2025/
+- Author: Charles Frankston
+- Publication date: September 16, 2025
+- Categories: arXiv support, arXiv updates
+
+Summary of the post
+- arXiv will perform scheduled database maintenance on Wednesday, September 17, 2025, from 7:00 AM to 9:00 AM EDT.
+- During this window, browsing, viewing, and searching papers on arxiv.org will remain available.
+- All actions requiring login will be disabled, including submissions, account editing, and endorsements.
+- Authors should not plan submissions during this period, as login and submission will be unavailable while servers are upgraded.
+- The maintenance is expected to last two hours. For real-time status updates, users can check https://status.arxiv.org.
+
+Screenshot
+- Saved a screenshot of the article page: test_cases/result_with_screenshot_small/ArXiv--38/screenshot_1758156854.png

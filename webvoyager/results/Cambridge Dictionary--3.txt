@@ -1,0 +1,23 @@
+Here’s what I found on the Cambridge Dictionary for “zeitgeist”:
+
+Source: https://dictionary.cambridge.org/dictionary/english/zeitgeist
+
+Headword: zeitgeist
+Part of speech: noun [ S ]
+
+Definition:
+- the general set of ideas, beliefs, feelings, etc. that is typical of a particular period in history
+
+Pronunciation:
+- UK: /ˈtsaɪt.ɡaɪst/; /ˈzaɪt.ɡaɪst/
+- US: /ˈtsaɪt.ɡaɪst/; /ˈzaɪt.ɡaɪst/
+
+Examples:
+- Put in the contemporary context, this change also mirrored the overall rebellious zeitgeist of civil society, which was beginning to witness protests over many issues. (Cambridge English Corpus)
+- Prognostications-as-theory do not divine the zeitgeist of a cultural period; they are concerned with what can only be described as psychological diagnoses of that period. (Cambridge English Corpus)
+- The public zeitgeist favours non-pharmaceutical treatments. (Cambridge English Corpus)
+- Resistance to regulation has unfortunately become the modern zeitgeist: the ideological spirit of our times. (Hansard)
+- It catches the spirit of the age—the zeitgeist that allows us, as investors, to ensure that our money is invested properly based on companies’ reports of what they are doing. (Hansard)
+
+Screenshot:
+Saved as: test_cases/result_with_screenshot_small/Cambridge Dictionary--3/screenshot_1758157208.png

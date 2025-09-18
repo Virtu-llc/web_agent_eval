@@ -1,0 +1,10 @@
+I went to GitHub, navigated to GitHub Skills, opened the “Resolve merge conflicts” course, and captured the requested details.
+
+Course: Resolve merge conflicts
+Actions learners will perform (as listed on the course page):
+1) Create a pull request
+2) Resolve a merge conflict
+3) Create a merge conflict
+4) Merge your pull request
+
+Screenshot: Attached (screenshot_1758156279.png)

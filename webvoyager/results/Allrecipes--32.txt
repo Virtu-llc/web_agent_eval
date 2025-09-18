@@ -1,0 +1,20 @@
+Here’s a high‑rated slow cooker beef stew from Allrecipes that meets your criteria:
+
+Recipe: Slow Cooker Beef Stew
+URL: https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/
+Rating/Reviews: 4.5 stars with 5,473 ratings and 4,024 reviews
+
+Cooking time (as shown on the recipe page):
+- Cook Time: 4 hrs
+- Total Time: 4 hrs 20 mins
+
+First five ingredients listed:
+1) 2 pounds beef stew meat, cut into 1-inch pieces
+2) 1/4 cup all-purpose flour
+3) 1/2 teaspoon salt
+4) 1/2 teaspoon ground black pepper
+5) 1 1/2 cups beef broth
+
+Note: The directions also mention slow cooker timing guidance: Low for 8–12 hours or High for 4–6 hours (stir and check doneness).
+
+Screenshot: test_cases/result_with_screenshot_small/Allrecipes--32/screenshot_1757976851.png

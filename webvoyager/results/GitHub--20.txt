@@ -1,0 +1,14 @@
+Task completed
+
+Steps taken
+- Navigated to https://github.com/
+- Opened GitHub Copilot’s feature page (GitHub Copilot · Your AI pair programmer)
+- Scrolled to the “Frequently asked questions” section
+- Expanded the “General” FAQ item: “What languages, IDEs, and platforms does GitHub Copilot support?”
+- Captured a screenshot of the visible, expanded answer
+
+Official answer found (from the expanded FAQ on the Copilot page)
+- “All plans are supported in GitHub Copilot in GitHub Mobile. GitHub Mobile for Copilot Pro and Copilot Business have access to Bing and public repository code search. Copilot Enterprise in GitHub Mobile gives you additional access to your organization's knowledge.”
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/GitHub--20/screenshot_1758156108.png

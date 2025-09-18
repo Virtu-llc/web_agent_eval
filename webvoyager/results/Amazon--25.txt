@@ -1,0 +1,12 @@
+Here’s what I found on Amazon for a queen-sized, hypoallergenic, memory-foam mattress topper priced between $50 and $100:
+
+Matching result:
+- Marsail Queen Hypoallergenic 3-inch Gel Memory Foam Mattress Topper, CertiPUR-US Certified
+  - Price seen: $66.99
+  - Notes: Title explicitly includes “Queen,” “Hypoallergenic,” and “Memory Foam,” and the price falls within your $50–$100 range.
+  - This item appears as a Sponsored listing in the results.
+
+Screenshot captured of the results page showing the relevant items:
+- File: test_cases/result_with_screenshot_small/Amazon--25/screenshot_1758050544.png
+
+If you want, I can open the product page to confirm more details (e.g., size selection on the listing page) or gather a couple more qualifying options from deeper in the results.

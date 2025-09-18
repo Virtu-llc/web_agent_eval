@@ -1,0 +1,7 @@
+Here are the results from Google:
+
+- When: November 20 – December 18, 2022
+- Where: Qatar
+- Winner: Argentina (defeated France on penalties after a 3–3 draw in the final)
+
+Screenshot: test_cases/result_with_screenshot_small/Google Search--18/screenshot_1758074521.png

@@ -1,0 +1,10 @@
+What I did:
+- Opened https://dictionary.cambridge.org/ and navigated to the Translate section.
+- Entered “Hello world” into the Translator input and submitted it to run a translation.
+- Identified the translation provider from the widget’s attribution and links (Privacy Policy | Terms of Service) shown beneath the translator.
+
+Result:
+- Translation provider: Google (Google Translate)
+
+Screenshot:
+- Saved a screenshot of the translator with the result and attribution: test_cases/result_with_screenshot_small/Cambridge Dictionary--19/screenshot_1757988851.png

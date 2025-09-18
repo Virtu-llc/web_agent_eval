@@ -1,0 +1,25 @@
+Here’s what I did:
+- Visited https://www.google.com/
+- Searched for “Google Trends monthly trending searches Columbus Ohio”
+- From the results, opened “Monthly trending searches in Columbus, OH | Eventbrite”
+- Landed on the Eventbrite page showing Monthly trending searches in Columbus, OH and browsed the list
+
+Top monthly trending searches shown on the page (first 15 items):
+1) autumn
+2) job fairs
+3) september
+4) labor day weekend
+5) car shows
+6) rave party
+7) speed dating events
+8) singles party
+9) october
+10) kids events today
+11) kidslinked
+12) columbus ohio
+13) drag show
+14) halloween party
+15) poetry
+
+Screenshot taken:
+- File: test_cases/result_with_screenshot_small/Google Search--6/screenshot_1758073127.png

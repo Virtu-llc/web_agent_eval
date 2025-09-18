@@ -1,0 +1,30 @@
+Here’s what I found as the latest matching repository and its main features:
+
+Latest C# repository related to “game development” with >150 stars
+- Repository: Revolutionary-Games/Thrive
+- URL: https://github.com/Revolutionary-Games/Thrive
+- Stars: 3.3k
+- Description: The main repository for the development of the evolution game Thrive.
+- Update recency: Listed as “Updated 2 hours ago” in search results at time of discovery (most recently updated among the results satisfying the query: game development language:C# stars:>150)
+
+Main features (from the repository page and README)
+- Built with C# and Godot:
+  - Core gameplay and systems in C# with Godot scenes and project files (project.godot).
+  - Thrive.csproj and Thrive.sln provided for .NET-based development.
+- Organized, moddable data and structure:
+  - simulation_parameters: JSON files and C# constants to tweak gameplay parameters.
+  - assets: Models and binaries managed via Git LFS to keep the repo lean; editable/raw assets maintained in a separate repository.
+  - src: Core game logic; test: tests for core parts; shaders, native_libs, locale also included.
+- Developer documentation and tooling:
+  - doc folder with engine overview, style guide, setup instructions, learning Godot guides, and translation workflow.
+  - Helper scripts (Scripts) runnable via dotnet, e.g., dotnet run --project Scripts -- help.
+  - CI configuration present (CIConfiguration.yml).
+- Community and localization:
+  - Links to Steam and Itch.io pages, community forums, Discord, and Developer Wiki.
+  - Weblate integration for crowd-sourced translations.
+- Open collaboration:
+  - Contribution guidelines and code of conduct included.
+  - Transparent issue tracking and project planning board available.
+
+Screenshot
+- Saved a screenshot of the repository page: test_cases/result_with_screenshot_small/GitHub--32/screenshot_1758146349.png

@@ -1,0 +1,13 @@
+I visited Google Maps and searched for “parking near Fox Theatre Detroit.” I identified a nearby parking facility that closes at night and confirmed its hours.
+
+Found facility:
+- Name: McLaren Garage
+- Category: Parking garage
+- Address: 90 E Fisher Service Dr, Detroit, MI 48201
+- Phone: (313) 922-6922
+- Hours (as shown on Google Maps): Daily 9 AM – 5 PM
+- Status at time of viewing: Closed ⋅ Opens 9 AM Thu
+- Conclusion: This garage is not open 24 hours and closes at night.
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Google Map--25/screenshot_1758148582.png

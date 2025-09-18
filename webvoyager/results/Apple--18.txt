@@ -1,0 +1,18 @@
+Task completed: Checked Apple’s website for trade‑in offers on the latest iPhone model and captured a screenshot.
+
+What I did
+- Visited https://www.apple.com/
+- Navigated to the latest iPhone model page: iPhone 17 Pro
+- Scrolled to the Apple Trade In section to verify trade‑in availability
+
+Finding
+- On the iPhone 17 Pro product page, Apple displays an “Apple Trade In” section confirming trade‑in offers:
+  - Heading: Apple Trade In
+  - Message: “Get credit toward a new iPhone when you trade in an eligible device.”
+  - Link: “Find your trade‑in value”
+
+Conclusion
+- Yes, Apple has trade‑in offers available for the latest iPhone model (iPhone 17 Pro). The page explicitly invites customers to get credit toward a new iPhone by trading in an eligible device, with a link to check trade‑in value.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Apple--18/screenshot_1757994342.png

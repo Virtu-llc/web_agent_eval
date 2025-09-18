@@ -1,0 +1,9 @@
+Task completed on Cambridge Dictionary.
+
+Translations for “sustainability”:
+- Chinese (Simplified): 可持续性, （可）持续性，永续性
+- French: durabilité, viabilité
+
+Note: Chinese (Traditional) on the page is shown as 可持續性, （可）持續性，永續性.
+
+Screenshot taken: test_cases/result_with_screenshot_small/Cambridge Dictionary--6/screenshot_1758155838.png

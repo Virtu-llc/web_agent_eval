@@ -1,0 +1,9 @@
+Here are the results from Allrecipes:
+
+- Recipe: Cauliflower Pizza Crust
+- URL: https://www.allrecipes.com/recipe/232930/cauliflower-pizza-crust/
+- Rating: 4.3 out of 5 (293 ratings)
+- Prep Time: 15 mins
+- Calories per serving: 59
+
+Screenshot captured: test_cases/result_with_screenshot_small/Allrecipes--20/screenshot_1757987047.png

@@ -1,0 +1,22 @@
+Task completed on Allrecipes.
+
+Selected recipe: Best Chocolate Chip Cookies
+- Rating: 4.6/5
+- Reviews: 14,789 (19,346 ratings)
+- Criteria met: rating ≥ 4.5 and >1,000 reviews
+
+Ingredients:
+- 1 cup butter, softened
+- 1 cup white sugar
+- 1 cup packed brown sugar
+- 2 large eggs
+- 2 teaspoons vanilla extract
+- 1 teaspoon baking soda
+- 2 teaspoons hot water
+- 1/2 teaspoon salt
+- 3 cups all-purpose flour
+- 2 cups semisweet chocolate chips
+- 1 cup chopped walnuts
+
+Screenshot taken of the Ingredients section:
+- File: test_cases/result_with_screenshot_small/Allrecipes--12/screenshot_1758068418.png

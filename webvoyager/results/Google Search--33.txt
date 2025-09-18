@@ -1,0 +1,14 @@
+Task completed.
+
+What I did:
+- Visited https://www.google.com/, searched for “TensorFlow GitHub,” and opened the official tensorflow/tensorflow repository on GitHub.
+- Opened the latest commit from the repository homepage.
+- Retrieved the full SHA from the commit page.
+- Entered the SHA into a visible textbox (“Search within code”) on the commit page and captured a screenshot.
+
+Latest commit SHA:
+56abe8d08f92a6124fc03307d0d4029833da0e7a
+
+Screenshot:
+- Saved with the SHA pasted in the “Search within code” textbox:
+  test_cases/result_with_screenshot_small/Google Search--33/screenshot_1758076086.png

@@ -1,0 +1,8 @@
+Task completed on ESPN.
+
+Top three NBA scoring leaders as of the last day of the regular season (per ESPN’s “NBA Player Stat Leaders, 2024-25 Regular Season” page):
+1) Shai Gilgeous-Alexander — Team: OKC (as shown on ESPN) — 32.7 PPG
+2) Giannis Antetokounmpo — Team: MIL — 30.4 PPG
+3) Nikola Jokic — Team: DEN — 29.6 PPG
+
+Screenshot saved: test_cases/result_with_screenshot_small/ESPN--8/screenshot_1758137937.png

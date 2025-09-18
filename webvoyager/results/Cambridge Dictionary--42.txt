@@ -1,0 +1,14 @@
+Task complete.
+
+Actions performed:
+- Opened https://dictionary.cambridge.org/
+- Accepted cookies to clear the consent banner
+- Opened the language selection panel in the header
+- Switched the site interface from English (UK) to Deutsch by selecting “Deutsch”
+
+Result:
+- The site navigated to https://dictionary.cambridge.org/de/
+- Page title shows in German: “Cambridge Wörterbuch: Bedeutungen, Definitionen & Übersetzungen.”
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--42/screenshot_1757980260.png

@@ -1,0 +1,11 @@
+Task completed:
+- Opened Booking.com
+- Searched for London stays for 2 adults, check-in Sat, Feb 14, 2026 and check-out Sat, Feb 21, 2026
+- Applied filter: Review score “Very Good: 8+”
+- Collected one matching hotel with details and captured a screenshot
+
+Hotel found:
+- Name: Conrad London St James
+- Short description: Westminster Borough, London; 0.6 miles from downtown; Subway Access. Review score: 9.0 Wonderful (865 reviews). Comfort subscore: 9.4.
+
+Screenshot: test_cases/result_with_screenshot_small/Booking--18/screenshot_1758146189.png

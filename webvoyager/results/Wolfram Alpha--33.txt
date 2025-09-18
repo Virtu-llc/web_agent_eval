@@ -1,0 +1,7 @@
+Result found on Wolfram|Alpha:
+- Itaipu Dam annual power generation in 2023: 89.5 TWh (terawatt-hours)
+- Equivalent: 3.222×10^17 J (joules)
+
+I performed the search on Wolfram|Alpha, adjusted the query to correctly interpret “in 2023” (to avoid multiplying by 2023), and captured the result pod.
+
+Screenshot: test_cases/result_with_screenshot_small/Wolfram Alpha--33/screenshot_1758019574.png

@@ -1,0 +1,10 @@
+Here’s the latest MacBook model from Apple’s site and its key specs:
+
+Model: MacBook Air (13-inch and 15-inch) with M4 chip
+- Processor type: Apple M4 chip
+- Memory: 16GB to 32GB unified memory
+- Storage: 256GB to 2TB storage
+
+Source: Apple’s MacBook Air product page (MacBook Air 13-inch and 15-inch - Apple). The page indicates the current MacBook Air features the M4 chip and lists the memory and storage ranges in the lineup comparison section.
+
+Screenshot: test_cases/result_with_screenshot_small/Apple--10/screenshot_1758096140.png

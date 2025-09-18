@@ -1,0 +1,15 @@
+Here’s what I found:
+
+- Closest star system to the Solar System: Alpha Centauri
+  - Source (on page): “Alpha Centauri (α Centauri, α Cen, or Alpha Cen) is a star system … It consists of three stars: … Proxima Centauri is the closest star to the Sun …” (Alpha Centauri - Wikipedia)
+- Discovered planets in the Alpha Centauri system:
+  - Around Proxima Centauri (Alpha Centauri C):
+    - Confirmed: Proxima Centauri b, Proxima Centauri d
+    - Candidate (disputed): Proxima Centauri c
+  - Around Alpha Centauri A (Rigil Kentaurus): A possible Saturn‑mass planet is suggested but not confirmed.
+  - Around Alpha Centauri B (Toliman): No known planets.
+  - Sources (on pages):
+    - “Proxima Centauri has two known exoplanets and one candidate exoplanet: Proxima Centauri b, Proxima Centauri d and the disputed Proxima Centauri c.” (Proxima Centauri - Wikipedia)
+    - “Proxima Centauri has two confirmed planets — Proxima b and Proxima d … A possible but disputed third planet, Proxima c … Rigil Kentaurus may have a Saturn-mass planet … Toliman has no known planets.” (Alpha Centauri - Wikipedia)
+
+Screenshot: test_cases/result_with_screenshot_small/Google Search--24/screenshot_1758075191.png

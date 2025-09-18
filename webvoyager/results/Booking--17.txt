@@ -1,0 +1,36 @@
+Task completed on Booking.com:
+- Destination: Paris, France
+- Dates: Feb 14, 2026 (check-in) to Feb 19, 2026 (check-out), 5 nights
+- Filters applied: Fitness center (Amenities), Review score Very Good: 8+
+- Sort: Top reviewed
+
+Top hotel results shown after applying the filters and sorting (as displayed on the results page):
+1) Hôtel des Arts Montmartre
+   - Review score: 9.6 (Exceptional, 3,224 reviews)
+   - Price: $1,270 total for 5 nights (2 adults)
+   - Location: 18th arr., Paris
+
+2) Hotel La Villa Saint Germain Des Prés
+   - Review score: 9.5 (Exceptional)
+   - Price: Original $2,777, Current $2,471 total for 5 nights (2 adults)
+   - Location: 6th arr., Paris
+
+3) Four Seasons Hotel George V Paris
+   - Review score: 9.5 (Exceptional)
+   - Price: $10,564 total for 5 nights (2 adults)
+   - Location: 8th arr., Paris
+
+4) Hotel Monge
+   - Review score: 9.4 (Wonderful)
+   - Price: Original $1,654, Current $1,472 total for 5 nights (2 adults)
+   - Location: 5th arr., Paris
+
+5) Hôtel Moderniste
+   - Review score: 9.4 (Wonderful)
+   - Price: Original $1,164, Current $1,036 total for 5 nights (2 adults)
+   - Location: 15th arr., Paris
+
+Note: Prices and review counts are exactly as displayed on the page for the specified dates and occupancy.
+
+Screenshot taken of the final, sorted and filtered results:
+- File: test_cases/result_with_screenshot_small/Booking--17/screenshot_1758103065.png

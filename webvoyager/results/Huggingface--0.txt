@@ -1,0 +1,13 @@
+Here is a pre-trained NLP model on Hugging Face that performs sentiment analysis and was last updated within March 2023:
+
+Model: juliensimon/reviews-sentiment-analysis
+- Task: Text Classification (sentiment-analysis)
+- Framework: Transformers (PyTorch)
+- Description: DistilBERT model fine-tuned on English-language product reviews.
+- Last update: Fri, 17 Mar 2023 08:01:25 GMT (visible on the model’s Files and versions page in the commit history)
+
+Model URL: https://huggingface.co/juliensimon/reviews-sentiment-analysis
+
+I verified the March 2023 update by opening the Files and versions tab and checking the latest commit date.
+
+Screenshot: test_cases/result_with_screenshot_small/Huggingface--0/screenshot_1758111573.png

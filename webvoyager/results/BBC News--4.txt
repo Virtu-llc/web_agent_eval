@@ -1,0 +1,32 @@
+Here’s the most recent BBC article I found that directly addresses an economic effect of climate change in Europe, with extractable detail from the page:
+
+Article
+- Title: Why these new tourist taxes may be a good thing
+- Section: BBC Travel (Sustainability / Eco‑tourism)
+- Author: Mizuki Uchiyama
+- Published: 4 August 2025
+- URL: https://www.bbc.com/travel/article/20250801-why-these-new-tourist-taxes-may-be-a-good-thing
+
+Why it’s relevant to Europe’s economic implications of climate change
+- The article details how European destinations—specifically Greece—are introducing climate-linked tourism fees to fund adaptation and resilience. This is a clear, current example of how climate change is altering economic policy and costs in Europe’s tourism economy.
+
+Key points (focused on Europe and the economic angle)
+- Greece’s climate fee replaces the overnight stay tax (introduced January 2024):
+  - Travelers pay €0.50–€10 per night depending on hotel class/season, with surcharges up to €20 per person in peak periods on popular islands (e.g., Mykonos, Santorini).
+  - Expected revenue: about €400m annually.
+  - Intended use: water infrastructure, disaster prevention, and ecosystem restoration (i.e., climate adaptation).
+- Economic mechanism:
+  - Costs shift partly to visitors through modest surcharges that aggregate into substantial adaptation funding for destinations facing climate stressors (heat, drought, storms, fires).
+  - This reframes tourism from pure consumption toward funding preservation/resilience—an economic restructuring in climate-exposed regions.
+- Public acceptance and policy design:
+  - Transparency is critical for legitimacy and willingness to pay (expert quotes emphasize the need for clear reporting).
+  - Although the piece cites best-practice reporting examples (Maldives, New Zealand), the stated goal for Greece is similar: funding climate resilience and infrastructure.
+- Broader trend:
+  - These climate-linked fees are proliferating globally; in Europe, they directly raise destination revenues for adaptation while modestly increasing holiday costs for visitors.
+  - Surveys indicate many travelers are willing to pay if the purpose and use are clear, supporting the economic viability of such measures.
+
+Bottom line
+- In Europe, climate change is prompting new economic instruments—like Greece’s Climate Crisis Resilience Fee—that increase visitor costs to fund adaptation infrastructure and environmental protection. This represents a material, ongoing shift in how European destinations finance climate resilience, especially in tourism-dependent regions.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/BBC News--4/screenshot_1758140634.png

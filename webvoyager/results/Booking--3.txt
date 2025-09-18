@@ -1,0 +1,23 @@
+Actions completed:
+- Opened booking.com
+- Searched for Los Angeles, California, United States
+- Set dates to Dec 18–Dec 21 (3 nights)
+- Applied Property rating filters: 4 stars and 5 stars
+- Stayed on hotels/results page and captured a screenshot
+
+What I found (first 8 properties showing for Los Angeles, Dec 18–21, 3 nights, 4–5 stars):
+- citizenM Los Angeles Downtown — Downtown LA, Los Angeles
+- Hilton Los Angeles Airport — Los Angeles
+- The LINE Hotel LA — Koreatown, Los Angeles
+- Hilton Los Angeles-Culver City, CA — Culver City, Los Angeles
+- StaysPro - luxury Apartments minutes to everything Los Angeles — Koreatown, Los Angeles
+- Fairmont Century Plaza Los Angeles at Beverly Hills — Century City, Los Angeles
+- The Sun Rose West Hollywood — West Hollywood, Los Angeles
+- Hollywood Boutique Residences with Free Parking — Hollywood, Los Angeles
+
+Note:
+- The results page displays “3 nights, 2 adults” on the listings, confirming the date range Dec 18–21.
+- Property rating filters applied: 4 stars and 5 stars. Some non-hotel stays with similar quality ratings may appear; Booking shows a link to “Show hotels only.”
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Booking--3/screenshot_1758117311.png

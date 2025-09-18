@@ -1,0 +1,12 @@
+Here are the results from Wolfram|Alpha:
+
+1) Mass of Jupiter compared to Earth
+- Ratio (Earth = 1): 317.8
+- Jupiter mass: 1.898×10^27 kg
+- Earth mass: 5.97×10^24 kg
+
+2) Length of one day on Jupiter
+- Result: 9.925 hours (sidereal)
+- Equivalent: 9 hours 55 minutes 30 seconds
+
+Screenshot saved: test_cases/result_with_screenshot_small/Wolfram Alpha--34/screenshot_1758007160.png

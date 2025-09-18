@@ -1,0 +1,11 @@
+Task completed: Found a vegetarian lasagna recipe using zucchini with at least a 4-star rating on Allrecipes and captured a screenshot.
+
+Recipe details:
+- Title: Eggless Zucchini Lasagna
+- URL: https://www.allrecipes.com/recipe/229288/eggless-zucchini-lasagna/
+- Rating: 5.0 out of 5 (4 reviews)
+- Uses zucchini: Yes (ingredient list includes “3 large zucchini, trimmed and cut lengthwise into long strips”)
+- Summary: A vegetarian lasagna made with zucchini, olive oil, onion, garlic, breadcrumbs, Parmesan (optional), Italian herb seasoning, and tomato sauce.
+
+Screenshot:
+- Saved file: test_cases/result_with_screenshot_small/Allrecipes--1/screenshot_1758025579.png

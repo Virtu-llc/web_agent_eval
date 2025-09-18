@@ -1,0 +1,12 @@
+Here are the thermal conductivities at 25°C from Wolfram|Alpha:
+
+- Copper (Cu): 401.2 W/(m·K)
+- Aluminum (Al): 236.9 W/(m·K)
+
+Action taken:
+- Visited https://www.wolframalpha.com/
+- Queried for “thermal conductivity of copper at 25 C” and “thermal conductivity of aluminum at 25 C”
+- Extracted results from the Wolfram|Alpha result pages
+- Captured a screenshot of the final result page
+
+Screenshot saved: test_cases/result_with_screenshot_small/Wolfram Alpha--27/screenshot_1758157544.png

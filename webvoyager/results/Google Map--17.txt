@@ -1,0 +1,32 @@
+Actions taken:
+- Opened Google Maps
+- Searched for “locksmiths Texas City”
+- Applied the Hours filter: Open now
+- Reviewed the results list and excluded entries marked “Open 24 hours”
+- Took a screenshot of the results
+
+Locksmiths open now but not open 24 hours (as shown on Google Maps):
+1) Liberty Safe & Locksmith Shop
+- Address: 176 Gulf Fwy S Ste. A-3
+- Hours: Closes soon ⋅ 6 PM ⋅ Opens 10 AM Thu
+- Phone: (281) 334-7233
+
+2) KeyMe Locksmiths
+- Address: 1920 W League City Pkwy
+- Hours: Open ⋅ Closes 11 PM
+- Phone: (281) 864-3140
+
+3) KeyMe Locksmiths
+- Address: 2750 E League City Pkwy
+- Hours: Open ⋅ Closes 11 PM
+- Phone: (409) 204-0501
+
+4) All Star Lock & Key
+- Address: 1101 Glenshannon Ave
+- Hours: Closes soon ⋅ 6 PM ⋅ Opens 8 AM Thu
+- Phone: (281) 382-7235
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Google Map--17/screenshot_1758146491.png
+
+Note: Listings explicitly labeled “Open 24 hours” (e.g., Anytime Lock & Safe Inc., Local Galveston Locksmith, Island Locksmith, Locksmith 4 Life, Skilled Locksmith, First Class Locksmiths, Alamo key & lock, RoadRunner Locksmith) were excluded. Results are based on what Google Maps displays at the time of search.

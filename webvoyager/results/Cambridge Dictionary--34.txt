@@ -1,0 +1,137 @@
+Actions taken:
+- Opened https://dictionary.cambridge.org/
+- Navigated via Grammar > Adjectives and adverbs > Adjectives > Comparative and superlative adjectives
+- Opened “Comparison: adjectives (bigger, biggest, more interesting)” article
+- Captured a screenshot at the end
+
+What I found on Cambridge Dictionary (English Grammar Today):
+
+Definitions and basic use
+- Comparative adjectives: compare one person/thing with another; show more or less of a quality
+  - Examples: 
+    - Josh is taller than his sister.
+    - I’m more interested in music than sport.
+    - Big cars that use a lot of petrol are less popular now than twenty years ago.
+- Superlative adjectives: describe one person/thing as having more of a quality than all others in a group
+  - Examples:
+    - The ‘Silver Arrow’ will be the fastest train in the world when it is built.
+    - The most frightening film I’ve ever seen was Alfred Hitchcock’s ‘Psycho’.
+    - What is the least expensive way of travelling in Japan?
+- Comparative vs superlative
+  - Comparative compares two: Joe’s older than Mike.
+  - Superlative compares with the whole group: Sheila is the youngest girl in the family.
+  - With only two in the group, traditional usage prefers the comparative (Who is younger, Rowan or Tony?), though informal speech sometimes uses the superlative (Jan’s the tallest).
+
+Forming comparatives and superlatives
+
+1) One-syllable adjectives (big, cold, hot, long, nice, old, tall)
+- Comparative: add -er
+  - It’s colder today than yesterday.
+  - It was a longer holiday than the one we had last year.
+- Superlative: add -est (usually with the)
+  - I think that’s the biggest apple I’ve ever seen!
+  - … was the tallest building in the world.
+  - Richard is the oldest and Simon is the youngest.
+
+Spelling patterns (one syllable)
+- Most adjectives: cheaper/cheapest; richer/richest
+- Ending in -e: finer/finest; nicer/nicest
+- One vowel + one consonant: double final consonant (bigger/biggest; hotter/hottest; thinner/thinnest)
+
+Irregular one-syllable adjectives
+- bad, worse, worst
+  - I think that was the worst film I’ve ever seen!
+- far, farther/further, farthest/furthest
+  - Pluto is the furthest planet from the sun in our solar system.
+- good, better, best
+  - The morning flight is better than the afternoon one.
+- old, older/elder, oldest/eldest
+  - His elder sister works for the government.
+- Warning: do not use more/most with -er/-est forms
+  - They are looking for a better life. Not: a more better life
+  - One of the biggest. Not: the most biggest
+
+2) Two-syllable adjectives
+- Ending in -y: y → i + -er/-est
+  - busy, busier, busiest; happy, happier, happiest; easy, easier, easiest; funny, funnier, funniest
+  - We were busier last week than this week.
+  - Are you happier now …?
+  - That was the easiest exam I’ve ever taken.
+- Some other two-syllables (especially with an unstressed final vowel) can take -er/-est:
+  - cleverer/cleverest; quieter/quietest; narrower/narrowest; simpler/simplest
+  - I’ve always thought Donald was cleverer than his brother.
+- Adjectives ending in -ful: use more/most/least, not -er/-est
+  - more useful (Not: usefuller)
+  - more careful; the most useful; the least harmful
+
+3) Longer adjectives (three or more syllables)
+- Comparative: more/less + adjective
+  - The second lecture was more interesting than the first.
+  - That way … seems less complicated to me.
+- Superlative: most/least + adjective
+  - London is the most popular tourist destination in England.
+  - The least expensive option is to rent an apartment.
+
+Using comparatives and superlatives
+
+- Intensifying or softening comparatives
+  - Stronger: much/a lot/far/even/rather + comparative; or comparative + than ever
+    - This food is much better than the food we had yesterday.
+    - The town is a lot more crowded these days …
+    - Alex is far less intelligent than the other kids …
+    - We’ve been busier than ever …
+  - Softer: a little/a bit + comparative
+    - She feels a little more confident now …
+- Using than
+  - Use than before the second item; with pronouns, use object forms in neutral style
+    - You’re stronger than me. (neutral) In formal style: … than I am.
+    - Marie is more experienced than him. (formal: … than he was.)
+- Increasing change
+  - -er and -er: The weather is getting hotter and hotter.
+  - more and more: I’m getting more and more interested in conservation …
+- Parallel increases (the …, the …)
+  - The colder it is, the hungrier I get.
+  - The more generous you are … the more generous they are …
+- Reduced forms after comparatives (avoid repeating predictable parts)
+  - The exam results were better than predicted.
+  - Temperatures … were higher than previously recorded.
+- Less and not as/not so …
+  - Use less with longer adjectives: The second method was less complicated …
+  - For short adjectives, prefer not as/not so … as: This new laptop is not as fast as my old one. (preferable to “less fast”)
+- Prepositions after superlatives
+  - With singular place/group names use in, not of:
+    - The oldest building in the city. Not: of the city
+    - The youngest musician in the orchestra.
+  - Use of with plural group words:
+    - … the prettiest of them all.
+- The with superlatives
+  - Before a noun: use the
+    - This is the best meal I’ve had for a long time.
+  - Informally, after linking/sense verbs and without a noun, the can be omitted:
+    - Which looks best?
+    - Email is quickest.
+- Other determiners with superlatives
+  - Possessives and numbers possible:
+    - My worst score ever …
+    - the second biggest city …
+    - His two best friends …
+- Emphasising superlatives: by far, easily, of all; (formal) quite
+  - by far the most successful …
+  - by far the least complicated
+  - easily the best dancer …
+  - the best poem of all …
+  - quite the most irresponsible behaviour …
+- To-infinitives after superlatives
+  - the oldest person to compete …
+  - the largest sailing-ship ever to be used in battle
+
+Typical errors to avoid
+- Use than after comparatives (not that/as):
+  - more expensive than the first one. Not: that/as the first one
+- With singular place/group names, don’t use of after a superlative:
+  - the tallest girl in the team. Not: of the team
+- Use the superlative (not comparative) when comparing more than two:
+  - Which is the city’s biggest hotel? Not: bigger hotel
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--34/screenshot_1758155021.png (shows the Cambridge “Comparison: adjectives (bigger, biggest, more interesting)” page used for the rules above)

@@ -1,0 +1,16 @@
+Task completed: Found an introductory Project Management course on Coursera with Agile methodology modules and captured a screenshot.
+
+Course found
+- Title: Project Management Tools Techniques and Agile Frameworks
+- Provider: Simplilearn (on Coursera)
+- Level: Beginner
+- Duration: ~6 hours to complete (Flexible schedule)
+- Modules: 2 modules
+- Evidence of Agile content:
+  - Module 1: Includes “Understand Agile frameworks” within Fundamentals of Project Management.
+  - Module 2: Includes “Agile Project Management frameworks” and additional practical project management topics.
+- Skills listed include: Agile Project Management, Project Planning, Scheduling, Requirements Management, Quality Management, Risk Management, Earned Value Management, and more.
+- Course link: https://www.coursera.org/learn/project-management-tools-techniques-and-agile-frameworks
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Coursera--14/screenshot_1758156194.png

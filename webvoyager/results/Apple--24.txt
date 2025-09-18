@@ -1,0 +1,8 @@
+Task completed
+
+- Visited: https://www.apple.com/
+- Navigated: Mac > iMac
+- Found price text on the iMac product page: “From $1299”
+- This is the starting price shown for the most recent iMac model on Apple’s website.
+
+Screenshot captured: test_cases/result_with_screenshot_small/Apple--24/screenshot_1758016534.png

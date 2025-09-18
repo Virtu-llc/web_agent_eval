@@ -1,0 +1,8 @@
+Here’s what I found on Apple’s website:
+
+- Latest iPhone model: iPhone 17
+- Release date: “Available starting 9.19” (as shown on the Apple.com homepage hero for iPhone 17)
+- Price: “From $799” (shown on the iPhone 17 product page)
+
+Screenshot taken (shows the iPhone 17 card with the “From $799” price):
+test_cases/result_with_screenshot_small/Apple--5/screenshot_1758112125.png

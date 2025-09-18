@@ -1,0 +1,36 @@
+Actions performed:
+- Opened Google Flights
+- Set trip to One-way, Economy
+- From: Pune (PNQ)
+- To: New York (NYC)
+- Departure date: Thu, Jan 15, 2026
+- Searched and extracted layover (transfer) times from the results
+- Took a screenshot of the results page
+
+Transfer times (layovers) for top results on Jan 15:
+Top flights
+1) Air India + SWISS — 2 stops — Total 27 hr 5 min
+   - Layover 1: 3 hr 5 min (New Delhi – DEL)
+   - Layover 2: 3 hr 30 min (Zürich – ZRH)
+
+2) IndiGo + American — 1 stop — Total 24 hr 15 min
+   - Layover: 5 hr (New Delhi – DEL)
+
+3) IndiGo + Virgin Atlantic — 2 stops — Total 26 hr 34 min
+   - Layover 1: 2 hr 50 min (overnight) (New Delhi – DEL)
+   - Layover 2: 3 hr 10 min (London – LHR)
+
+Cheapest options
+4) Air India + LOT — 2 stops — Total 30 hr 15 min — From $585 (to Newark – EWR)
+   - Layover 1: 4 hr 20 min (overnight) (New Delhi – DEL)
+   - Layover 2: 5 hr 20 min (Warsaw – WAW)
+
+5) Air India + LOT — 2 stops — Total 30 hr 25 min — From $585 (to JFK)
+   - Layover 1: 4 hr 20 min (overnight) (New Delhi – DEL)
+   - Layover 2: 5 hr 30 min (Warsaw – WAW)
+
+Note:
+- All details above are exactly as shown by Google Flights for one-way Economy, departing Thu, Jan 15, 2026.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Google Flights--9/screenshot_1758112790.png

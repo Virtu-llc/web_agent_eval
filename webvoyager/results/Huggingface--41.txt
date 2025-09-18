@@ -1,0 +1,13 @@
+Here’s what I found on Hugging Face:
+
+- Top Text-to-3D model by downloads: microsoft/TRELLIS-text-xlarge
+- Downloads (last month): 16,179
+- Spaces using this model: Yes — 6 Spaces
+  - yejunliang23/ShapLLM-Omni
+  - PUM4CH3N/TRELLIS_TextTo3D
+  - souging/TRELLIS_TextTo3D
+  - PlagueEvgeny/TextTo3D
+  - mlactimel/tr
+  - RihemXX/TRELLIS_TextTo3D
+
+Screenshot saved: test_cases/result_with_screenshot_small/Huggingface--41/screenshot_1758044833.png

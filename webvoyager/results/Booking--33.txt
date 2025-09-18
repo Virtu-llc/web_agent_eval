@@ -1,0 +1,14 @@
+Here’s what I found on Booking.com’s Help Center under Cancellations:
+
+Question: How do I know if my booking was canceled?
+Answer from Booking.com:
+- After you cancel a booking with Booking.com, you should receive an email confirming the cancellation.
+- Check your inbox and your spam/junk folder.
+- If you don’t receive an email within 24 hours, contact the property to confirm they received your cancellation.
+
+Screenshot: test_cases/result_with_screenshot_small/Booking--33/screenshot_1758066180.png
+
+What I did:
+- Opened booking.com and navigated via the site header to Customer support (Help Center).
+- Opened Frequently asked questions > Cancellations.
+- Selected “How do I know if my booking was canceled?” and extracted the official answer.

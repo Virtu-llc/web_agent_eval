@@ -1,0 +1,20 @@
+Done. I found the closest hotel to National University of Singapore for January 3–6 (assumed 2026) under $500 and captured a screenshot of the final availability page.
+
+Result
+- Hotel: ibis budget Singapore West Coast
+- Address: 418 Pasir Panjang Road, 118759 Singapore
+- Distance to NUS: 0.6 miles (tied for the closest option shown)
+- Dates: Sat, Jan 3 – Tue, Jan 6 (3 nights)
+- Room type (example): Standard Twin Room (No Window)
+- Price: $292 total for 3 nights (Included: 10% service charge; Excluded: 9.9% tax)
+- Notes: Multiple properties are shown at 0.6 miles; this is one of the tied-closest and is within the $500 total budget.
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Booking--7/screenshot_1757995289.png
+
+Actions taken
+- Searched for “National University of Singapore” on Booking.com.
+- Set dates to Jan 3–6, 2026.
+- Reviewed listings and identified the properties closest to NUS (0.6 miles).
+- Selected ibis budget Singapore West Coast (0.6 miles) with total price $292 for 3 nights.
+- Opened the hotel’s page with availability for the specified dates and took a screenshot.

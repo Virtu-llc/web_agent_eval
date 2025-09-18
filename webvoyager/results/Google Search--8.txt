@@ -1,0 +1,15 @@
+Task completed.
+
+What I did:
+- Visited https://www.google.com/, searched for "Oscars 2023: Must-See Moments! site:youtube.com"
+- Opened the YouTube result “Oscars 2023: Must-See Moments!” (Entertainment Tonight)
+- Scrolled to the comments section and captured the first displayed comment details
+- Took a screenshot at the final step
+
+Results from the YouTube page:
+- First comment author: @HotFuzzGoonayorum
+- Thumbs up (likes): 398
+- Replies: 0 (no replies button shown under this comment)
+
+Screenshot saved:
+- test_cases/result_with_screenshot_small/Google Search--8/screenshot_1758071461.png

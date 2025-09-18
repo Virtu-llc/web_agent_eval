@@ -1,0 +1,12 @@
+Task completed on coursera.org
+
+Specialization identified:
+- Name: Programming in C++: A Hands-on Introduction Specialization (offered by Codio)
+
+Learning outcomes (from the “What you’ll learn” section on the page):
+- Automate everyday, repetitive tasks using C++ programs
+- Create engaging, graphical based programs
+- Develop a firm foundation of Computer Science concepts you can bring to any language you learn
+
+Screenshot captured:
+- File: test_cases/result_with_screenshot_small/Coursera--5/screenshot_1758161201.png

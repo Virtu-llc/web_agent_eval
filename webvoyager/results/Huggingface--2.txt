@@ -1,0 +1,28 @@
+Here’s what I did:
+- Visited Hugging Face Models
+- Applied filters: Tasks = Translation, Licenses = apache-2.0 (open-source)
+- Sorted by: Recently created
+- Identified three new and popular translation models (created within the past month) with notable downloads
+
+Findings (from the listing cards):
+1) mradermacher/Sanskrit-Qwen2.5-7B-chat-GGUF
+   - Timestamp shown: Sat, 13 Sep 2025
+   - Card info: Translation • 8B • Updated 5 days ago • 1.11k downloads
+   - License context: Filtered by apache-2.0
+
+2) AlekseyCalvin/Lyrical_MT_ru2en_var1_Qwen25_3B_ORPO_r128ft-Q4_K_M-GGUF
+   - Timestamp shown: Sun, 07 Sep 2025
+   - Card info: Translation • 3B • Updated 11 days ago • 150 downloads
+   - License context: Filtered by apache-2.0
+
+3) ThaiAn/madlad400-3b-mt-Q4_K_M-GGUF
+   - Timestamp shown: Tue, 09 Sep 2025
+   - Card info: Translation • 3B • Updated 9 days ago • 137 downloads
+   - License context: Filtered by apache-2.0
+
+Screenshot (filters and results page):
+- Saved to: test_cases/result_with_screenshot_small/Huggingface--2/screenshot_1758152883.png
+
+Notes:
+- “Recently created” ordering and the timestamps confirm these listings are new (within the last month).
+- The license filter was set to apache-2.0 to ensure the selections are open-source.

@@ -1,0 +1,8 @@
+Here’s what I found according to FlightAware:
+
+- Busiest airport last week: KORD
+- Total arrivals and departures last week: 15,433
+
+I captured a screenshot of the FlightAware page section showing “Trends from the last week” with the “Busiest Airport: KORD” and the total count.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Search--11/screenshot_1758074237.png

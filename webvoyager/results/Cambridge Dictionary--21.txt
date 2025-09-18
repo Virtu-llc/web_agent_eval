@@ -1,0 +1,10 @@
+Task completed.
+
+- Site: Cambridge Dictionary
+- Search term: ephemeral
+- Dictionary used: English–Spanish
+- Spanish translation found:
+  - efímero
+  - Also shown in PASSWORD English–Spanish Dictionary: efímero, pasajero
+
+Screenshot: test_cases/result_with_screenshot_small/Cambridge Dictionary--21/screenshot_1758103219.png

@@ -1,0 +1,13 @@
+Here’s what I did and found:
+
+- Navigated to BBC News > Sport > Golf > Leaderboard, switched the section filter to “Women’s Majors,” and opened the current Women’s Open leaderboard.
+- Counted nationalities among players in the top 20 (including ties).
+
+Result:
+- Most players in the top 20 by country: Tie between Japan and England (4 players each).
+  - Japan: Miyu Yamashita (1), Minami Katsu (T2), Rio Takeda (T4), Mao Saigo (T11)
+  - England: Charley Hull (T2), Lottie Woad (T8), Mimi Rhodes (T19), Georgia Hall (T19)
+- Best Australian in the top 20: Stephanie Kyriacou, in T-8th place (4 under par). Next best Australian is Minjee Lee, T-13th (2 under par).
+
+Screenshot:
+- Saved a screenshot of the Women’s Majors (Women’s Open) leaderboard: test_cases/result_with_screenshot_small/BBC News--41/screenshot_1758096605.png

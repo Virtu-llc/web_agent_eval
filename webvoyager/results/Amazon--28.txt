@@ -1,0 +1,21 @@
+Task completed: I found a yoga mat on Amazon that meets all your criteria and captured a screenshot of the final product page.
+
+Matching product found:
+- Title: IUGA Yoga Mat Non Slip Anti-tear Pilates Mat Eco Friendly Hot Yoga Mats Thick for Workout & Exercise (72" x 24" x 6mm)
+- Price: $36.99 (Buy new)
+- Thickness: 6mm (0.25 inches) — shown in title and Product Dimensions
+- Non-slip: Stated in the title
+- Eco-friendly: Stated in the title; Material listed as Thermoplastic Elastomers (TPE)
+- Product Dimensions (from page): 72"L x 24"W x 0.25"Th
+- Page URL: https://www.amazon.com/IUGA-Textured-Reversible-Friendly-Carrying/dp/B078DZ44YP/ref=sr_1_6?keywords=yoga%2Bmat%2B6mm%2Bnon-slip%2Beco%2Bfriendly&sr=8-6&th=1
+
+Why it matches:
+- At least 6mm thick: Yes (6mm / 0.25")
+- Non-slip: Yes
+- Eco-friendly: Yes (explicitly stated; TPE material)
+- Under $50: Yes ($36.99)
+
+Screenshot:
+- Saved file: test_cases/result_with_screenshot_small/Amazon--28/screenshot_1758039660.png
+
+If you want, I can also shortlist a few more options under $50 with similar specs.

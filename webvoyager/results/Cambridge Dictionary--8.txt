@@ -1,0 +1,8 @@
+Task completed on Cambridge Dictionary.
+
+Three different meanings of “dog” (from the English entry):
+- A1 a common animal with four legs, especially kept by people as a pet or to hunt or guard things:
+- slang a man who is unpleasant or not to be trusted:
+- to follow someone closely and continuously:
+
+Screenshot taken: test_cases/result_with_screenshot_small/Cambridge Dictionary--8/screenshot_1758164852.png

@@ -1,0 +1,24 @@
+Here’s what I did and found:
+
+Setup
+- Site: Google Flights
+- Route: Lisbon (LIS) → Singapore (SIN)
+- Trip: One-way
+- Date: Oct 15, 2025
+- Cabin: Business
+
+Cheapest options found (Business class)
+- Selected flight: Etihad + Batik Air, 2 stops (AUH, KUL), departs Wed, Oct 15 at 8:55 AM, arrives Thu, Oct 16 at 11:30 AM; total 19 hr 35 min.
+- Booking options displayed for this flight:
+  - martiGO: $2,759 (≈ €2,334) – Continue to book with martiGO
+  - Gotogate: $2,785 (≈ €2,356) – Continue to book with Gotogate
+  - Kiwi.com: $2,845 (≈ €2,406) – Continue to book with Kiwi.com
+  - Call Etihad to book: $2,790 (≈ €2,360) – Price includes an estimated airline phone service fee of $25
+
+Cheapest provider
+- martiGO at $2,759 (≈ €2,334)
+
+Screenshot
+- Saved at: test_cases/result_with_screenshot_small/Google Flights--34/screenshot_1758153023.png
+
+If you’d like, I can select a different flight (e.g., fastest or 1-stop) and list its booking options too.

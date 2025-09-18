@@ -1,0 +1,10 @@
+Result:
+- Musician in the headline: Sabrina Carpenter (headline: “Sabrina Carpenter and Justin Bieber to headline Coachella 2026”)
+
+What I did:
+- Visited https://www.bbc.com/news/.
+- Navigated via the site header to Culture and located the Music section content.
+- Identified the top Music News headline naming Sabrina Carpenter (alongside Justin Bieber).
+
+Screenshot:
+- Saved screenshot showing the headline: test_cases/result_with_screenshot_small/BBC News--9/screenshot_1758099036.png

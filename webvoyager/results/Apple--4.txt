@@ -1,0 +1,11 @@
+Here’s the price I found on Apple.com for the requested configuration:
+
+- Product: 16‑inch MacBook Pro
+- Chip: Apple M4 Max with 16‑core CPU, 40‑core GPU
+- Memory: 48GB unified memory (default for this config)
+- Storage: 1TB SSD
+- Price: $3,999.00 (or $333.25/mo. for 12 months with Apple Card Monthly Installments)
+
+I navigated to the 16‑inch model, selected the M4 Max (16‑core CPU, 40‑core GPU) with 1TB SSD configuration, and captured the price shown on the customization page.
+
+Screenshot captured: test_cases/result_with_screenshot_small/Apple--4/screenshot_1758134622.png

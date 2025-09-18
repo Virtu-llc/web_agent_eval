@@ -1,0 +1,15 @@
+Here’s what I found on Google Maps:
+
+Restaurant: Boston Sail Loft (Boston, MA)
+- Rating: 4.6 (5,664 reviews) as shown on the page
+- Query used: “Boston lobster restaurant Boston”
+- Action taken: Opened Boston Sail Loft, went to Reviews, sorted by Lowest rating to view 1-star reviews
+
+Example 1-star review (first one shown after sorting by Lowest rating):
+- Reviewer: Yakov Plotkin
+- Rating: 1 star
+- Date: a week ago
+- Full review text:
+  "The worst seafood I have Ever ate in my life. Fish was not fresh moreover really didn’t smell bad. On my request waiter came and brought manager. They were very friendly and cooperative and offered choices. I ask for another dish and it was better at least not stinky butI cannot say it was good, fish was pretty plain, vegetables not tasty. My wife’s dish wasn’t cooked right at all, fish was overcooked, dry and not chew able."
+
+Screenshot: test_cases/result_with_screenshot_small/Google Map--40/screenshot_1758147148.png

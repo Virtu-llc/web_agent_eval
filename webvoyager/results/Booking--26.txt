@@ -1,0 +1,26 @@
+Actions completed on Booking.com:
+- Searched “Paris” with dates Fri, Feb 20 — Mon, Feb 23, 2026 (2 adults, 1 room).
+- Applied filters:
+  - Parking
+  - Property rating: 3, 4, 5 stars
+  - Review score: Very Good (8+)
+
+What I found:
+- Booking.com shows many options that match 3-star or higher, Parking, and guest rating 8.0+. Examples (from the current results list for the specified dates):
+  - Campanile Prime Paris 19 - La Villette — Scored 8.4 — Price $283 (3 nights)
+  - Hôtel De Nice — Scored 8.2 — Price $518 (3 nights)
+  - Lenox Montparnasse — Scored 9.0 — Current price $445 (3 nights)
+  - Hotel Orphée - Orso Hotels — Scored 8.4 — Current price $356 (3 nights)
+  - Hotel De Suez — Scored 8.8 — Current price $431 (3 nights)
+  - Hôtel AMI - Orso Hotels — Scored 8.8 — Current price $385 (3 nights)
+  - La Perle Saint Germain des Prés — Scored 8.8 — Price $708 (3 nights)
+  - Hotel Le Notre Dame Saint Michel — Scored 8.3 — Current price $792 (3 nights)
+  - Hotel Bastille Speria — Scored 8.9 — Current price $677 (3 nights)
+  - Passy Eiffel — Scored 8.6 — Price $530 (3 nights)
+
+Note:
+- The Parking and 3-star+ filters are shown as applied; Review score Very Good (8+) filter is also selected, so results match the requested criteria.
+- Prices and availability are what Booking.com displayed at the time of checking and can change.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Booking--26/screenshot_1758014383.png

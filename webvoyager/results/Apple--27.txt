@@ -1,0 +1,18 @@
+Task complete.
+
+What I did:
+- Visited Apple’s website and navigated to the “Buy HomePod mini” page in the Apple Store.
+- Located the “Color” options on the product configuration page.
+
+Answer:
+- HomePod mini is available in multiple colors.
+- Colors listed on Apple’s buy page:
+  - Blue
+  - Yellow
+  - Midnight
+  - White
+  - Orange
+
+Screenshot:
+- Saved showing the color selector on the HomePod mini purchase page.
+- File: test_cases/result_with_screenshot_small/Apple--27/screenshot_1758065598.png

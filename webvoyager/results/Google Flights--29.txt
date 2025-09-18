@@ -1,0 +1,21 @@
+Here’s what I found on Google Flights for Mexico City (MEX) to Frankfurt am Main (FRA), round trip, departing Nov 5, 2025 and returning Nov 15, 2025, filtered to Nonstop only:
+
+Summary
+- Number of nonstop options found: 1
+
+Nonstop option
+- Airline: Lufthansa
+- Round-trip price: $2,682 (Google Flights indicates prices include required taxes and fees for 2 adults)
+- Outbound (nonstop):
+  - Date: Wed, Nov 5, 2025
+  - Time: 9:00 PM (MEX) → 2:40 PM (+1 day) (FRA)
+  - Total travel time: 10 hr 40 min
+- Return (nonstop):
+  - Date: Sat, Nov 15, 2025
+  - Time: 1:40 PM (FRA) → 7:00 PM (MEX)
+  - Total travel time: 12 hr 20 min
+
+Note: Only one nonstop itinerary is available for the specified dates. All other options shown were 1-stop itineraries.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Flights--29/screenshot_1758114973.png

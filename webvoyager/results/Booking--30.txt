@@ -1,0 +1,12 @@
+Here’s what I did and found:
+
+- Opened Booking.com
+- Searched for: London
+- Set dates: March 20, 2026 to March 23, 2026
+- Applied filters: Breakfast included and Fitness center
+
+Result:
+- Properties left after applying both filters: 262
+
+Screenshot:
+- Saved at: test_cases/result_with_screenshot_small/Booking--30/screenshot_1757988709.png

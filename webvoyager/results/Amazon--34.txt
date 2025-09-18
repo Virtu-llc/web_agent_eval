@@ -1,0 +1,12 @@
+Task completed: Found a beginner-friendly acrylic paint set on Amazon that meets all criteria (≥24 colors, suitable for canvas, under $40) and captured a screenshot.
+
+Result
+- Product: Complete Acrylic Paint Set – 24× Rich Pigment Colors – 12x Art Brushes with Bonus Paint Art Knife & Sponge – for Painting Canvas, Clay, Ceramic & Crafts, Non-Toxic & Quick Dry – for Kids & Adults (Benicci)
+- Price: $14.97
+- Colors: 24 colors (12 ml tubes)
+- Suitable for canvas: Yes (explicitly stated “for Painting Canvas” in the title)
+- Availability: In Stock (at time of visit)
+- Link: https://www.amazon.com/Complete-Acrylic-Paint-Set-Non-Toxic/dp/B01N6J48YY
+
+Screenshot
+- Saved as: test_cases/result_with_screenshot_small/Amazon--34/screenshot_1758107885.png

@@ -1,0 +1,60 @@
+Task completed.
+
+What I did
+- Visited arXiv.org and navigated to the Help section.
+- Located the “Email subscriptions for new papers” help page with instructions on subscribing to daily listing emails for new submissions in specific categories.
+- Took a screenshot of the final page with the instructions.
+
+Where the instructions are
+- Page title: Email subscriptions for new papers
+- URL: https://info.arxiv.org/help/subscribe.html
+
+Instructions (as shown on the page)
+- Important email format
+  - The subscription request email must be plain ASCII text.
+  - Rich text emails will be ignored.
+  - UTF-8 characters in the Subject field will be ignored.
+
+- Determine the archive and address
+  - Determine which archive you want and obtain its email address from the list of available archives.
+
+- If the archive is divided into subject classes (e.g., math, physics, cs, q-bio, q-fin)
+  - You subscribe to a specific category by including the category in the body.
+  - Example (subscribe to Biophysics and unsubscribe from Plasma Physics via physics):
+    - To: physics@arxiv.org
+    - Subject: subscribe John Smith
+    - add Biophysics
+    - del Plasma Physics
+  - You may use short subject class codes. Example (subscribe to Risk Management q-fin.RM):
+    - To: q-fin@arxiv.org
+    - Subject: subscribe John Smith
+    - add RM
+
+- If the archive is NOT divided into subject classes
+  - Send an email:
+    - To: arch-ive@arxiv.org
+    - Subject: subscribe Your Full Name
+  - Example (subscribe to the entire quant-ph archive):
+    - To: quant-ph@arxiv.org
+    - Subject: subscribe John Smith
+  - Note: For subdivided archives like cond-mat, this form subscribes you to ALL subject classes in that archive.
+
+- Handling subsets within the physics family (including astro-ph, cond-mat, nlin)
+  - Use the physics archive to subscribe to any combination or subset.
+  - Example (subscribe only to Soft Condensed Matter and Superconductivity within cond-mat):
+    - To: physics@arxiv.org
+    - Subject: subscribe John Smith
+    - add Soft Condensed Matter
+    - add Superconductivity
+  - If changing from all of astro-ph to just astro-ph.EP:
+    - First cancel the astro-ph subscription, then subscribe to EP via physics.
+
+- Cancel your subscription
+  - To cancel:
+    - To: arch-ive@arxiv.org
+    - Subject: cancel
+  - For canceling a specific subject class in classified archives, use del in the subscribe command as shown above.
+  - If you’re subscribed via a remote listserv or local distribution list, you must contact that list’s administrator (check headers in your daily mailing to determine origin).
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/ArXiv--22/screenshot_1758106900.png

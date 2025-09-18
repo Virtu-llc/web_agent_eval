@@ -1,0 +1,6 @@
+Here are the ratings for the movie Prometheus (2012), as displayed on Google’s results page:
+
+- IMDb: 7/10
+- Rotten Tomatoes: 73%
+
+Screenshot captured: test_cases/result_with_screenshot_small/Google Search--9/screenshot_1757983466.png

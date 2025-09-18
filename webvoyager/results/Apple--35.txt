@@ -1,0 +1,14 @@
+Here’s what I found on Apple’s website:
+
+- Number of Apple Pencil models currently available: 2
+  - Apple Pencil Pro ($129)
+  - Apple Pencil (USB‑C) ($79)
+
+- Wireless pairing and charging:
+  - Supported by: Apple Pencil Pro
+  - Not supported by: Apple Pencil (USB‑C)
+
+Evidence from Apple’s “Apple Pencil features” section shows “Wireless pairing and charging” is “Compatible with Apple Pencil Pro” and “Not compatible with Apple Pencil (USB‑C).”
+
+Screenshot captured of the features section (showing the wireless pairing and charging row):
+test_cases/result_with_screenshot_small/Apple--35/screenshot_1758068957.png

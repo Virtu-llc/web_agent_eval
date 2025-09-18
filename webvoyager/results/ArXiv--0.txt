@@ -1,0 +1,26 @@
+Actions taken:
+- Navigated to arXiv.org
+- Searched for "quantum computing"
+- Ensured results are sorted by “Announcement date (newest first)”
+- Captured a screenshot of the search results page
+
+What I found (top latest results shown on the page):
+1) Loading and Imaging Atom Arrays via Electromagnetically Induced Transparency
+   Submitted 15 September, 2025
+
+2) Quantum Effects for Black Holes with On-Shell Amplitudes
+   Submitted 15 September, 2025
+
+3) Collective dynamical resonance displacement from strongly driven cold atoms
+   Submitted 15 September, 2025
+
+4) HiPARS: Highly-Parallel Atom Rearrangement Sequencer
+   Submitted 15 September, 2025
+
+5) Learning kernels with quantum optical circuits
+   Submitted 15 September, 2025
+
+Note: The results page indicates “Showing 1–50 of 50,182 results for all: quantum computing” and is sorted by “Announcement date (newest first),” i.e., latest preprints first.
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/ArXiv--0/screenshot_1758039914.png

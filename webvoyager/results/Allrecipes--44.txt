@@ -1,0 +1,28 @@
+Here are holiday recipe sections listed under the Occasions section on Allrecipes:
+
+- Easter Recipes
+- Halloween Recipes
+- Thanksgiving Recipes
+- Christmas Recipes
+- Hanukkah Recipes
+- Rosh Hashanah Recipes
+- Mardi Gras Recipes
+- Mother’s Day Recipes
+- Memorial Day Recipes
+- Cinco de Mayo Recipes
+- Valentine’s Day Recipes
+- Labor Day Recipes
+- New Year’s Recipes
+- Veteran’s Day Recipes
+- 4th of July Recipes
+- Kwanzaa Recipes
+- Passover Recipes
+- Ramadan Recipes
+- St. Patrick’s Day Recipes
+- Diwali Recipes
+- Lunar New Year Recipes
+- Purim Recipes
+- April Fools’ Day Recipes
+- Oktoberfest Recipes
+
+Screenshot taken: test_cases/result_with_screenshot_small/Allrecipes--44/screenshot_1758031756.png

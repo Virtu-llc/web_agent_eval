@@ -1,0 +1,31 @@
+Task completed on Booking.com
+
+Search parameters
+- Destination: Hokkaido (selected hotel in Sapporo, Hokkaido)
+- Dates: March 1–7, 2026
+- Filter: Review score 9+ (Wonderful: 9+ applied)
+
+Selected hotel
+- Hotel: Hotel Emion Sapporo
+- Overall score shown: 9.1 (Rated “wonderful”)
+
+Guest review category scores observed
+- Staff: 9.3
+- Facilities: 9.3
+- Cleanliness: 9.5
+- Comfort: 9.5
+- Value for money: 9.0
+- Location: 8.7
+- Free Wifi: 8.6
+
+Classification
+- Categories greater than 9: Staff, Facilities, Cleanliness, Comfort
+- Categories less than 9: Location, Free Wifi
+- Exactly 9.0 (not greater/less): Value for money
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Booking--42/screenshot_1758097117.png
+
+Notes
+- The 9+ filter (“Wonderful: 9+”) was applied to the search results before opening the hotel page.
+- Category scores are taken from the “Guest reviews” section of the hotel’s page.

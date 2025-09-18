@@ -1,0 +1,25 @@
+Here’s a concise summary of a recent BBC News live report about casualties in war (Israel-Gaza conflict):
+
+Story read
+Title: Palestinians flee Gaza City as Israel launches major ground offensive – follow latest
+URL: https://www.bbc.com/news/live/cd72grrl0pxt
+Publication timing on page: Coverage on 16 September 2025 (live page; latest update 15:05 BST)
+
+Key points (extracted from the page)
+- Offensive: Israel launched a major ground operation in Gaza City after a night of heavy airstrikes; the IDF described Gaza City as Hamas’s main stronghold and said ground forces would move in “gradually.”
+- Displacement: Thousands of Palestinians fled south along the al-Rashid coastal road; BBC accounts describe severe congestion and people fleeing on foot, in carts, and vehicles loaded with belongings.
+- Casualties and injuries:
+  - Local incident detail: In Gaza City’s al-Daraj neighborhood, four adjacent homes were destroyed, resulting in 14 deaths and 40 injuries.
+  - Health ministry update (Hamas-run): A further 59 people were reported killed in the last 24 hours; total reported deaths since 7 October 2023: 64,964. Additional deaths linked to famine/malnutrition: 428 (including 146 children).
+- Medical system: Gaza’s (Hamas-run) health ministry warned of severe overcrowding in emergency departments, depleted medicines, and severe blood shortages.
+- Human stories: Residents reported an “insane” bombardment and “hellish” night; some families walked for hours under fire; others sold belongings to afford evacuation and tents.
+- International context and reactions:
+  - A UN commission of inquiry said Israel is committing genocide in Gaza; Israel’s foreign ministry categorically rejected the finding as “distorted and false.”
+  - UN human rights chief Volker Türk said “this carnage must stop.”
+  - UK Foreign Secretary Yvette Cooper called the offensive “utterly reckless and appalling,” warning of more civilian deaths and risks to hostages.
+
+Screenshot
+Saved: test_cases/result_with_screenshot_small/BBC News--40/screenshot_1758101733.png
+
+Notes
+- All figures and quotes above are taken directly from the BBC live page linked above at the time of access. As this is a live blog, details may be updated by the BBC over time.

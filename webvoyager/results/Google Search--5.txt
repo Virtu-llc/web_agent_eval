@@ -1,0 +1,6 @@
+Result found on Google:
+- Latest Phoenix Suns NBA game: Kings 109, Suns 98
+- Status: Final
+- Date: April 13, 2025
+
+Screenshot saved: test_cases/result_with_screenshot_small/Google Search--5/screenshot_1758071281.png

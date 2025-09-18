@@ -1,0 +1,28 @@
+Task completed.
+
+What I did:
+- Opened booking.com
+- Searched destination: Ohio, United States
+- Set dates: December 20, 2025 to December 23, 2025
+- Set guests and rooms: 3 adults, 2 rooms
+- Submitted the search and arrived at the results page
+
+Page confirmation:
+- Results heading shows: “Ohio: 2,670 properties found”
+- Top of page shows the selected criteria: “Sat, Dec 20 — Tue, Dec 23” and “3 adults · 0 children · 2 rooms”
+
+A few of the first search results currently displayed:
+- Walkable to Everywhere in Little Italy- Near CWRU and Cleveland Clinic Main Campus
+- Motel 6-Springfield, OH
+- Hyatt Regency Columbus
+- Motel 6-Sidney, OH
+- Home STEPS from Oberlin
+- Renaissance Toledo Downtown Hotel
+
+Screenshot of the results page:
+- File: test_cases/result_with_screenshot_small/Booking--2/screenshot_1757980137.png
+
+Direct results page URL captured during the search:
+https://www.booking.com/searchresults.html?ss=Ohio%2C+United+States&checkin=2025-12-20&checkout=2025-12-23&group_adults=3&group_children=0&no_rooms=2
+
+If you’d like me to refine the results (e.g., only hotels, a specific city in Ohio, price range, or rating), I can adjust the filters and capture another screenshot.

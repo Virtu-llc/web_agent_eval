@@ -1,0 +1,56 @@
+What I did
+- Opened booking.com
+- Searched for: Bali (selected suggestion) with dates Fri, Mar 20, 2026 — Wed, Mar 25, 2026
+- Filtered to property type: Resorts
+- Opened a resort result: Paradisus by Meliá Bali (Nusa Dua, Bali)
+- Verified availability and extracted room examples with total prices for the specified dates
+- Checked the Amenities > Activities section for tours and cultural experiences
+- Took a screenshot (saved as: test_cases/result_with_screenshot_small/Booking--37/screenshot_1758139271.png)
+
+Resort found
+- Name: Paradisus by Meliá Bali
+- Location: Nusa Dua, Bali, Indonesia
+- Dates selected on page: Fri, Mar 20 — Wed, Mar 25 (5 nights)
+- Page note: “Perfect for a 5-night stay!” confirms length matches your dates.
+
+Availability and example prices (total for 5 nights, before local taxes unless noted)
+- Premium Room Garden View (Good breakfast included)
+  - Total: $795.91 (Original $872; 9% off when paying online; includes 10% service charge; 10% tax excluded)
+  - Policy: Non-refundable (a refundable option also shown at $911.57)
+- Junior Suite Garden View (Good breakfast included)
+  - Total: $865.47 (9% off; 10% tax excluded)
+  - Refundable option: $911.57
+- Junior Suite Lagoon Access (Good breakfast included)
+  - Total: $1,206.48 (9% off; 10% tax excluded)
+- The Reserve Duplex Suite (Good breakfast included)
+  - Total: $1,167.92 (9% off; 10% tax excluded)
+- The Reserve Master Suite (Good breakfast included)
+  - Total: $1,348.90 (9% off; 10% tax excluded)
+- The Reserve Garden Villa (Good breakfast included)
+  - Total: $4,009.00 (9% off; 10% tax excluded)
+
+Notes:
+- Many room types show “Free cancellation before March 17, 2026 • Pay nothing until March 15, 2026” for refundable options.
+- Prices are converted to USD; Booking.com’s page indicates totals may exclude 10% local tax.
+
+Tours and cultural experiences (from Amenities > Activities)
+The resort lists the following activities that are tours/cultural experiences or cultural programming:
+- Tour or class about local culture
+- Cooking class
+- Themed dinners
+- Live music/Performance
+- Bike tours
+- Movie nights
+- Live sports events (broadcast)
+- Evening entertainment
+- Kids’ club
+
+Additional on-site and nearby activities
+- Bicycle rental, Cycling, Beach, Water sports facilities on site
+- Tennis court/equipment (additional charge), Golf course (within 2 miles) (additional charge)
+- Snorkeling (additional charge), Canoeing (additional charge), Bowling, Karaoke, Pool table, Playground, Game room, Nightclub/DJ (additional charge), Water park
+
+Screenshot
+- Captured the Amenities section (including Activities): test_cases/result_with_screenshot_small/Booking--37/screenshot_1758139271.png
+
+This completes the search for a resort in Bali with your specified dates, verifies availability, and confirms the presence of tour/cultural experiences at the selected resort.

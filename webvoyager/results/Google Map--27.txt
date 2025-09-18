@@ -1,0 +1,6 @@
+Task done.
+
+- Query performed: “Target stores in Atlanta, GA”
+- Results shown on the map (in the left results panel): 7
+
+Screenshot: test_cases/result_with_screenshot_small/Google Map--27/screenshot_1758018717.png

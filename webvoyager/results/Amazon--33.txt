@@ -1,0 +1,25 @@
+Task completed on Amazon:
+- Searched for “portable air conditioner 300 sq ft”
+- Applied Floor Area filter: “299 to 399 ft²” (suitable for a 300 sq ft room)
+- Collected prices of the top three visible product results
+- Took a screenshot of the results section
+
+Top 3 results and prices (as shown):
+1) LG 7,000 BTU Portable Air Conditioner, 115V, Cools 300 Sq.Ft. (12' x 25' Room Size), Portable Air Conditioner for Home with Quiet Operation, LCD Remote Control, and Window Installation Kit, White
+- Price: $328.99
+- List: $459.99
+
+2) BLACK+DECKER Portable Air Conditioner, 8,500 BTU (5,100 BTU SACC) for Rooms Up To 350 Sq. Ft., Portable AC with Full Function Remote Control & Window Kit, BPACT05SM, White
+- Price: $242.99
+- Typical: $299.99
+
+3) 8000 BTU Portable Air Conditioners, 3-in-1 Portable AC Unit with Dehumidifier, Quiet Air Conditioner for Bedrooms and Offices up to 350 Sq.Ft, Remote Control & 24H Timer, Grey & Black
+- Price: $129.99
+- List: $199.99
+
+Notes:
+- All three results are suitable for a 300 sq ft room (first explicitly states 300 sq ft; the other two are rated up to 350 sq ft).
+- The search results page does not show an explicit energy efficiency rating (e.g., EER/SEER). This information typically appears on the individual product pages. The left-hand filters did not include a specific “Energy Efficiency” filter for portable ACs on this results page.
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Amazon--33/screenshot_1758136890.png

@@ -1,0 +1,11 @@
+Here’s what I found on Google Maps:
+
+- Closest Hilton hotel to Pittsburgh International Airport: Hilton Garden Inn Pittsburgh Airport
+  - Evidence: Directions from “Pittsburgh International Airport” show Driving 11 min to Hilton Garden Inn Pittsburgh Airport vs. Driving 12 min to DoubleTree by Hilton Hotel Pittsburgh Airport.
+
+- Walking time to the nearest supermarket from the hotel:
+  - Nearest: ALDI, 2830 Gracy Center Way Ste. 100, Moon Township, PA 15108
+  - Walking time: 30 min (1.3 miles) via University Blvd
+
+Screenshot captured of the walking route and time:
+test_cases/result_with_screenshot_small/Google Map--19/screenshot_1758151966.png

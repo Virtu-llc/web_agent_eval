@@ -1,0 +1,23 @@
+Task completed on arXiv:
+- Performed a Title-only search for “Poly encoder”
+- Reviewed each result’s available access formats to check for HTML availability
+- Captured a screenshot of the results page
+
+Results (HTML availability):
+1) PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation (arXiv:2506.00968)
+   - Search result links: pdf, ps, other
+   - “Other formats” page does not list an HTML view
+   - HTML access: Not available
+
+2) Persona-Coded Poly-Encoder: Persona-Guided Multi-Stream Conversational Sentence Scoring (arXiv:2309.16770)
+   - Search result links: pdf, other
+   - “Other formats” page does not list an HTML view
+   - HTML access: Not available
+
+3) Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring (arXiv:1905.01969)
+   - Search result links: pdf, other
+   - “Other formats” page does not list an HTML view
+   - HTML access: Not available
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/ArXiv--28/screenshot_1758096436.png

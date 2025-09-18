@@ -1,0 +1,19 @@
+Here’s a compact digital camera on Amazon that matches your criteria (≥10x zoom, 4+ stars, $100–$300), with filters applied on the results page and a screenshot captured.
+
+Selected product:
+- Name: Panasonic Lumix DMC-ZS25 16.1 MP Compact Digital Camera with 20x Intelligent Zoom (Black) (OLD MODEL)
+- Price shown: $219.90
+- Rating: 4.2 out of 5 stars
+- Zoom: 20x (meets the “at least 10x” requirement; “Optical Zoom: 20x to 49.9x” filter applied)
+- Notes: The result card indicates “No featured offers available,” but used/new offers are listed at the shown price.
+
+Filters applied on Amazon:
+- Price: $150–$300
+- Customer Reviews: 4 Stars & Up
+- Form Factor: Compact
+- Optical Zoom: 20x to 49.9x
+
+Screenshot:
+- Saved as: test_cases/result_with_screenshot_small/Amazon--31/screenshot_1758068779.png
+
+If you’d like, I can open the product page and extract more details (e.g., full specs, seller options) or provide additional qualifying options within the same price range.

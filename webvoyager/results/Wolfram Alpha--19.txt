@@ -1,0 +1,21 @@
+Actions performed:
+- Navigated to https://www.wolframalpha.com/
+- Searched: “time to sunburn for each skin type at 11:00 am in Sydney, Australia with SPF 5”
+- Captured the results and took a screenshot
+
+Wolfram|Alpha interpretations and assumptions visible on the page:
+- Location: Sydney, New South Wales, Australia
+- Start time: 11:00 am AEST | Wednesday, September 17, 2025
+- Sun protection factor (SPF): 5
+- Category shown: “Typical time to sunburn”
+
+Approximate time to sunburn (SPF 5, Sydney at 11:00 am):
+- Skin type I: 1 h 57 min
+- Skin type II: 2.5 h
+- Skin type III: (sunburn unlikely)
+- Skin type IV: (sunburn unlikely)
+- Skin type V: (sunburn unlikely)
+- Skin type VI: (sunburn unlikely)
+
+Screenshot:
+- Saved to: test_cases/result_with_screenshot_small/Wolfram Alpha--19/screenshot_1758061101.png

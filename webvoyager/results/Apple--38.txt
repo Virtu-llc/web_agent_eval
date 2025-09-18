@@ -1,0 +1,10 @@
+Task completed: Explored accessories for Apple Vision Pro on apple.com and captured a screenshot.
+
+Accessories found on the official Apple Vision Pro Accessories page:
+- Apple Vision Pro Battery
+- Apple Vision Pro Travel Case
+- ZEISS Optical Inserts
+- Apple Vision Pro Light Seal
+- Belkin Battery Holder for Apple Vision Pro
+
+Screenshot: test_cases/result_with_screenshot_small/Apple--38/screenshot_1758116202.png

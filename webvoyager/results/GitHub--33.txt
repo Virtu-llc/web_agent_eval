@@ -1,0 +1,11 @@
+Actions taken:
+- Opened https://github.com/
+- Navigated to “Customer stories” via the “Explore customer stories” link
+- Extracted the first two story titles shown on the Customer Stories page
+- Captured a screenshot
+
+Customer Stories (first two visible on the page):
+1) With 12,000 developers using GitHub Copilot, Accenture doubles down on GitHub’s platform.
+2) Automotive excellence at Mercedes-Benz and seamless developer experience on GitHub go hand in hand.
+
+Screenshot saved: test_cases/result_with_screenshot_small/GitHub--33/screenshot_1758037900.png

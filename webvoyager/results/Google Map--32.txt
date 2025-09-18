@@ -1,0 +1,11 @@
+I completed the search on Google Maps with the following steps:
+- Searched for “plumbers in Orlando, FL”
+- Applied Hours filter: Open now
+- Refined the query to exclude 24-hour businesses: “plumbers in Orlando, FL not "open 24 hours"”
+- Re-applied Hours filter: Open now
+- Ensured the results list was visible and took a screenshot
+
+Note: Google Maps does not provide a direct filter to exclude “Open 24 hours” businesses, so while I applied “Open now” and added the negative condition in the search query, the results may still include some “Open 24 hours” listings.
+
+Screenshot saved:
+test_cases/result_with_screenshot_small/Google Map--32/screenshot_1758015560.png

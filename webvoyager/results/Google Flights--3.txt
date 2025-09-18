@@ -1,0 +1,15 @@
+I completed the search on Google Flights and identified the one-way flight from Calgary to New York on January 1 with the lowest carbon dioxide emissions. I also captured a screenshot at the final step.
+
+Result found (sorted by Emissions = lowest first):
+- Airline: Air Canada
+- Route: Calgary (YYC) to Newark (EWR)
+- Date: Thu, Jan 1 (next Jan 1)
+- Times: Departs 8:25 AM, Arrives 3:08 PM
+- Stops: Nonstop
+- Carbon emissions estimate: 252 kilograms (−22% emissions)
+- Price shown: From $469 USD
+
+Note: The emissions figure and “−22%” badge are taken directly from the flight’s listing after sorting by Emissions.
+
+Screenshot saved:
+- File: test_cases/result_with_screenshot_small/Google Flights--3/screenshot_1758001224.png

@@ -1,0 +1,15 @@
+Task completed:
+- Navigated to arXiv.org
+- Opened arXiv Help
+- Visited the “Withdrawals” help page and focused on the section “Submission not yet announced” (how to withdraw before announcement)
+- Took a screenshot at the final step
+
+Key guidance from the page (Submission not yet announced):
+- If your submission is not yet publicly available, you can delete or delay it from your user page:
+  - Go to your user page and select either:
+    - Delete (trash icon) to remove the submission from the system, or
+    - Unsubmit (unsubmit icon) to return it to incomplete status for later modification and resubmission.
+- If you have difficulty, contact arXiv administrators immediately with your submission identifier, a description of the problem, and the reason for withdrawal.
+
+Screenshot saved:
+test_cases/result_with_screenshot_small/ArXiv--10/screenshot_1758144627.png

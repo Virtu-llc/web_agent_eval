@@ -1,0 +1,18 @@
+Here’s what I accomplished:
+- Navigated to huggingface.co
+- Opened the Docs section and selected TRL (Transformer Reinforcement Learning)
+- Used the docs search to find “Adding a margin to the loss”
+- Opened the page: Reward Modeling > Using the RewardTrainer > Adding a margin to the loss
+
+What the documentation says about adding a margin to the loss:
+- You can add a margin to the reward loss by adding a margin column to your dataset (as used in the Llama 2 paper).
+- The reward data collator will automatically pass the margin through and compute the loss accordingly.
+- Example snippet on the page shows how to compute and add the margin to the dataset:
+  - Define a function add_margin(row) that returns {'margin': row['score_chosen'] - row['score_rejected']}
+  - Apply it with dataset = dataset.map(add_margin)
+
+Screenshot:
+- Saved a screenshot of the “Adding a margin to the loss” section with the explanatory text and code example.
+- File: test_cases/result_with_screenshot_small/Huggingface--18/screenshot_1758136118.png
+
+Page URL (for reference): https://huggingface.co/docs/trl/v0.23.0/en/reward_trainer#adding-a-margin-to-the-loss

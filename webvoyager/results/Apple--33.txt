@@ -1,0 +1,11 @@
+Here are the color options available for the newest iMac (as shown on Apple’s iMac page):
+
+- Blue
+- Purple
+- Pink
+- Orange
+- Yellow
+- Green
+- Silver
+
+Screenshot: test_cases/result_with_screenshot_small/Apple--33/screenshot_1758011778.png

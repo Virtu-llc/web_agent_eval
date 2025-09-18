@@ -1,0 +1,13 @@
+Task completed on Wolfram|Alpha.
+
+Answer:
+- Character: ▱
+- Unicode: U+25B1
+- Name shown on page: white parallelogram
+- Decimal code point: 9649 (within 9632–9650)
+
+Evidence extracted from Wolfram|Alpha:
+- Query: U+25B1
+- Page sections visible: “Name” → “white parallelogram”, “Encodings” → “Unicode | U+25B1 (decimal: 9649) …”
+
+Screenshot: Saved as test_cases/result_with_screenshot_small/Wolfram Alpha--28/screenshot_1758111745.png

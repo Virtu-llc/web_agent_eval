@@ -1,0 +1,25 @@
+Task completed: I searched Google Flights for economy class, one-way flights from Oslo (OSL) to Dubai (DXB area), departing on Sunday, March 8, 2026, and applied the “Stops: 2 stops or fewer” filter. Below are the options visible on the results page with their prices, durations, and stops.
+
+Top flights
+- Pegasus — $156 — 9 hr 35 min — 1 stop (via Istanbul SAW)
+- Norwegian — $194 — 7 hr 5 min — Nonstop (arrives Dubai Al Maktoum DWC)
+- Emirates — $572 — 6 hr 55 min — Nonstop (arrives Dubai International DXB)
+
+Other flights
+- Pegasus — $205 — 13 hr 25 min — 1 stop (via Istanbul SAW; arrives Sharjah SHJ)
+- Finnair (operated by Nordic Reg for Finnair) — $241 — 23 hr — 1 stop (overnight layover at HEL)
+- Finnair (operated by Nordic Reg for Finnair) — $253 — 11 hr 5 min — 1 stop (via HEL)
+- Austrian — $326 — 10 hr 5 min — 1 stop (via Vienna VIE)
+- Lufthansa — $330 — 10 hr 20 min — 1 stop (via Frankfurt FRA)
+- Turkish Airlines — $368 — 9 hr 20 min — 1 stop (via Istanbul IST)
+- Turkish Airlines — $368 — 9 hr 35 min — 1 stop (via Istanbul IST)
+- Scandinavian Airlines + Austrian (operated by Braathens Regional Airways) — $443 — 33 hr 50 min — 2 stops (various CPH and VIE layovers; multiple variants at this price)
+- Air Baltic — $593 — 9 hr 10 min — 1 stop (via Riga RIX)
+
+Notes
+- All prices are shown in USD as displayed by Google Flights for 1 adult, taxes/fees included (carry-on/checked bag fees may be extra).
+- “Dubai” includes nearby airports; some options arrive at DWC or SHJ rather than DXB.
+- The stops filter is set to “2 stops or fewer,” so all options listed have 0–2 layovers.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Flights--38/screenshot_1758006515.png

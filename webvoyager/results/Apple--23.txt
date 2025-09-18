@@ -1,0 +1,8 @@
+Here’s what I found on Apple’s website:
+
+- Latest Apple Watch series: Apple Watch Series 11 — From $399
+- Apple Watch SE: Apple Watch SE 3 — From $249
+
+Price difference: $150
+
+Screenshot saved: test_cases/result_with_screenshot_small/Apple--23/screenshot_1758020550.png

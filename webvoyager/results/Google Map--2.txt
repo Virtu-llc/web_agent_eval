@@ -1,0 +1,16 @@
+Task completed: Searched Google Maps for Apple Stores near ZIP code 90028 and captured a screenshot of the results.
+
+Nearby Apple Stores found (from the results list):
+- Apple The Grove — 189 The Grove Dr
+- Apple Beverly Center — 8500 Beverly Blvd
+- Apple Century City — 10250 Santa Monica Blvd
+- Apple The Americana at Brand — 877 Americana Way
+- Apple Glendale Galleria — 2126 Galleria Way
+- Apple Sherman Oaks — 14006 Riverside Dr
+- Apple Tower Theatre — 802 S Broadway
+- Apple Pasadena — 54 W Colorado Blvd
+- Apple Northridge — 9301 Tampa Ave
+- Apple Third Street Promenade — 1415 3rd Street Promenade
+
+Screenshot of the final results page:
+test_cases/result_with_screenshot_small/Google Map--2/screenshot_1758153820.png

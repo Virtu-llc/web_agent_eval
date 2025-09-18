@@ -1,0 +1,11 @@
+Here’s a recently updated C++ project on GitHub that meets your criteria:
+
+Repository: ggml-org/llama.cpp
+URL: https://github.com/ggml-org/llama.cpp
+Stars: 86.5k (well over 500)
+Recent activity: Latest commit 2 hours ago (within the last week)
+
+Main purpose:
+llama.cpp provides LLM inference in C/C++. Its goal is to enable running large language models with minimal setup and state-of-the-art performance across a wide range of hardware, locally or in the cloud. The project offers CLI and server tools, supports multiple acceleration backends (e.g., CPU, CUDA, Metal), and uses the GGUF model format for efficient deployment.
+
+Screenshot: test_cases/result_with_screenshot_small/GitHub--17/screenshot_1758014874.png

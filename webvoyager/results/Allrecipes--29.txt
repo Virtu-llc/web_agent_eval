@@ -1,0 +1,35 @@
+Here’s a Mediterranean-style grilled fish recipe on Allrecipes that meets the rating and review criteria. 
+
+Recipe found on Allrecipes
+- Title: Mediterranean Stuffed Swordfish
+- URL: https://www.allrecipes.com/recipe/152264/mediterranean-stuffed-swordfish/
+- Rating: 4.6 (72 ratings)
+- Reviews: 57 reviews
+- Servings: 2
+- Total Time: 35 minutes (Prep 15 minutes, Cook 20 minutes)
+
+Ingredients (as listed on the page)
+- 1 (8 ounce) swordfish steak (about 2 inches thick)
+- 1 tablespoon olive oil
+- 1 tablespoon fresh lemon juice
+- 1 teaspoon olive oil
+- 1 clove garlic, minced
+- 2 cups fresh spinach, rinsed, dried, and torn into bite-size pieces
+- 1/4 cup crumbled feta
+
+Cooking method (grilling directions from the page)
+1) Preheat an outdoor grill for high heat and lightly oil the grate.
+2) Cut a slit in the swordfish steak to create a pocket open on one side only.
+3) Mix 1 tablespoon olive oil and lemon juice; brush over both sides of the fish and set aside.
+4) Heat 1 teaspoon olive oil in a small skillet over medium heat. Add garlic and cook the spinach until wilted.
+5) Stuff the spinach into the fish pocket, then place the feta in the pocket over the spinach.
+6) Grill the fish 8 minutes, turn, and continue cooking until done (an instant-read thermometer in the thickest part should read 145°F/63°C).
+
+Total time required
+- Prep Time: 15 minutes
+- Cook Time: 20 minutes
+- Total Time: 35 minutes
+
+
+Screenshot
+- I have taken a screenshot of the final recipe page: test_cases/result_with_screenshot_small/Allrecipes--29/screenshot_1758055173.png

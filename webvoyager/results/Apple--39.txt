@@ -1,0 +1,38 @@
+What I did
+- Visited https://www.apple.com/
+- Opened Support and selected “Forgot Apple Account password”
+- Landed on Apple’s official article: “If you forgot your Apple Account password”
+- Took a screenshot of the final page
+
+Solutions from Apple’s page (exact steps)
+
+Reset on a trusted device
+- iPhone, iPad, or Apple Vision Pro:
+  1) Go to Settings.
+  2) Tap your name > Sign-In & Security > Change Password.
+  3) Follow the onscreen instructions to reset your password.
+
+- Mac:
+  1) Choose Apple menu  > System Settings.
+  2) Click [your name] > Sign-In & Security > Change Password.
+  3) Follow the onscreen instructions to reset your password.
+
+If you’re signing in on a new Apple device
+- During device setup on the Apple Account sign-in screen, select “Forgot password or don’t have an Apple Account?”
+- After setup:
+  - iPhone or iPad: Go to Settings > Apple Account. Tap “Sign in manually,” then tap “Forgot password?” and follow the onscreen instructions.
+  - Mac: Choose Apple menu  > System Settings. Click Sign in, then click “Forgot password” and follow the onscreen instructions.
+
+If you don’t have a trusted device
+- Use the Apple Support app on a borrowed Apple device:
+  1) Open the Apple Support app (or download it from the App Store).
+  2) Scroll to Support Tools, then tap Reset Password.
+  3) Tap “Help Someone Else.”
+  4) Enter your Apple Account email address or phone number.
+  5) Tap Continue and follow the onscreen instructions.
+
+Reset on the web
+- Go to iforgot.apple.com to reset your password. Note: When possible, the browser may redirect you to a trusted device; without a trusted device the process may take longer.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Apple--39/screenshot_1757978388.png

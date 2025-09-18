@@ -1,0 +1,7 @@
+Here are the latest Quantum Physics (quant-ph) research paper details from arXiv:
+
+- Title: High-capacity associative memory in a quantum-optical spin glass
+- Author(s): Brendan P. Marsh; David Atri Schuller; Yunpeng Ji; Henry S. Hunt; Surya Ganguli; Sarang Gopalakrishnan; Jonathan Keeling; Benjamin L. Lev
+- Date of submission: 15 Sep 2025
+
+Screenshot: test_cases/result_with_screenshot_small/ArXiv--35/screenshot_1758065810.png

@@ -1,0 +1,23 @@
+I completed your search on Booking.com for a two-night stay in Toronto from March 5 to March 7, 2026, with filters set to include properties that have a fitness center and a review score of 8+.
+
+What I did:
+- Searched destination: Toronto, Ontario, Canada
+- Selected dates: Thu, Mar 5 — Sat, Mar 7, 2026 (2 nights)
+- Applied filters:
+  - Fitness center
+  - Very Good: 8+
+- Confirmed on the results page: “Applied filters: Very Good: 8+, Fitness center.”
+
+Top results currently visible on the page (examples):
+- DoubleTree by Hilton Toronto Downtown — Scored 8.3 — Current price $321
+- Sonder by Marriott Bonvoy The Liberty Apartments Liberty Village — Scored 8.7 — Price $411
+- One King West Hotel and Residence — Scored 8.7 — Price $310
+- The Omni King Edward Hotel — Scored 9.1 — Price $429
+- Radisson Blu Toronto Downtown — Scored 8.3 — Price $321
+
+Screenshot:
+- Saved a screenshot of the final filtered results page: test_cases/result_with_screenshot_small/Booking--29/screenshot_1758143940.png
+
+Notes:
+- The page shows “Toronto: 76 properties found” with the applied filters “Very Good: 8+, Fitness center.” 
+- Prices shown are as displayed by the site for the specified 2-night stay; availability and pricing can change.

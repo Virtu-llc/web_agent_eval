@@ -1,0 +1,31 @@
+Task completed: I visited Cambridge Dictionary, used the Grammar search, found the “Less or fewer?” page in the English Grammar Today section, extracted the key differences and examples, and took a screenshot.
+
+Source page
+- Title: Less or fewer? - Grammar - Cambridge Dictionary
+- URL: https://dictionary.cambridge.org/grammar/british-grammar/less-or-fewer?q=fewer+and+less
+
+Key differences (from Cambridge Dictionary)
+- Core rule:
+  - less: used with uncountable nouns
+  - fewer: used with plural countable nouns
+- With “of” before determiners/pronouns:
+  - less of + singular noun
+  - fewer of + plural noun
+- Without a noun (ellipsis): You can omit the noun when it’s obvious from context.
+- Usage note: You will often hear “less” with plural countable nouns in informal speech, but traditionally this is not considered correct (use “fewer” instead).
+
+Examples from Cambridge Dictionary
+- Less with uncountable nouns:
+  - “I do less work at weekends than I used to.”
+- Fewer with plural nouns:
+  - “Better cycle routes would mean fewer cars and fewer accidents.”
+- Usage warning (traditional preference noted):
+  - “We’ve got less pizzas than we need. There’s ten people and only eight pizzas.” (traditionally correct usage: “fewer pizzas”)
+- Less/fewer with “of”:
+  - “It was funny to begin with, but as time went on, it became less of a joke.” (less of + singular)
+  - “Fewer of them will be getting that information from newspapers which arrive hours after the news has occurred.” (fewer of + plural)
+- Without a noun (ellipsis):
+  - “Every year in Britain about 5,000 people die on the roads. Fewer are killed at work.” (fewer people)
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--32/screenshot_1758066322.png

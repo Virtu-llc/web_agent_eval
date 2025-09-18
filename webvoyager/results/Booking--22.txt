@@ -1,0 +1,22 @@
+Task completed on Booking.com
+
+What I did:
+- Searched for stays in Amsterdam.
+- Set dates: March 15–22, 2026 (7 nights).
+- Travelers: 2 adults.
+- Applied filters:
+  - Review score: Wonderful: 9+ (9 or higher)
+  - Fun Things To Do: Bicycle rental
+
+Screenshot:
+- Saved viewport screenshot showing the filtered results: test_cases/result_with_screenshot_small/Booking--22/screenshot_1758062202.png
+
+Top results visible after filters (titles and review scores):
+- Wittenberg by Cove — Scored 9.0
+- Hotel Sebastians — Scored 9.0
+- Hotel Estheréa — Scored 9.2
+- Hotel Jakarta Amsterdam — Scored 9.0
+- Element Amsterdam — Scored 9.0
+
+Notes:
+- The filters auto-applied and refreshed the results.

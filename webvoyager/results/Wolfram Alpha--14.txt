@@ -1,0 +1,8 @@
+Task completed on Wolfram|Alpha with a 300 g serving assumption for each item.
+
+Total Calories (dietary Calories):
+- Burger King Whopper (300 g): 657 Cal
+- Wendy’s Old Fashioned Baconator (300 g): 902 Cal
+- McDonald’s Big Mac (300 g): 730 Cal
+
+Screenshot: test_cases/result_with_screenshot_small/Wolfram Alpha--14/screenshot_1758152204.png

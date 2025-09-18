@@ -1,0 +1,11 @@
+Result:
+- Number of arXiv papers with the exact phrase "Neural Network Optimization" in the title published in 2023: 11
+
+How I found it:
+- Opened arXiv Advanced Search.
+- Set field to Title and searched for "Neural Network Optimization".
+- Applied a date filter for the specific year 2023 (interpreted as submissions from 2023-01-01 to 2024-01-01 by arXiv).
+- Read the results header: “Showing 1–11 of 11 results”.
+
+Screenshot:
+- Saved a screenshot of the final results page: test_cases/result_with_screenshot_small/ArXiv--29/screenshot_1758151468.png

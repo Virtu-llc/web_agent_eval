@@ -1,0 +1,31 @@
+Here are the cheapest round‑trip flight details I found on Google Flights for New York City to Tokyo, departing January 10, 2026 and returning January 24, 2026:
+
+Cheapest total price
+- $940 (Economy, Basic Economy fare shown in Booking options)
+- Marked as “Lowest total price” on the itinerary summary
+
+Outbound flight (New York → Tokyo)
+- Date: Sat, Jan 10, 2026
+- Airline: American Airlines
+- Route: JFK → HND (1 stop via LAX)
+- Times: 8:00 PM (Jan 10) → 5:05 AM (+2) (Mon, Jan 12)
+- Duration: 19 hr 5 min
+- Stops: 1
+- Layover: Los Angeles (LAX) — 42 min
+
+Return flight (Tokyo → New York)
+- Date: Sat, Jan 24, 2026
+- Airline: American Airlines
+- Route: HND → JFK (Nonstop)
+- Times: 5:10 PM → 4:25 PM (same day)
+- Duration: 13 hr 15 min
+- Stops: Nonstop
+
+Notes
+- Prices include required taxes + fees for 1 adult. Optional charges and bag fees may apply (American bag policy shown on page).
+- Booking options display Basic Economy at $940 (cheapest), with higher fares for Main Cabin and Main Plus.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Google Flights--13/screenshot_1758018613.png
+
+If you’d like, I can also provide a shareable booking link or proceed to the booking page with your preferred fare class.

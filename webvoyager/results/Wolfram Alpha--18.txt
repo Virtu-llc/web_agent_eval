@@ -1,0 +1,7 @@
+Task completed:
+- Opened https://www.wolframalpha.com/
+- Entered and submitted the query. The initial phrasing was interpreted ambiguously by Wolfram|Alpha, so I refined it to “parametric plot of Albert Einstein curve” to obtain the correct plot.
+- Located the “Result” plot on the results page, adjusted the viewport to show the full graph, and captured a screenshot.
+
+Screenshot:
+test_cases/result_with_screenshot_small/Wolfram Alpha--18/screenshot_1758150572.png

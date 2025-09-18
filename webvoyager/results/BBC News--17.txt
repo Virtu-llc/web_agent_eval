@@ -1,0 +1,8 @@
+Result
+- War-related sections currently visible in BBC News: 2
+- Sections:
+  1) Israel-Gaza War
+  2) War in Ukraine
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/BBC News--17/screenshot_1758020883.png

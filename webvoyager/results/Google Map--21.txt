@@ -1,0 +1,9 @@
+Here’s the nearest bus stop to the corner of Elm Street and Oak Street in Massachusetts, as found on Google Maps:
+
+- Bus stop name: Elm Street & Oak Street
+- Type: Bus stop
+- Address shown: Amesbury, MA 01913
+- Stop ID: 8916168
+- Related link shown: mvrta.com (Merrimack Valley Regional Transit Authority)
+
+Screenshot: test_cases/result_with_screenshot_small/Google Map--21/screenshot_1758006643.png

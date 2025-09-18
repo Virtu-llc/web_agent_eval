@@ -1,0 +1,7 @@
+Task completed: I visited Allrecipes, navigated to the About Us section, found “The Allrecipes Allstars” section, captured the brief introduction, and took a screenshot.
+
+Brief introduction to The Allrecipes Allstars (as shown on the About Us page):
+“Social media influencers, registered dietitians, grillmasters, and more seasoned home cooks make up our enthusiastic squad of 100+ brand ambassadors. This diverse, food-loving crew spans the U.S. geographically and represents many different cultures, ethnicities, and family makeups. Since 2011, the Allrecipes Allstars have created tens of thousands of original recipes, photos, and reviews plus shared their cooking expertise via flat and video content on our website, social media, plus more marketing channels.”
+
+Screenshot saved:
+test_cases/result_with_screenshot_small/Allrecipes--40/screenshot_1758064970.png

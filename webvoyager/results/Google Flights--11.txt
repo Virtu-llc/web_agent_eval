@@ -1,0 +1,33 @@
+Action summary:
+- Searched Google Flights for a round-trip from New York to Tokyo departing Feb 10, 2026 and returning Feb 24, 2026
+- Compared prices and stops from the search results
+- Selected the cheapest itinerary with the least number of stops (nonstop both ways)
+- Reached the booking options screen and took a screenshot
+
+Price comparison (round-trip totals, selected examples from results):
+- Nonstop
+  - American (JFK ↔ HND): $801
+  - United (EWR ↔ NRT/HND): $953–$1,011
+  - ANA (JFK ↔ HND): $1,051
+  - JAL (JFK ↔ HND): $1,096
+- 1 stop options (examples)
+  - American/LAX (JFK ↔ HND): $806
+  - American/DFW (LGA/EWR ↔ NRT): $817–$873
+  - Asiana/ICN (JFK ↔ NRT): $846
+  - Alaska+Hawaiian/SEA (JFK ↔ NRT): $892
+
+Selected itinerary (least number of stops = nonstop):
+- Outbound: Tue, Feb 10, 2026
+  - American (codeshare with JAL) JFK → HND
+  - 10:00 AM – 2:35 PM (+1), 14 hr 35 min, Nonstop
+- Return: Tue, Feb 24, 2026
+  - American (codeshare with JAL) HND → JFK
+  - 5:10 PM – 4:25 PM, 13 hr 15 min, Nonstop
+- Total round-trip price: $801 (Basic Economy shown on booking options page; Main Cabin $961; Main Plus $1,391)
+
+Screenshot:
+- Saved: test_cases/result_with_screenshot_small/Google Flights--11/screenshot_1758158846.png
+
+Notes:
+- Prices include required taxes + fees for 1 adult; optional charges and bag fees may apply.
+- The selected option is the cheapest among all nonstop (0-stop) itineraries found.

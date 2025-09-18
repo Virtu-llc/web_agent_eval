@@ -1,0 +1,15 @@
+I navigated to ESPN’s NBA Transactions page and extracted the latest Team Transactions from the past 7 days.
+
+Results (past week from today, Sep 16, 2025):
+- Monday, September 15
+  - San Antonio Spurs — Waived G Isaiah Miller.
+  - Brooklyn Nets — Signed C David Muoka to a contract.
+  - Minnesota Timberwolves — Re-signed G Bones Hyland to a contract. Signed F Johnny Juzang to a contract.
+- Thursday, September 11
+  - Toronto Raptors — Waived G Jarkel Joiner.
+- Wednesday, September 10
+  - Toronto Raptors — Waived G Tyreke Key.
+  - Sacramento Kings — Waived G Terence Davis.
+
+Screenshot saved:
+- test_cases/result_with_screenshot_small/ESPN--22/screenshot_1758005390.png

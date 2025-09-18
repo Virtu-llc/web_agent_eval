@@ -1,0 +1,11 @@
+Here are the details for “resilience” from the Cambridge Dictionary (English):
+
+- Pronunciation:
+  - UK: /rɪˈzɪl.jəns/
+  - US: /rɪˈzɪl.jəns/
+
+- Definition (C2): the ability to be happy, successful, etc. again after something difficult or bad has happened
+
+- Sample sentence: Trauma researchers emphasize the resilience of the human psyche.
+
+Screenshot saved: test_cases/result_with_screenshot_small/Cambridge Dictionary--12/screenshot_1758144966.png

@@ -1,0 +1,6 @@
+Result:
+- Reached the Security topic under GitHub Resources: https://github.com/resources/articles/security
+- On this page, the role of GitHub Advanced Security is stated as: “Find and fix vulnerabilities.”
+
+Screenshot:
+- Saved a screenshot of the Security topic page: test_cases/result_with_screenshot_small/GitHub--21/screenshot_1758023429.png

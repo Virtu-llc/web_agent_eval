@@ -1,0 +1,12 @@
+Actions taken:
+- Visited https://www.wolframalpha.com/
+- Searched for: “system of linear inequalities for the inner pentagon of a regular pentagram”
+- Wolfram|Alpha interpreted the query as “regular pentagram” and displayed a “Defining inequalities” section.
+
+Result (one constraint from the Defining inequalities for the pentagram’s inner region):
+- 10 (sqrt(5 - 2 sqrt(5)) x + (sqrt(5) - 2) y) <= sqrt(650 - 290 sqrt(5)) a
+- Variable constraint shown on the page: a > 0
+
+Screenshot:
+- Saved a screenshot of the result page with the “Defining inequalities” section visible.
+  File: test_cases/result_with_screenshot_small/Wolfram Alpha--1/screenshot_1758148958.png

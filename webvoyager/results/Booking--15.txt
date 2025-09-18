@@ -1,0 +1,23 @@
+I completed your search on Booking.com for Rome, Jan 10–20, 2026 (2 adults), applied 5-star hotel and “hotels only” filters, sorted by highest property rating, and opened the top-rated available luxury hotel. Here are the results:
+
+Highest-rated luxury hotel
+- Hotel: Maalot Roma – Small Luxury Hotels of the World (5-star)
+- Customer rating: 9.8 (Exceptional), 828 reviews
+- Cost (for 10 nights, 2 adults): $6,863
+  - Notes on pricing: Excludes €10 city tax per person per night and 10% VAT (as shown on Booking.com)
+- Dates and guests confirmed on page: Jan 10–20, 2026; 2 adults; 1 room
+- Amenities (Most popular amenities on the property page):
+  - Non-smoking rooms
+  - Fitness center
+  - Airport shuttle
+  - 2 restaurants
+  - Room service
+  - Facilities for disabled guests
+  - Free WiFi
+  - Family rooms
+  - Bar
+
+Screenshot
+- Saved screenshot of the hotel’s Booking.com page (rating/amenities visible): test_cases/result_with_screenshot_small/Booking--15/screenshot_1758150094.png
+
+If you’d like, I can also extract room-by-room prices or cancellation details, or present a couple of close runner-up options (e.g., Umiltà 36 or Palazzo Roma) for comparison.

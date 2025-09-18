@@ -1,0 +1,20 @@
+Here’s what I found on Apple’s official website about the latest iPad model currently shown as updated in the lineup:
+
+Model: iPad mini (A17 Pro chip)
+- Base storage capacity: 128GB
+  - Source: iPad mini – Technical Specifications page shows “Capacity: 128GB 256GB 512GB”
+- Starting price (U.S.): From $499
+  - Source: On Apple’s iPad pages, iPad mini is listed with “From $499”
+
+Release date:
+- I did not find an explicit release date on the iPad mini product or tech specs pages. Apple typically lists the exact date in a Newsroom press release (Apple’s official news site), but the product pages themselves don’t display the release date after launch. If you want the precise release date, it will be in the Apple Newsroom press release announcing this iPad mini model.
+
+Screenshot taken
+- I captured a screenshot from Apple’s iPad mini Technical Specifications page showing the Capacity section (which confirms the 128GB base storage).
+- Screenshot file: test_cases/result_with_screenshot_small/Apple--11/screenshot_1758034315.png
+
+Notes on sources (Apple official pages used)
+- iPad mini Technical Specifications (shows Capacity including 128GB)
+- iPad family lineup section (shows iPad mini “From $499” pricing)
+
+If you’d like, I can locate and extract the exact date from the relevant Apple Newsroom press release as a follow-up.

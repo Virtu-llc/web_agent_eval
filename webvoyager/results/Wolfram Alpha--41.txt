@@ -1,0 +1,9 @@
+Task completed on Wolfram|Alpha.
+
+Result
+- Approximate Heart Rate Reserve: 110 bpm (beats per minute)
+- Also shown as: 1.833 bps (beats per second)
+- Basis: “Assuming Karvonen heart rate reserve formula” with inputs male, age 50 years, resting heart rate 60 bpm
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Wolfram Alpha--41/screenshot_1758156596.png

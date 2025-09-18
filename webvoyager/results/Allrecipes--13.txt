@@ -1,0 +1,31 @@
+Task completed.
+
+Recipe found (over 100 reviews):
+- Title: Crispy Fried Fish
+- Reviews: 116
+- Source: Allrecipes (navigated via site search)
+
+Full Nutrition Label (per serving):
+- Calories: 634
+- Total Fat: 24g — 31% DV
+- Saturated Fat: 3g — 17% DV
+- Cholesterol: 95mg — 32% DV
+- Sodium: 833mg — 36% DV
+- Total Carbohydrate: 69g — 25% DV
+- Dietary Fiber: 1g — 5% DV
+- Total Sugars: 5g
+- Protein: 29g — 57% DV
+- Vitamin C: 10mg — 11% DV
+- Calcium: 35mg — 3% DV
+- Iron: 15mg — 83% DV
+- Potassium: 563mg — 12% DV
+- Notes:
+  - Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+  - Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+  - (-) Information is not currently available for this nutrient.
+
+Answer to your specific question:
+- Iron per serving: 15mg
+
+Screenshot taken with the Full Nutrition Label visible:
+- File: test_cases/result_with_screenshot_small/Allrecipes--13/screenshot_1758097529.png

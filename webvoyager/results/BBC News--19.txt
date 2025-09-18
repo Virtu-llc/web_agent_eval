@@ -1,0 +1,18 @@
+Task completed.
+
+What I did:
+- Navigated to https://www.bbc.com/news/
+- Used the top navigation to go to Sport, then to the Athletics section
+- Opened the Athletics Calendar page
+
+Result found:
+- On the Athletics Calendar (September 2025 selected), the next earliest listed event is:
+  - Sunday 21 September — Berlin Marathon
+
+Additional context shown above the next date:
+- Sunday 7 September — Great North Run
+- Saturday 13 September — World Championships (13 September to 21 September)
+
+Screenshot:
+- Saved a screenshot of the Athletics Calendar page with the upcoming events visible.
+- File: test_cases/result_with_screenshot_small/BBC News--19/screenshot_1758061599.png

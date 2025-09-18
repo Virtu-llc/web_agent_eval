@@ -1,0 +1,30 @@
+Task accomplished: I located and verified a beginner-friendly introductory AI course on Coursera that includes an ethics-related module, and I captured a screenshot.
+
+Selected course
+- Title: AI For Everyone
+- Instructor: Andrew Ng (Top Instructor)
+- Provider: DeepLearning.AI
+- URL: https://www.coursera.org/learn/ai-for-everyone
+- Level: Beginner; No prior experience required
+- Estimated time: ~6 hours total
+- Enrollment (as shown): 2,177,956 learners
+
+Modules (syllabus)
+- Module 1: What is AI?
+- Module 2: Building AI Projects
+- Module 3: Building AI In Your Company
+- Module 4: AI and Society
+  - Contains ethical considerations topics, including:
+    - Discrimination / Bias
+    - Adversarial attacks on AI
+    - Adverse uses of AI
+    - AI and developing economies
+    - AI and jobs
+
+Why this meets your criteria
+- It’s an introductory AI course clearly labeled Beginner.
+- It explicitly includes a module focused on AI and Society, with topics covering ethics (bias, adverse uses, attacks, jobs impact).
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Coursera--10/screenshot_1758111729.png
+- The screenshot shows the course’s modules section with “AI and Society” (ethics topics) visible.

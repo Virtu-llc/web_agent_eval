@@ -1,0 +1,6 @@
+Result found on Google:
+- Latest released Fast & Furious film: Fast X (2023)
+- U.S. theatrical release date: May 19, 2023
+- Premiere: May 12, 2023 (Rome)
+
+Screenshot captured: test_cases/result_with_screenshot_small/Google Search--20/screenshot_1758074934.png

@@ -1,0 +1,24 @@
+Here’s a hotel in Tokyo that matches your criteria (Spa and wellness center, rating 9+, available for a 5-night stay starting Feb 20, 2026), plus free cancellation details:
+
+Selected hotel
+- The Okura Tokyo (Minato, Akasaka)
+- Review score: 9.6 (Exceptional, 1,752 reviews)
+- Dates checked: Fri, Feb 20 — Wed, Feb 25, 2026 (5 nights)
+- Spa and wellness center: Yes (Spa filter applied on results)
+- Free cancellation: Yes
+  - Card shows: “Free cancellation” and “No prepayment needed – pay at the property”
+- Example room shown on results: Prestige Bath with view King
+- Price shown for 5 nights, 2 adults: $3,007 (was $3,538; additional charges may apply)
+- Availability: Listed in search results for the given dates
+
+Notes on source and filters
+- Destination: Tokyo, Japan
+- Dates: Check-in Feb 20, 2026; Check-out Feb 25, 2026
+- Filters: Applied “Spa” (results header shows “Applied filters: Spa”)
+- Multiple other 9+ spa properties with free cancellation also appeared (e.g., Hotel Chinzanso Tokyo 9.2; Palace Hotel Tokyo 9.5; The Capitol Hotel Tokyu 9.4), but The Okura Tokyo clearly listed “Free cancellation” on the result card for your dates.
+
+Screenshot
+- Saved a screenshot of the filtered results (including 9+ listings with Spa) at the final step:
+  test_cases/result_with_screenshot_small/Booking--23/screenshot_1758142032.png
+
+If you want, I can also open the property page to capture the specific room’s cancellation policy detail, but based on the search-results card, free cancellation is already offered for the shown room on your selected dates.

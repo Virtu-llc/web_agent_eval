@@ -1,0 +1,24 @@
+Here’s what I found on Coursera:
+
+Course
+- Essentials of Global Health
+
+Instructor
+- Richard Skolnik
+
+Summary of instructor bio
+- Richard Skolnik has 40+ years of experience in international development and global health. He is the author of the textbook Global Health 101 (3rd ed.).
+- He spent 25 years at the World Bank, retiring as Director for Health and Education for the South Asia Region. His work there spanned West Africa, the Middle East and North Africa, Latin America and the Caribbean, West Africa, and South Asia, focusing on health systems financing and development, equity, maternal and child health, and communicable diseases.
+- After the World Bank, he served as Vice President for International Programs at PRB and as Director of the Center for Global Health at The George Washington University, where he taught undergraduate global health for eight years.
+- He was Executive Director of the Harvard PEPFAR program in Botswana, Nigeria, and Tanzania; served on the Global Fund Technical Review Panel; contributed to WHO advisory and working groups; and was deeply involved in establishing the Stop TB initiative.
+- Recent efforts include reviews of HIV financing in India, Cambodia, and Nigeria (with Results for Development). He has been on editorial advisory bodies for DCP3 and Millions Saved (third editions).
+- He most recently lectured at Yale School of Public Health and Yale School of Management, teaching introductory and advanced global health courses.
+- Education: BA (Yale University); MPA (Princeton University, Woodrow Wilson School).
+
+Additional courses offered on Coursera
+- The instructor’s profile lists one course on Coursera:
+  - Essentials of Global Health
+- No additional courses are listed.
+
+Screenshot
+- Saved: test_cases/result_with_screenshot_small/Coursera--34/screenshot_1758047792.png

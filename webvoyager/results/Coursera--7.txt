@@ -1,0 +1,8 @@
+I found an intermediate-level Reinforcement Learning course on Coursera that meets the rating requirement (≥ 4.5):
+
+- Course: Fundamentals of Reinforcement Learning
+- Institution: University of Alberta
+- Number of reviews: 2.9K reviews
+- Rating shown: 4.8
+
+Screenshot: test_cases/result_with_screenshot_small/Coursera--7/screenshot_1757988950.png
