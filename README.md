@@ -6,7 +6,7 @@ Currents Web Agent achieved **state-of-the-art (SOTA)** performance on the **Web
 
 **Web Agent Accuracy**: **98%**
 
-<img src="webvoyager/webagent_scores.png" alt="webagent scores" style="max-width:600px; width:100%; height:auto;" />
+<img src="webvoyager/webagent_scores.png" alt="webagent scores" style="max-width:400px; width:50%; height:auto;" />
 
 ### Accuracy by Website (sorted high → low)
 
