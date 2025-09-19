@@ -4,27 +4,29 @@ Currents Web Agent achieved **state-of-the-art (SOTA)** performance on the **Web
 
 ## Results Overview
 
-- **Web Agent Accuracy**: **97.9%**
+**Web Agent Accuracy**: **98%**
+
+<img src="webvoyager/webagent_scores.png" alt="webagent scores" style="max-width:600px; width:100%; height:auto;" />
 
 ### Accuracy by Website (sorted high → low)
 
-| Website              | Accuracy |
-|----------------------|----------|
-| Allrecipes           | 100.0%   |
-| Amazon               | 100.0%   |
-| Apple                | 100.0%   |
-| ArXiv                | 100.0%   |
-| BBC News             | 100.0%   |
-| Cambridge Dictionary | 100.0%   |
-| GitHub               | 100.0%   |
-| Google Flights       | 100.0%   |
-| Coursera             | 97.5%    |
-| ESPN                 | 97.5%    |
-| Google Search        | 97.5%    |
-| Google Map           | 97.4%    |
-| Huggingface          | 97.2%    |
-| Booking              | 92.5%    |
-| Wolfram Alpha        | 91.3%    |
+| Website              | Currents | Browser-use |
+|----------------------|----------|-------------|
+| Allrecipes           | 100.0%   | 90%         |
+| Amazon               | 100.0%   | 92%         |
+| Apple                | 100.0%   | 91%         |
+| ArXiv                | 100.0%   | 83%         |
+| BBC News             | 100.0%   | 91%         |
+| Cambridge Dictionary | 100.0%   | 91%         |
+| GitHub               | 100.0%   | 92%         |
+| Google Flights       | 100.0%   | 95%         |
+| Coursera             | 97.5%    | 90%         |
+| ESPN                 | 97.5%    | 85%         |
+| Google Search        | 97.5%    | 90%         |
+| Google Map           | 97.4%    | 86%         |
+| Huggingface          | 97.2%    | 100%        |
+| Booking              | 92.5%    | 80%         |
+| Wolfram Alpha        | 91.3%    | 83%         |
 
 The results show that the web agent performs well even on complex and dynamically loaded websites such as Booking and Wolfram Alpha.
 
