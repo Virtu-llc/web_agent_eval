@@ -1,6 +1,9 @@
 # Currents Web Agent
 
-Currents Web Agent achieved **state-of-the-art (SOTA)** performance on the **WebVoyager** benchmark.
+Currents Web Agent achieved **state-of-the-art (SOTA)** performance on the **WebVoyager** benchmark.  
+
+Our system outperforms both browser-use (89%) and OpenAI Operator (87%), setting a new benchmark for web agent capabilities.
+Beyond raw scores, Currents Web Agent demonstrates robust and consistent performance across all evaluated websites, including highly dynamic and interaction-heavy platforms such as Booking.com and Wolfram Alpha. This stability under complex conditions highlights the agent’s generalization ability and reliability in real-world environments, positioning it as a strong foundation for the next generation of web automation and reasoning systems.
 
 ## Results Overview
 
@@ -29,6 +32,32 @@ Currents Web Agent achieved **state-of-the-art (SOTA)** performance on the **Web
 | Wolfram Alpha        | 91.3%    | 83%         |
 
 The results show that the web agent performs well even on complex and dynamically loaded websites such as Booking and Wolfram Alpha.
+
+## Demos
+**task1: Visit the store locator page to find out which Ace Hardware stores in California offer in-store pickup for online orders, then list the store names and addresses. Only use http://acehardware.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.**
+
+_Currents found the store list:_
+
+https://github.com/user-attachments/assets/02e18550-d109-4103-97dc-f0c5b9906649
+
+_OpenAI Operator failed to found the store list:_
+
+
+https://github.com/user-attachments/assets/cf737d1f-d8ce-42d9-b6ed-73a2b197a181
+
+
+
+**task2: Visit Amazon.coms, search an Xbox Wireless controller with green color and rated above 4 stars.**
+
+_Currents web agent found the green  Xbox Wireless controller_
+
+
+https://github.com/user-attachments/assets/8e085713-1a20-4ada-8402-0e61e2626848
+
+_Browser-Use failed to find an Xbox Wireless controller with green color_
+
+
+https://github.com/user-attachments/assets/22423b6b-a011-4065-bd13-efa9f6939344
 
 ## Evaluation Methodology
 
